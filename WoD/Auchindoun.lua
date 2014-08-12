@@ -1,5 +1,5 @@
 --local zone = "Auchindoun"
-local zoneid = TODO
+local zoneid = 984
 
 -- Check Compatibility
 if GridStatusRD_MoP.rd_version < 502 then

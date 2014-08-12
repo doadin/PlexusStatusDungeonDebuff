@@ -1,5 +1,5 @@
 --local zone = "Iron Docks"
-local zoneid = TODO
+local zoneid = 987
 
 -- Check Compatibility
 if GridStatusRD_MoP.rd_version < 502 then

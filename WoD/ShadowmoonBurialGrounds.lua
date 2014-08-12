@@ -1,6 +1,5 @@
 --local zone = "Shadowmoon Burial Grounds"
-local zoneid = TODO
-
+local zoneid = 969
 -- Check Compatibility
 if GridStatusRD_MoP.rd_version < 502 then
 	return

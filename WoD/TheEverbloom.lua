@@ -1,5 +1,5 @@
 --local zone = "The Everbloom"
-local zoneid = TODO
+local zoneid = 1008
 
 -- Check Compatibility
 if GridStatusRD_MoP.rd_version < 502 then
