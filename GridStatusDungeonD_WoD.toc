@@ -1,0 +1,100 @@
+## Interface: 60000
+## Title: GridStatusDungeonDebuff
+## Notes: Complete Debuff List Up To WoD
+## Author: Doadin (Malorne-US)
+## Version: 1.0
+## Grid Author: Pastamancer & Maia
+## Dependencies: GridStatusRaidDebuff
+## X-Curse-Packaged-Version: r1
+## X-Curse-Project-Name: GridStatusDungeonDebuff
+## X-Curse-Project-ID: GridStatusDungeonDebuff
+## X-Curse-Repository-ID: wow/gridstatusdungeond/mainline
+
+CheckCompat.lua
+WoD/Auchindoun.lua
+WoD/BloodmaulSlagMines.lua
+WoD/GrimrailDepot.lua
+WoD/IronDocks.lua
+WoD/ShadowmoonBurialGrounds.lua
+WoD/Skyreach.lua
+WoD/TheEverbloom.lua
+WoD/UpperBlackrockSpire.lua
+
+MoP/ScarletHalls.lua
+MoP/ScarletMonastery.lua
+MoP/Scholomance.lua
+MoP/TempleoftheJadeSerpent.lua
+MoP/StormstoutBrewery.lua
+MoP/Mogu'shanPalace.lua
+MoP/Shado-PanMonastery.lua
+MoP/SiegeofNiuzaoTemple.lua
+MoP/GateoftheSettingSun.lua
+
+Cata/ThroneoftheTides.lua
+Cata/BlackrockCaverns.lua
+Cata/TheStonecore.lua
+Cata/TheVortexPinnacle.lua
+Cata/LostCityoftheTol'vir.lua
+Cata/GrimBatol.lua
+Cata/HallsofOrigination.lua
+Cata/TheDeadmines(Heroic).lua
+Cata/ShadowfangKeep(Heroic).lua
+Cata/Zul'Aman.lua
+Cata/Zul'Gurub.lua
+Cata/EndTime.lua
+Cata/WellofEternity.lua
+Cata/HourofTwilight.lua
+
+Wrath/Ahn'kahet:TheOldKingdom.lua
+Wrath/Azjol-Nerub.lua
+Wrath/Drak'TharonKeep.lua
+Wrath/Gundrak.lua
+Wrath/HallsofLightning.lua
+Wrath/HallsofReflection.lua
+Wrath/HallsofStone.lua
+Wrath/PitofSaron.lua
+Wrath/TheCullingofStratholme.lua
+Wrath/TheForgeofSouls.lua
+Wrath/TheNexus.lua
+Wrath/TheOculus.lua
+Wrath/TheVioletHold.lua
+Wrath/TrialoftheChampion.lua
+Wrath/UtgardeKeep.lua
+Wrath/UtgardePinnacle.lua
+
+BC/AuchenaiCrypts.lua
+BC/HellfireRamparts.lua
+BC/Magisters'Terrsace.lua
+BC/ManaTombs.lua
+BC/OldHillsbradFoothills.lua
+BC/SethekkHalls.lua
+BC/ShadowLabyrinth.lua
+BC/TheArcatraz.lua
+BC/TheBlack Morass.lua
+BC/TheBlood Furnace.lua
+BC/TheBotanica.lua
+BC/TheMechanar.lua
+BC/TheShattered Halls.lua
+BC/TheSlave Pens.lua
+BC/TheSteamvault.lua
+BC/TheUnderbog.lua
+
+Classic/BlackfathomDeeps.lua
+Classic/BlackrockDepths.lua
+Classic/DireMaul.lua
+Classic/Gnomeregan.lua
+Classic/LowerBlackrockSpire.lua
+Classic/Maraudon.lua
+Classic/RagefireChasm.lua
+Classic/RazorfenDowns.lua
+Classic/RazorfenKraul.lua
+Classic/ScarletHalls.lua
+Classic/ScarletMonastery.lua
+Classic/Scholomance.lua
+Classic/Stratholme.lua
+Classic/TheStockade.lua
+Classic/TheTempleofAtal'Hakkar.lua
+Classic/Uldaman.lua
+Classic/WailingCaverns.lua
+Classic/Zul'Farrak.lua
+
