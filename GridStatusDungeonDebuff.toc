@@ -5,7 +5,7 @@
 ## Version: 1.0
 ## Grid Author: Pastamancer & Maia
 ## Dependencies: GridStatusRaidDebuff
-## X-Curse-Packaged-Version: r1
+## X-Curse-Packaged-Version: 1.0
 ## X-Curse-Project-Name: GridStatusDungeonDebuff
 ## X-Curse-Project-ID: GridStatusDungeonDebuff
 ## X-Curse-Repository-ID: wow/gridstatusdungeond/mainline
