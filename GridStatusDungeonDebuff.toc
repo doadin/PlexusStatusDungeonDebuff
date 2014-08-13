@@ -29,3 +29,16 @@ MoP/Mogu'shanPalace.lua
 MoP/Shado-PanMonastery.lua
 MoP/SiegeofNiuzaoTemple.lua
 MoP/GateoftheSettingSun.lua
+
+Cata/ThroneoftheTides.lua
+Cata/BlackrockCaverns.lua
+Cata/TheStonecore.lua
+Cata/TheVortexPinnacle.lua
+Cata/LostCityoftheTol'vir.lua
+Cata/GrimBatol.lua
+Cata/HallsofOrigination.lua
+Cata/Zul'Aman.lua
+Cata/Zul'Gurub.lua
+Cata/EndTime.lua
+Cata/WellofEternity.lua
+Cata/HourofTwilight.lua
