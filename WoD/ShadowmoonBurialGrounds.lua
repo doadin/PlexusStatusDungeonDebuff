@@ -1,7 +1,7 @@
 --local zone = "Shadowmoon Burial Grounds"
 local zoneid = 969
 -- Check Compatibility
-if GridStatusRD_MoP.rd_version < 502 then
+if GridStatusDungeonDebuff < 600 then
 	return
 end
 

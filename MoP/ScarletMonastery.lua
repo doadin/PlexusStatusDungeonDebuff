@@ -2,7 +2,7 @@
 local zoneid = 874
 
 -- Check Compatibility
-if GridStatusRD_MoP.rd_version < 502 then
+if GridStatusDungeonDebuff < 600 then
 	return
 end
 
