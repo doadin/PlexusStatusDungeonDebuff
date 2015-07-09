@@ -2,7 +2,7 @@
 local zoneid = 898
 
 -- Check Compatibility
-if GridStatusDungeonDebuff < 600 then
+if GridStatusRD_WoD.rd_version < 600 then
 	return
 end
 
