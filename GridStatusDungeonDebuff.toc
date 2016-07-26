@@ -1,8 +1,8 @@
-## Interface: 60200
+## Interface: 70300
 ## Title: GridStatusDungeonDebuff
 ## Notes: Complete Debuff List Up To WoD
 ## Author: Doadin (Malorne-US)
-## Version: 1.3
+## Version: 1.4
 ## Grid Author: Pastamancer & Maia
 ## Dependencies: GridStatusRaidDebuff
 ## X-Curse-Packaged-Version: 1.0
