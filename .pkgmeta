@@ -1,0 +1,9 @@
+required-dependencies:
+    - GridStatusRaidDebuff2
+#manual-changelog: 
+#    filename: CHANGELOG.md
+#    markup-type: markdown
+
+ignore:
+   - CHANGELOG.md
+   - desktop.ini
