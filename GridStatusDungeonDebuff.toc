@@ -1,6 +1,6 @@
 ## Interface: 70100
 ## Title: GridStatusDungeonDebuff
-## Notes: Complete Debuff List Up To WoD
+## Notes: Complete Debuff List Up To Legion
 ## Author: Doadin (Malorne-US)
 ## Version: 1.5
 ## Grid Author: Pastamancer & Maia
@@ -42,3 +42,14 @@ Cata/Zul'Gurub.lua
 Cata/EndTime.lua
 Cata/WellofEternity.lua
 Cata/HourofTwilight.lua
+
+Legion/BlackRookHold.lua
+Legion/CourtofStars.lua
+Legion/DarkheartThicket.lua
+Legion/EyeofAzshara.lua
+Legion/HallsofValor.lua
+Legion/MawofSouls.lua
+Legion/Neltharion'sLair.lua
+Legion/TheArcway.lua
+Legion/VaultoftheWardens.lua
+Legion/VioletHold.lua
