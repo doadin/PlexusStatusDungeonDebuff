@@ -12,22 +12,28 @@ end
 --Whole Dungeon/Trash/Mythic Plus
 GridStatusRaidDebuff:DebuffId(zoneid, 209858, 1, 6, 6) --Necrotic Rot
 GridStatusRaidDebuff:DebuffId(zoneid, 159172, 1, 6, 6) --Overflow
+GridStatusRaidDebuff:DebuffId(zoneid, 214692, 1, 6, 6) --Shadow Bolt Volley
+GridStatusRaidDebuff:DebuffId(zoneid, 211464, 1, 6, 6) --Fel Detonation
+GridStatusRaidDebuff:DebuffId(zoneid, 211473, 1, 6, 6) --Shadow Slash
+GridStatusRaidDebuff:DebuffId(zoneid, 207981, 1, 6, 6) --Disintegration Beam
+GridStatusRaidDebuff:DebuffId(zoneid, 211391, 1, 6, 6) --Felblaze Puddle
+GridStatusRaidDebuff:DebuffId(zoneid, 209036, 1, 6, 6) --Throw Torch
+GridStatusRaidDebuff:DebuffId(zoneid, 209378, 1, 6, 6) --Whirling Blades
+GridStatusRaidDebuff:DebuffId(zoneid, 214690, 1, 6, 6) --Cripple
+GridStatusRaidDebuff:DebuffId(zoneid, 209512, 1, 6, 6) --Disrupting Energy
+GridStatusRaidDebuff:DebuffId(zoneid, 209516, 1, 6, 6) --Mana Fang
+GridStatusRaidDebuff:DebuffId(zoneid, 209413, 1, 6, 6) --Suppress
 
---Vigilant Kaathar
---GridStatusRaidDebuff:BossNameId(zoneid, 10, "Vigilant Kaathar")
---GridStatusRaidDebuff:DebuffId(zoneid, 153480, 11, 6, 6) 
+--Patrol Captain Gerdo
+GridStatusRaidDebuff:BossNameId(zoneid, 10, "Patrol Captain Gerdo")
+GridStatusRaidDebuff:DebuffId(zoneid, 207278, 11, 6, 6) --Arcane Lockdown
 
 
---Soulbinder Nyami
---GridStatusRaidDebuff:BossNameId(zoneid, 20, "Soulbinder Nyami")
+--Talixae Flamewreath
+--GridStatusRaidDebuff:BossNameId(zoneid, 20, "Talixae Flamewreath")
 --GridStatusRaidDebuff:DebuffId(zoneid, 154415, 21, 6, 6) 
 
 
---Azzakel
---GridStatusRaidDebuff:BossNameId(zoneid, 30, "Azzakel")
---GridStatusRaidDebuff:DebuffId(zoneid, 153234, 31, 6, 6)
-
-
---Teron'gor
---GridStatusRaidDebuff:BossNameId(zoneid, 40, "Teron'gor")
---GridStatusRaidDebuff:DebuffId(zoneid, 156829, 41, 6, 6)
+--Advisor Melandrus
+GridStatusRaidDebuff:BossNameId(zoneid, 30, "Advisor Melandrus")
+GridStatusRaidDebuff:DebuffId(zoneid, 209667, 31, 6, 6) --Blade Surge
