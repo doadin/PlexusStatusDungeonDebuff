@@ -47,4 +47,4 @@ GridStatusRaidDebuff:DebuffId(zoneid, 192519, 41, 6, 6) --Lava
 
 --Cordana Felsong
 GridStatusRaidDebuff:BossNameId(zoneid, 50, "Cordana Felsong")
-GridStatusRaidDebuff:DebuffId(zoneid, 213395, 41, 6, 6) --Deepening Shadows
+GridStatusRaidDebuff:DebuffId(zoneid, 213395, 51, 6, 6) --Deepening Shadows
