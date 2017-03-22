@@ -12,22 +12,25 @@ end
 --Whole Dungeon/Trash/Mythic Plus
 GridStatusRaidDebuff:DebuffId(zoneid, 209858, 1, 6, 6) --Necrotic Rot
 GridStatusRaidDebuff:DebuffId(zoneid, 159172, 1, 6, 6) --Overflow
+GridStatusRaidDebuff:DebuffId(zoneid, 196064, 1, 6, 6) --Tearing Bite
+GridStatusRaidDebuff:DebuffId(zoneid, 195105, 1, 6, 6) --Crunching Bite
+GridStatusRaidDebuff:DebuffId(zoneid, 196111, 1, 6, 6) --Jagged Claws
+GridStatusRaidDebuff:DebuffId(zoneid, 196058, 1, 6, 6) --Lethargic Toxin
+GridStatusRaidDebuff:DebuffId(zoneid, 196060, 1, 6, 6) --Numbing Toxin
 
---Vigilant Kaathar
---GridStatusRaidDebuff:BossNameId(zoneid, 10, "Vigilant Kaathar")
---GridStatusRaidDebuff:DebuffId(zoneid, 153480, 11, 6, 6) 
-
-
---Soulbinder Nyami
---GridStatusRaidDebuff:BossNameId(zoneid, 20, "Soulbinder Nyami")
---GridStatusRaidDebuff:DebuffId(zoneid, 154415, 21, 6, 6) 
-
-
---Azzakel
---GridStatusRaidDebuff:BossNameId(zoneid, 30, "Azzakel")
---GridStatusRaidDebuff:DebuffId(zoneid, 153234, 31, 6, 6)
+--Lady Hatecoil
+GridStatusRaidDebuff:BossNameId(zoneid, 10, "Warlord Parjesh")
+GridStatusRaidDebuff:DebuffId(zoneid, 192131, 11, 6, 6) --Throw Spear
+GridStatusRaidDebuff:DebuffId(zoneid, 192094, 11, 6, 6) --Impaling Spear
+--Hatecoil Warrior
+GridStatusRaidDebuff:DebuffId(zoneid, 195094, 12, 6, 6) --Coral Slash
 
 
---Teron'gor
---GridStatusRaidDebuff:BossNameId(zoneid, 40, "Teron'gor")
---GridStatusRaidDebuff:DebuffId(zoneid, 156829, 41, 6, 6)
+--Lady Hatecoil
+GridStatusRaidDebuff:BossNameId(zoneid, 20, "Lady Hatecoil")
+GridStatusRaidDebuff:DebuffId(zoneid, 193698, 21, 6, 6) --Curse of the Witch
+
+
+--Serpentrix
+GridStatusRaidDebuff:BossNameId(zoneid, 30, "Serpentrix")
+GridStatusRaidDebuff:DebuffId(zoneid, 191855, 31, 6, 6) --toxic-wound
