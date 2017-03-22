@@ -21,9 +21,9 @@ GridStatusRaidDebuff:DebuffId(zoneid, 196060, 1, 6, 6) --Numbing Toxin
 --Lady Hatecoil
 GridStatusRaidDebuff:BossNameId(zoneid, 10, "Warlord Parjesh")
 GridStatusRaidDebuff:DebuffId(zoneid, 192131, 11, 6, 6) --Throw Spear
-GridStatusRaidDebuff:DebuffId(zoneid, 192094, 11, 6, 6) --Impaling Spear
+GridStatusRaidDebuff:DebuffId(zoneid, 192094, 12, 6, 6) --Impaling Spear
 --Hatecoil Warrior
-GridStatusRaidDebuff:DebuffId(zoneid, 195094, 12, 6, 6) --Coral Slash
+GridStatusRaidDebuff:DebuffId(zoneid, 195094, 13, 6, 6) --Coral Slash
 
 
 --Lady Hatecoil
