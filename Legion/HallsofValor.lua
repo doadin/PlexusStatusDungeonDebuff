@@ -12,22 +12,34 @@ end
 --Whole Dungeon/Trash/Mythic Plus
 GridStatusRaidDebuff:DebuffId(zoneid, 209858, 1, 6, 6) --Necrotic Rot
 GridStatusRaidDebuff:DebuffId(zoneid, 159172, 1, 6, 6) --Overflow
+GridStatusRaidDebuff:DebuffId(zoneid, 199050, 1, 6, 6) --Mortal Hew
+GridStatusRaidDebuff:DebuffId(zoneid, 199652, 1, 6, 6) --Sever
+GridStatusRaidDebuff:DebuffId(zoneid, 198944, 1, 6, 6) --Breach Armor
+GridStatusRaidDebuff:DebuffId(zoneid, 215430, 1, 6, 6) --Thunderstrike
+GridStatusRaidDebuff:DebuffId(zoneid, 199674, 1, 6, 6) --Wicked Dagger
+GridStatusRaidDebuff:DebuffId(zoneid, 199818, 1, 6, 6) --Crackle
+GridStatusRaidDebuff:DebuffId(zoneid, 198959, 1, 6, 6) --Etch
+GridStatusRaidDebuff:DebuffId(zoneid, 193702, 1, 6, 6) --Infernal Flames
 
---Vigilant Kaathar
---GridStatusRaidDebuff:BossNameId(zoneid, 10, "Vigilant Kaathar")
---GridStatusRaidDebuff:DebuffId(zoneid, 153480, 11, 6, 6) 
+--Hymdall
+GridStatusRaidDebuff:BossNameId(zoneid, 10, "Hymdall")
+GridStatusRaidDebuff:DebuffId(zoneid, 193092, 11, 6, 6) --Bloodletting Sweep
 
 
---Soulbinder Nyami
---GridStatusRaidDebuff:BossNameId(zoneid, 20, "Soulbinder Nyami")
+--Hyrja
+--GridStatusRaidDebuff:BossNameId(zoneid, 20, "Hyrja")
 --GridStatusRaidDebuff:DebuffId(zoneid, 154415, 21, 6, 6) 
 
 
---Azzakel
---GridStatusRaidDebuff:BossNameId(zoneid, 30, "Azzakel")
---GridStatusRaidDebuff:DebuffId(zoneid, 153234, 31, 6, 6)
+--Fenryr
+GridStatusRaidDebuff:BossNameId(zoneid, 30, "Fenryr")
+GridStatusRaidDebuff:DebuffId(zoneid, 196497, 31, 6, 6) --Ravenous Leap
 
 
---Teron'gor
---GridStatusRaidDebuff:BossNameId(zoneid, 40, "Teron'gor")
+--God-King Skovald
+--GridStatusRaidDebuff:BossNameId(zoneid, 40, "God-King Skovald")
 --GridStatusRaidDebuff:DebuffId(zoneid, 156829, 41, 6, 6)
+
+--Odyn
+--GridStatusRaidDebuff:BossNameId(zoneid, 50, "Odyn")
+--GridStatusRaidDebuff:DebuffId(zoneid, 156829, 51, 6, 6)
