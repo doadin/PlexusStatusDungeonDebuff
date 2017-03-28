@@ -12,22 +12,31 @@ end
 --Whole Dungeon/Trash/Mythic Plus
 GridStatusRaidDebuff:DebuffId(zoneid, 209858, 1, 6, 6) --Necrotic Rot
 GridStatusRaidDebuff:DebuffId(zoneid, 159172, 1, 6, 6) --Overflow
+GridStatusRaidDebuff:DebuffId(zoneid, 194674, 1, 6, 6) --Barbed Spear
+GridStatusRaidDebuff:DebuffId(zoneid, 200208, 1, 6, 6) --Brackwater Blast
+GridStatusRaidDebuff:DebuffId(zoneid, 195279, 1, 6, 6) --Bind
+GridStatusRaidDebuff:DebuffId(zoneid, 185539, 1, 6, 6) --Rapid Rupture
+GridStatusRaidDebuff:DebuffId(zoneid, 194640, 1, 6, 6) --Curse of Hope
+GridStatusRaidDebuff:DebuffId(zoneid, 198374, 1, 6, 6) --Hamstring
+GridStatusRaidDebuff:DebuffId(zoneid, 225778, 1, 6, 6) --Backlash
+GridStatusRaidDebuff:DebuffId(zoneid, 194099, 1, 6, 6) --Bile Breath
+GridStatusRaidDebuff:DebuffId(zoneid, 199185, 1, 6, 6) --Ravenous Bite
+GridStatusRaidDebuff:DebuffId(zoneid, 198944, 1, 6, 6) --Breach Armor
+GridStatusRaidDebuff:DebuffId(zoneid, 194102, 1, 6, 6) --Poisonous Sludge
+GridStatusRaidDebuff:DebuffId(zoneid, 194657, 1, 6, 6) --Soul Siphon
+GridStatusRaidDebuff:DebuffId(zoneid, 201566, 1, 6, 6) --Swirling Muck
 
---Vigilant Kaathar
---GridStatusRaidDebuff:BossNameId(zoneid, 10, "Vigilant Kaathar")
+--Ymiron, the Fallen King
+--GridStatusRaidDebuff:BossNameId(zoneid, 10, "Ymiron, the Fallen King")
 --GridStatusRaidDebuff:DebuffId(zoneid, 153480, 11, 6, 6) 
 
 
---Soulbinder Nyami
---GridStatusRaidDebuff:BossNameId(zoneid, 20, "Soulbinder Nyami")
---GridStatusRaidDebuff:DebuffId(zoneid, 154415, 21, 6, 6) 
+--Harbaron
+GridStatusRaidDebuff:BossNameId(zoneid, 20, "Harbaron")
+GridStatusRaidDebuff:DebuffId(zoneid, 194327, 21, 6, 6) --Fragment
+GridStatusRaidDebuff:DebuffId(zoneid, 194235, 22, 6, 6) --Nether Rip
 
 
---Azzakel
---GridStatusRaidDebuff:BossNameId(zoneid, 30, "Azzakel")
---GridStatusRaidDebuff:DebuffId(zoneid, 153234, 31, 6, 6)
-
-
---Teron'gor
---GridStatusRaidDebuff:BossNameId(zoneid, 40, "Teron'gor")
---GridStatusRaidDebuff:DebuffId(zoneid, 156829, 41, 6, 6)
+--Helya
+GridStatusRaidDebuff:BossNameId(zoneid, 30, "Helya")
+GridStatusRaidDebuff:DebuffId(zoneid, 197262, 31, 6, 6) --Taint of the Sea
