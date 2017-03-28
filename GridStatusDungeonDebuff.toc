@@ -1,4 +1,4 @@
-## Interface: 70100
+## Interface: 70200
 ## Title: GridStatusDungeonDebuff
 ## Notes: Complete Debuff List Up To Legion
 ## Author: Doadin (Malorne-US)
