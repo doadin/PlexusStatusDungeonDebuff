@@ -12,6 +12,8 @@ end
 --Whole Dungeon/Trash/Mythic Plus
 GridStatusRaidDebuff:DebuffId(zoneid, 209858, 1, 6, 6) --Necrotic Rot
 GridStatusRaidDebuff:DebuffId(zoneid, 159172, 1, 6, 6) --Overflow
+--GridStatusRaidDebuff:DebuffId(zoneid, 159172, 1, 6, 6) --Bursting
+--GridStatusRaidDebuff:DebuffId(zoneid, 159172, 1, 6, 6) --Grievous
 GridStatusRaidDebuff:DebuffId(zoneid, 225963, 1, 6, 6) --Bloodthirsty Leap
 GridStatusRaidDebuff:DebuffId(zoneid, 225909, 1, 6, 6) --Soul Venom
 GridStatusRaidDebuff:DebuffId(zoneid, 214002, 1, 6, 6) --Raven's Dive

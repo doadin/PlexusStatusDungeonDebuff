@@ -12,6 +12,8 @@ end
 --Whole Dungeon/Trash/Mythic Plus
 GridStatusRaidDebuff:DebuffId(zoneid, 209858, 1, 6, 6) --Necrotic Rot
 GridStatusRaidDebuff:DebuffId(zoneid, 159172, 1, 6, 6) --Overflow
+--GridStatusRaidDebuff:DebuffId(zoneid, 159172, 1, 6, 6) --Bursting
+--GridStatusRaidDebuff:DebuffId(zoneid, 159172, 1, 6, 6) --Grievous
 GridStatusRaidDebuff:DebuffId(zoneid, 200154, 1, 6, 6) --Burning Hatred
 GridStatusRaidDebuff:DebuffId(zoneid, 202231, 1, 6, 6) --Leech
 GridStatusRaidDebuff:DebuffId(zoneid, 192800, 1, 6, 6) --Choking Dust

@@ -12,6 +12,8 @@ end
 --Whole Dungeon/Trash/Mythic Plus
 GridStatusRaidDebuff:DebuffId(zoneid, 209858, 1, 6, 6) --Necrotic Rot
 GridStatusRaidDebuff:DebuffId(zoneid, 159172, 1, 6, 6) --Overflow
+--GridStatusRaidDebuff:DebuffId(zoneid, 159172, 1, 6, 6) --Bursting
+--GridStatusRaidDebuff:DebuffId(zoneid, 159172, 1, 6, 6) --Grievous
 GridStatusRaidDebuff:DebuffId(zoneid, 200580, 1, 6, 6) --Maddening Roar
 GridStatusRaidDebuff:DebuffId(zoneid, 200642, 1, 6, 6) --Despair
 GridStatusRaidDebuff:DebuffId(zoneid, 225484, 1, 6, 6) --Grievous Rip
