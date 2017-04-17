@@ -13,7 +13,7 @@ end
 GridStatusRaidDebuff:DebuffId(zoneid, 209858, 1, 6, 6) --Necrotic Rot
 GridStatusRaidDebuff:DebuffId(zoneid, 159172, 1, 6, 6) --Overflow
 --GridStatusRaidDebuff:DebuffId(zoneid, 159172, 1, 6, 6) --Bursting
---GridStatusRaidDebuff:DebuffId(zoneid, 159172, 1, 6, 6) --Grievous
+GridStatusRaidDebuff:DebuffId(zoneid, 240559, 1, 6, 6) --Grievous
 GridStatusRaidDebuff:DebuffId(zoneid, 199050, 1, 6, 6) --Mortal Hew
 GridStatusRaidDebuff:DebuffId(zoneid, 199652, 1, 6, 6) --Sever
 GridStatusRaidDebuff:DebuffId(zoneid, 198944, 1, 6, 6) --Breach Armor

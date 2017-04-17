@@ -13,7 +13,7 @@ end
 GridStatusRaidDebuff:DebuffId(zoneid, 209858, 1, 6, 6) --Necrotic Rot
 GridStatusRaidDebuff:DebuffId(zoneid, 159172, 1, 6, 6) --Overflow
 --GridStatusRaidDebuff:DebuffId(zoneid, 159172, 1, 6, 6) --Bursting
---GridStatusRaidDebuff:DebuffId(zoneid, 159172, 1, 6, 6) --Grievous
+GridStatusRaidDebuff:DebuffId(zoneid, 240559, 1, 6, 6) --Grievous
 GridStatusRaidDebuff:DebuffId(zoneid, 196064, 1, 6, 6) --Tearing Bite
 GridStatusRaidDebuff:DebuffId(zoneid, 195105, 1, 6, 6) --Crunching Bite
 GridStatusRaidDebuff:DebuffId(zoneid, 196111, 1, 6, 6) --Jagged Claws
