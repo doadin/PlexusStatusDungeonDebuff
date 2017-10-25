@@ -10,10 +10,10 @@ end
 --true, true is for stackable
 
 --Whole Dungeon/Trash/Mythic Plus
-GridStatusRaidDebuff:DebuffId(zoneid, 209858, 1, 6, 6) --Necrotic Rot
-GridStatusRaidDebuff:DebuffId(zoneid, 159172, 1, 6, 6) --Overflow
---GridStatusRaidDebuff:DebuffId(zoneid, 159172, 1, 6, 6) --Bursting
-GridStatusRaidDebuff:DebuffId(zoneid, 240559, 1, 6, 6) --Grievous
+GridStatusRaidDebuff:DebuffId(zoneid, 209858, 1, 6, 6, false, true) --Necrotic Rot
+GridStatusRaidDebuff:DebuffId(zoneid, 240443, 1, 6, 6, false, true) --Bursting
+GridStatusRaidDebuff:DebuffId(zoneid, 240559, 1, 6, 6, false, true) --Grievous
+GridStatusRaidDebuff:DebuffId(zoneid, 226512, 1, 6, 6) --Sanguine Ichor
 GridStatusRaidDebuff:DebuffId(zoneid, 194674, 1, 6, 6) --Barbed Spear
 GridStatusRaidDebuff:DebuffId(zoneid, 200208, 1, 6, 6) --Brackwater Blast
 GridStatusRaidDebuff:DebuffId(zoneid, 195279, 1, 6, 6) --Bind

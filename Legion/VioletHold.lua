@@ -10,10 +10,10 @@ end
 --true, true is for stackable
 
 --Whole Dungeon/Trash/Mythic Plus
-GridStatusRaidDebuff:DebuffId(zoneid, 209858, 1, 6, 6) --Necrotic Rot
-GridStatusRaidDebuff:DebuffId(zoneid, 159172, 1, 6, 6) --Overflow
---GridStatusRaidDebuff:DebuffId(zoneid, 159172, 1, 6, 6) --Bursting
-GridStatusRaidDebuff:DebuffId(zoneid, 240559, 1, 6, 6) --Grievous
+GridStatusRaidDebuff:DebuffId(zoneid, 209858, 1, 6, 6, false, true) --Necrotic Rot
+GridStatusRaidDebuff:DebuffId(zoneid, 240443, 1, 6, 6, false, true) --Bursting
+GridStatusRaidDebuff:DebuffId(zoneid, 240559, 1, 6, 6, false, true) --Grievous
+GridStatusRaidDebuff:DebuffId(zoneid, 226512, 1, 6, 6) --Sanguine Ichor
 
 --Shivermaw
 --GridStatusRaidDebuff:BossNameId(zoneid, 10, "Shivermaw")
