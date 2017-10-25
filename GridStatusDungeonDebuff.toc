@@ -50,6 +50,7 @@ Legion/EyeofAzshara.lua
 Legion/HallsofValor.lua
 Legion/MawofSouls.lua
 Legion/Neltharion'sLair.lua
+Legion/SeatoftheTriumvirate.lua
 Legion/TheArcway.lua
 Legion/VaultoftheWardens.lua
 Legion/VioletHold.lua
