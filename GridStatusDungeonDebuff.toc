@@ -48,6 +48,7 @@ Legion/CourtofStars.lua
 Legion/DarkheartThicket.lua
 Legion/EyeofAzshara.lua
 Legion/HallsofValor.lua
+Legion/Karazhan.lua
 Legion/MawofSouls.lua
 Legion/Neltharion'sLair.lua
 Legion/SeatoftheTriumvirate.lua
