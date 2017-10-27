@@ -44,6 +44,7 @@ Cata/WellofEternity.lua
 Cata/HourofTwilight.lua
 
 Legion/BlackRookHold.lua
+Legion/CathedralofEternalNight.lua
 Legion/CourtofStars.lua
 Legion/DarkheartThicket.lua
 Legion/EyeofAzshara.lua

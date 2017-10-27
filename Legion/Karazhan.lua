@@ -1,5 +1,5 @@
---local zone = "The Seat of the Triumvirate"
-local zoneid = 1178
+--local zone = "Karazhan"
+local zoneid = 1115
 
 -- Check Compatibility
 if GridStatusRD_WoD.rd_version < 600 then
