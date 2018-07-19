@@ -1,5 +1,5 @@
 --local zone = "Shado-Pan Monastery"
-local zoneid = 877
+local zoneid = 443
 
 -- Check Compatibility
 if GridStatusRD_WoD.rd_version < 600 then

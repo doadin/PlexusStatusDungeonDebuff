@@ -1,5 +1,5 @@
 --local zone = "Scarlet Halls"
-local zoneid = 871
+local zoneid = 431
 
 -- Check Compatibility
 if GridStatusRD_WoD.rd_version < 600 then

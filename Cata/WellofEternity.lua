@@ -1,5 +1,5 @@
 --local zone = "Gate of the Setting Sun"
-local zoneid = 816
+local zoneid = 398
 
 -- Check Compatibility
 if GridStatusRD_WoD.rd_version < 600 then

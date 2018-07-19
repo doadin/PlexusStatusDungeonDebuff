@@ -1,5 +1,5 @@
 --local zone = "Neltharion's Lair"
-local zoneid = 1065
+local zoneid = 731
 
 -- Check Compatibility
 if GridStatusRD_WoD.rd_version < 600 then

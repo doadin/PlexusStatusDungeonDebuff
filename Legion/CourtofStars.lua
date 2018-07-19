@@ -1,5 +1,5 @@
 --local zone = "Court of Stars"
-local zoneid = 1087
+local zoneid = 761
 
 -- Check Compatibility
 if GridStatusRD_WoD.rd_version < 600 then

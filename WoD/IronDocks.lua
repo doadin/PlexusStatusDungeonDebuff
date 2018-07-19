@@ -1,5 +1,5 @@
 --local zone = "Iron Docks"
-local zoneid = 987
+local zoneid = 595
 
 -- Check Compatibility
 if GridStatusRD_WoD.rd_version < 600 then

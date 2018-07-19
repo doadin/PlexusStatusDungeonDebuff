@@ -1,5 +1,5 @@
 --local zone = "Karazhan"
-local zoneid = 1115
+local zoneid = 812
 
 -- Check Compatibility
 if GridStatusRD_WoD.rd_version < 600 then

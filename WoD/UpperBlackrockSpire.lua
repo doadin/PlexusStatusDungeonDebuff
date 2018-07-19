@@ -1,5 +1,5 @@
 --local zone = "Upper Blackrock Spire"
-local zoneid = 995
+local zoneid = 617
 
 -- Check Compatibility
 if GridStatusRD_WoD.rd_version < 600 then

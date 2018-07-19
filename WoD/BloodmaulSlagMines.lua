@@ -1,5 +1,5 @@
 --local zone = "Bloodmaul Slag Mines"
-local zoneid = 964
+local zoneid = 573
 
 -- Check Compatibility
 if GridStatusRD_WoD.rd_version < 600 then

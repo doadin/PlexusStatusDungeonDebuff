@@ -1,5 +1,5 @@
 --local zone = "Darkheart Thicket"
-local zoneid = 1067
+local zoneid = 733
 
 -- Check Compatibility
 if GridStatusRD_WoD.rd_version < 600 then

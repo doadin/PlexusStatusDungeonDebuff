@@ -1,5 +1,5 @@
 --local zone = "The Everbloom"
-local zoneid = 1008
+local zoneid = 620
 
 -- Check Compatibility
 if GridStatusRD_WoD.rd_version < 600 then

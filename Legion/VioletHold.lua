@@ -1,5 +1,5 @@
 --local zone = "Violet Hold"
-local zoneid = 1066
+local zoneid = 732
 
 -- Check Compatibility
 if GridStatusRD_WoD.rd_version < 600 then

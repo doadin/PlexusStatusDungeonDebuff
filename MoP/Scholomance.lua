@@ -1,5 +1,5 @@
 --local zone = "Scholomance"
-local zoneid = 898
+local zoneid = 476
 
 -- Check Compatibility
 if GridStatusRD_WoD.rd_version < 600 then

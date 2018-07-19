@@ -1,5 +1,5 @@
 --local zone = "Grimrail Depot"
-local zoneid = 993
+local zoneid = 606
 
 -- Check Compatibility
 if GridStatusRD_WoD.rd_version < 600 then

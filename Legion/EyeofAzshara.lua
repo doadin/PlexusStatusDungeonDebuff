@@ -1,5 +1,5 @@
 --local zone = "Eye of Azshara"
-local zoneid = 1046
+local zoneid = 713
 
 -- Check Compatibility
 if GridStatusRD_WoD.rd_version < 600 then

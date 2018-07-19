@@ -1,5 +1,5 @@
 --local zone = "Auchindoun"
-local zoneid = 984
+local zoneid = 593
 
 -- Check Compatibility
 if GridStatusRD_WoD.rd_version < 600 then

@@ -1,5 +1,5 @@
 --local zone = "The Arcway"
-local zoneid = 1079
+local zoneid = 749
 
 -- Check Compatibility
 if GridStatusRD_WoD.rd_version < 600 then

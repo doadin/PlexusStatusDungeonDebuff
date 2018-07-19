@@ -1,5 +1,5 @@
 --local zone = "Maw of Souls"
-local zoneid = 1042
+local zoneid = 706
 
 -- Check Compatibility
 if GridStatusRD_WoD.rd_version < 600 then

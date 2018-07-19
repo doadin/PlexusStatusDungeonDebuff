@@ -1,5 +1,5 @@
 --local zone = "Shadowmoon Burial Grounds"
-local zoneid = 969
+local zoneid = 574
 -- Check Compatibility
 if GridStatusRD_WoD.rd_version < 600 then
 	return

@@ -1,5 +1,5 @@
 --local zone = "Skyreach"
-local zoneid = 989
+local zoneid = 601
 
 -- Check Compatibility
 if GridStatusRD_WoD.rd_version < 600 then

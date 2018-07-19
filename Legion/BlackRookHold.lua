@@ -1,5 +1,5 @@
 --local zone = "Black Rook Hold"
-local zoneid = 1081
+local zoneid = 751
 
 -- Check Compatibility
 if GridStatusRD_WoD.rd_version < 600 then
