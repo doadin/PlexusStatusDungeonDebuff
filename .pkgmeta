@@ -7,3 +7,4 @@ required-dependencies:
 ignore:
    - CHANGELOG.md
    - desktop.ini
+   - .pkgmeta
