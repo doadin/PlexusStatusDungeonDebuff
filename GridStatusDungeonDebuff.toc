@@ -2,7 +2,7 @@
 ## Title: GridStatusDungeonDebuff
 ## Notes: Complete Debuff List Up To Legion
 ## Author: tptbk(Doadin-Malorne-US)
-## Version: 8.0.1.3
+## Version: 8.0.1.5
 ## Grid Author: Pastamancer & Maia
 ## Dependencies: Grid, GridStatusRaidDebuff
 ## X-Curse-Project-Name: GridStatusDungeonDebuff
