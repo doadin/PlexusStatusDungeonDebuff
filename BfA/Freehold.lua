@@ -1,6 +1,39 @@
 --local zone = "Freehold"
 local zoneid = 936
 
+GridStatusRaidDebuff:DebuffId(zoneid, 257460, 1, 6, 6, true) --Fiery Debris
+GridStatusRaidDebuff:DebuffId(zoneid, 272374, 1, 6, 6, true) --Whirlpool of Blades
+GridStatusRaidDebuff:DebuffId(zoneid, 276061, 1, 6, 6, true) --Boulder Throw
+GridStatusRaidDebuff:DebuffId(zoneid, 281420, 1, 6, 6, true) --Water Bolt
+GridStatusRaidDebuff:DebuffId(zoneid, 257274, 1, 6, 6, true) --Vile Coating
+GridStatusRaidDebuff:DebuffId(zoneid, 257437, 1, 6, 6, true) --Poisoning Strike
+GridStatusRaidDebuff:DebuffId(zoneid, 257314, 1, 6, 6, true) --Black Powder Bomb
+GridStatusRaidDebuff:DebuffId(zoneid, 257478, 1, 6, 6, true) --Crippling Bite
+GridStatusRaidDebuff:DebuffId(zoneid, 281329, 1, 6, 6, true) --Trade Wind's Vigor
+GridStatusRaidDebuff:DebuffId(zoneid, 274400, 1, 6, 6, true) --Duelist Dash
+GridStatusRaidDebuff:DebuffId(zoneid, 257308, 1, 6, 6, true) --Flaming Shrapnel
+GridStatusRaidDebuff:DebuffId(zoneid, 257871, 1, 6, 6, true) --Blade Barrage
+GridStatusRaidDebuff:DebuffId(zoneid, 257908, 1, 6, 6, true) --Oiled Blade
+GridStatusRaidDebuff:DebuffId(zoneid, 256363, 1, 6, 6, true) --Ripper Punch
+GridStatusRaidDebuff:DebuffId(zoneid, 257949, 1, 6, 6, true) --Slippery
+GridStatusRaidDebuff:DebuffId(zoneid, 274507, 1, 6, 6, true) --Slippery Suds
+GridStatusRaidDebuff:DebuffId(zoneid, 258875, 1, 6, 6, true) --Blackout Barrel
+GridStatusRaidDebuff:DebuffId(zoneid, 268440, 1, 6, 6, true) --Shoot
+GridStatusRaidDebuff:DebuffId(zoneid, 256594, 1, 6, 6, true) --Barrel Smash
+GridStatusRaidDebuff:DebuffId(zoneid, 257775, 1, 6, 6, true) --Plague Step
+GridStatusRaidDebuff:DebuffId(zoneid, 258199, 1, 6, 6, true) --Ground Shatter
+GridStatusRaidDebuff:DebuffId(zoneid, 257739, 1, 6, 6, true) --Blind Rage
+GridStatusRaidDebuff:DebuffId(zoneid, 257747, 1, 6, 6, true) --Earth Shaker
+GridStatusRaidDebuff:DebuffId(zoneid, 257784, 1, 6, 6, true) --Frost Blast
+GridStatusRaidDebuff:DebuffId(zoneid, 257732, 1, 6, 6, true) --Shattering Bellow
+GridStatusRaidDebuff:DebuffId(zoneid, 258352, 1, 6, 6, true) --Grapeshot
+GridStatusRaidDebuff:DebuffId(zoneid, 258323, 1, 6, 6, true) --Infected Wound
+GridStatusRaidDebuff:DebuffId(zoneid, 257426, 1, 6, 6, true) --Brutal Backhand
+GridStatusRaidDebuff:DebuffId(zoneid, 257757, 1, 6, 6, true) --Goin' Bananas
+GridStatusRaidDebuff:DebuffId(zoneid, 267523, 1, 6, 6, true) --Cutting Surge
+GridStatusRaidDebuff:DebuffId(zoneid, 274389, 1, 6, 6, true) --Rat Traps
+GridStatusRaidDebuff:DebuffId(zoneid, 258779, 1, 6, 6, true) --Sea Spout
+
 --Skycap'n Kragg
 GridStatusRaidDebuff:BossNameId(zoneid, 10, "Skycap'n Kragg")
 GridStatusRaidDebuff:DebuffId(zoneid, 256106, 11, 6, 6, true) --Azerite Powder Shot
