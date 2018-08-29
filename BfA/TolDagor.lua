@@ -1,5 +1,27 @@
 --local zone = "Tol Dagor"
-local zoneid = 1041
+local zoneid = 974
+
+--trash
+GridStatusRaidDebuff:DebuffId(zoneid, 258313, 1, 6, 6, true)  --Handcuff
+GridStatusRaidDebuff:DebuffId(zoneid, 258938, 1, 6, 6, true)  --Inner Flames
+GridStatusRaidDebuff:DebuffId(zoneid, 224127, 1, 6, 6, true)  --Crackling Surge
+GridStatusRaidDebuff:DebuffId(zoneid, 258864, 1, 6, 6, true)  --Suppression Fire
+GridStatusRaidDebuff:DebuffId(zoneid, 185857, 1, 6, 6, true)  --Shoot
+GridStatusRaidDebuff:DebuffId(zoneid, 224125, 1, 6, 6, true)  --Molten Weapon
+GridStatusRaidDebuff:DebuffId(zoneid, 257028, 1, 6, 6, true)  --Fuselighter
+GridStatusRaidDebuff:DebuffId(zoneid, 190185, 1, 6, 6, true)  --Feral Spirit
+GridStatusRaidDebuff:DebuffId(zoneid, 256083, 1, 6, 6, true)  --Cross Ignition
+GridStatusRaidDebuff:DebuffId(zoneid, 258150, 1, 6, 6, true)  --Salt Blast
+GridStatusRaidDebuff:DebuffId(zoneid, 257793, 1, 6, 6, true)  --Smoke Powder
+GridStatusRaidDebuff:DebuffId(zoneid, 265889, 1, 6, 6, true)  --Torch Strike
+GridStatusRaidDebuff:DebuffId(zoneid, 256105, 1, 6, 6, true)  --Explosive Burst
+GridStatusRaidDebuff:DebuffId(zoneid, 258917, 1, 6, 6, true)  --Righteous Flames
+GridStatusRaidDebuff:DebuffId(zoneid, 258128, 1, 6, 6, true)  --Debilitating Shout
+GridStatusRaidDebuff:DebuffId(zoneid, 259711, 1, 6, 6, true)  --Lockdown
+GridStatusRaidDebuff:DebuffId(zoneid, 257777, 1, 6, 6, true)  --Crippling Shiv
+GridStatusRaidDebuff:DebuffId(zoneid, 272620, 1, 6, 6, true)  --Throw Rock
+GridStatusRaidDebuff:DebuffId(zoneid, 197509, 1, 6, 6, true)  --Bloodworm
+GridStatusRaidDebuff:DebuffId(zoneid, 224126, 1, 6, 6, true)  --Icy Edge
 
 --The Sand Queen
 GridStatusRaidDebuff:BossNameId(zoneid, 10, "The Sand Queen")
