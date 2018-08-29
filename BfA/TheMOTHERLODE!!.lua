@@ -1,6 +1,45 @@
 --local zone = "The MOTHERLODE!!"
 local zoneid = 1010
 
+GridStatusRaidDebuff:DebuffId(zoneid, 262515, 1, 6, 6, true) --Azerite Heartseeker
+GridStatusRaidDebuff:DebuffId(zoneid, 267357, 1, 6, 6, true) --Hail of Flechettes
+GridStatusRaidDebuff:DebuffId(zoneid, 269831, 1, 6, 6, true) --Toxic Sludge
+GridStatusRaidDebuff:DebuffId(zoneid, 262347, 1, 6, 6, true) --Static Pulse
+GridStatusRaidDebuff:DebuffId(zoneid, 263105, 1, 6, 6, true) --Blowtorch
+GridStatusRaidDebuff:DebuffId(zoneid, 269092, 1, 6, 6, true) --Artillery Barrage
+GridStatusRaidDebuff:DebuffId(zoneid, 262811, 1, 6, 6, true) --Leech Globule
+GridStatusRaidDebuff:DebuffId(zoneid, 268365, 1, 6, 6, true) --Mining Charge
+GridStatusRaidDebuff:DebuffId(zoneid, 269298, 1, 6, 6, true) --Widowmaker Toxin
+GridStatusRaidDebuff:DebuffId(zoneid, 262263, 1, 6, 6, true) --Volatile Blood
+GridStatusRaidDebuff:DebuffId(zoneid, 257544, 1, 6, 6, true) --Jagged Cut
+GridStatusRaidDebuff:DebuffId(zoneid, 262287, 1, 6, 6, true) --Concussion Charge
+GridStatusRaidDebuff:DebuffId(zoneid, 260279, 1, 6, 6, true) --Gatling Gun
+GridStatusRaidDebuff:DebuffId(zoneid, 268722, 1, 6, 6, true) --Earth Shock
+GridStatusRaidDebuff:DebuffId(zoneid, 268797, 1, 6, 6, true) --Transmute: Enemy to Goo
+GridStatusRaidDebuff:DebuffId(zoneid, 262066, 1, 6, 6, true) --Charged Claw
+GridStatusRaidDebuff:DebuffId(zoneid, 268865, 1, 6, 6, true) --Force Cannon
+GridStatusRaidDebuff:DebuffId(zoneid, 270882, 1, 6, 6, true) --Blazing Azerite
+GridStatusRaidDebuff:DebuffId(zoneid, 262348, 1, 6, 6, true) --Mine Blast
+GridStatusRaidDebuff:DebuffId(zoneid, 268704, 1, 6, 6, true) --Furious Quake
+GridStatusRaidDebuff:DebuffId(zoneid, 269429, 1, 6, 6, true) --Charged Shot
+GridStatusRaidDebuff:DebuffId(zoneid, 260318, 1, 6, 6, true) --Alpha Cannon
+GridStatusRaidDebuff:DebuffId(zoneid, 259853, 1, 6, 6, true) --Chemical Burn
+GridStatusRaidDebuff:DebuffId(zoneid, 263637, 1, 6, 6, true) --Clothesline
+GridStatusRaidDebuff:DebuffId(zoneid, 262019, 1, 6, 6, true) --Grease Gun
+GridStatusRaidDebuff:DebuffId(zoneid, 262794, 1, 6, 6, true) --Energy Lash
+GridStatusRaidDebuff:DebuffId(zoneid, 260372, 1, 6, 6, true) --Buster Shot
+GridStatusRaidDebuff:DebuffId(zoneid, 268185, 1, 6, 6, true) --Iced Spritzer
+GridStatusRaidDebuff:DebuffId(zoneid, 259474, 1, 6, 6, true) --Searing Reagent
+GridStatusRaidDebuff:DebuffId(zoneid, 262268, 1, 6, 6, true) --Caustic Compound
+GridStatusRaidDebuff:DebuffId(zoneid, 268417, 1, 6, 6, true) --Power Through
+GridStatusRaidDebuff:DebuffId(zoneid, 263074, 1, 6, 6, true) --Festering Bite
+GridStatusRaidDebuff:DebuffId(zoneid, 275435, 1, 6, 6, true) --Azerite Lance
+GridStatusRaidDebuff:DebuffId(zoneid, 258628, 1, 6, 6, true) --Resonant Quake
+GridStatusRaidDebuff:DebuffId(zoneid, 262377, 1, 6, 6, true) --Seek and Destroy
+GridStatusRaidDebuff:DebuffId(zoneid, 263202, 1, 6, 6, true) --Rock Lance
+GridStatusRaidDebuff:DebuffId(zoneid, 268846, 1, 6, 6, true) --Echo Blade
+GridStatusRaidDebuff:DebuffId(zoneid, 258674, 1, 6, 6, true) --Throw Wrench
+
 --Coin-Operated Crowd Pummeler
 GridStatusRaidDebuff:BossNameId(zoneid, 10, "Coin-Operated Crowd Pummeler")
 GridStatusRaidDebuff:DebuffId(zoneid, 256137, 11, 6, 6, true)  --Timed Detonation 
