@@ -1,8 +1,8 @@
-## Interface: 80000
+## Interface: 80100
 ## Title: GridStatusDungeonDebuff
 ## Notes: Complete Debuff List Up To Legion
 ## Author: tptbk(Doadin-Malorne-US)
-## Version: 8.0.1.5
+## Version: 8.1.0.0
 ## Grid Author: Pastamancer & Maia
 ## Dependencies: Grid, GridStatusRaidDebuff
 ## X-Curse-Project-Name: GridStatusDungeonDebuff
