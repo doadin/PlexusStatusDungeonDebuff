@@ -9,7 +9,6 @@
 ## X-Curse-Project-ID: GridStatusDungeonDebuff
 ## X-Curse-Repository-ID: wow/gridstatusdungeond/mainline
 
-CheckCompat.lua
 WoD/Auchindoun.lua
 WoD/BloodmaulSlagMines.lua
 WoD/GrimrailDepot.lua

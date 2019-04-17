@@ -1,11 +1,6 @@
 --local zone = "Scholomance"
 local zoneid = 476
 
--- Check Compatibility
-if GridStatusRD_WoD.rd_version < 600 then
-	return
-end
-
 -- zoneid, debuffID, order, icon_priority, color_priority, timer, stackable, color, default_disable, noicon
 --true, true is for stackable
 
