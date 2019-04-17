@@ -3,6 +3,7 @@ required-dependencies:
 #manual-changelog: 
 #    filename: CHANGELOG.md
 #    markup-type: markdown
+package-as: GridStatusDungeonDebuff
 
 ignore:
    - CHANGELOG.md
