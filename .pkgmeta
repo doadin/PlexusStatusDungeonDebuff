@@ -1,11 +1,8 @@
 required-dependencies:
     - GridStatusRaidDebuff2
-#manual-changelog: 
-#    filename: CHANGELOG.md
-#    markup-type: markdown
 package-as: GridStatusDungeonDebuff
 
 ignore:
-   - CHANGELOG.md
-   - desktop.ini
    - .pkgmeta
+   - .gitignore
+   - .gitattributes
