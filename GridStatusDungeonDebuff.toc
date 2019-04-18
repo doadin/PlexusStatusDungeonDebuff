@@ -1,34 +1,14 @@
 ## Interface: 80100
 ## Title: GridStatusDungeonDebuff
-## Notes: Complete Debuff List Up To Legion
+## Notes: Complete Debuff List Up To BfA
 ## Author: tptbk(Doadin-Malorne-US)
 ## Version: 8.1.0.0
 ## Grid Author: Pastamancer & Maia
 ## Dependencies: Grid, GridStatusRaidDebuff
 ## X-Curse-Project-Name: GridStatusDungeonDebuff
 ## X-Curse-Project-ID: GridStatusDungeonDebuff
-## X-Curse-Repository-ID: wow/gridstatusdungeond/mainline
 
 Wrath/TheNexus.lua
-
-WoD/Auchindoun.lua
-WoD/BloodmaulSlagMines.lua
-WoD/GrimrailDepot.lua
-WoD/IronDocks.lua
-WoD/ShadowmoonBurialGrounds.lua
-WoD/Skyreach.lua
-WoD/TheEverbloom.lua
-WoD/UpperBlackrockSpire.lua
-
-MoP/ScarletHalls.lua
-MoP/ScarletMonastery.lua
-MoP/Scholomance.lua
-MoP/TempleoftheJadeSerpent.lua
-MoP/StormstoutBrewery.lua
-MoP/Mogu'shanPalace.lua
-MoP/Shado-PanMonastery.lua
-MoP/SiegeofNiuzaoTemple.lua
-MoP/GateoftheSettingSun.lua
 
 Cata/ThroneoftheTides.lua
 Cata/BlackrockCaverns.lua
@@ -42,6 +22,25 @@ Cata/Zul'Gurub.lua
 Cata/EndTime.lua
 Cata/WellofEternity.lua
 Cata/HourofTwilight.lua
+
+MoP/ScarletHalls.lua
+MoP/ScarletMonastery.lua
+MoP/Scholomance.lua
+MoP/TempleoftheJadeSerpent.lua
+MoP/StormstoutBrewery.lua
+MoP/Mogu'shanPalace.lua
+MoP/Shado-PanMonastery.lua
+MoP/SiegeofNiuzaoTemple.lua
+MoP/GateoftheSettingSun.lua
+
+WoD/Auchindoun.lua
+WoD/BloodmaulSlagMines.lua
+WoD/GrimrailDepot.lua
+WoD/IronDocks.lua
+WoD/ShadowmoonBurialGrounds.lua
+WoD/Skyreach.lua
+WoD/TheEverbloom.lua
+WoD/UpperBlackrockSpire.lua
 
 Legion/BlackRookHold.lua
 Legion/CathedralofEternalNight.lua
