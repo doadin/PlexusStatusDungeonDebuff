@@ -12,6 +12,7 @@ BC/ManaTombs.lua
 BC/TheBlackMorass.lua
 
 Wrath/TheNexus.lua
+Wrath/UtgardePinnacle.lua
 
 Cata/ThroneoftheTides.lua
 Cata/BlackrockCaverns.lua
