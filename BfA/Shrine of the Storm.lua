@@ -30,6 +30,22 @@ GridStatusRaidDebuff:DebuffId(zoneid, 274633, 1, 6, 6, true) --Sundering Blow
 GridStatusRaidDebuff:DebuffId(zoneid, 267818, 1, 6, 6, true) --Slicing Blast
 GridStatusRaidDebuff:DebuffId(zoneid, 274792, 1, 6, 6, true) --Bite
 
+GridStatusRaidDebuff:DebuffId(zoneid, 265056, 1, 6, 6, true) --Invigorating Freehold Brew
+GridStatusRaidDebuff:DebuffId(zoneid, 240443, 1, 6, 6, true) --Burst
+GridStatusRaidDebuff:DebuffId(zoneid, 264526, 1, 6, 6, true) --Grasp from the Depths
+GridStatusRaidDebuff:DebuffId(zoneid, 290085, 1, 6, 6, true) --Expel Soul
+GridStatusRaidDebuff:DebuffId(zoneid, 12054, 1, 6, 6, true) --Rend
+GridStatusRaidDebuff:DebuffId(zoneid, 240447, 1, 6, 6, true) --Quake
+GridStatusRaidDebuff:DebuffId(zoneid, 288694, 1, 6, 6, true) --Shadow Smash
+GridStatusRaidDebuff:DebuffId(zoneid, 209858, 1, 6, 6, true) --Necrotic Rot
+GridStatusRaidDebuff:DebuffId(zoneid, 226512, 1, 6, 6, true) --Sanguine Ichor
+GridStatusRaidDebuff:DebuffId(zoneid, 240559, 1, 6, 6, true) --Grievous Wound
+GridStatusRaidDebuff:DebuffId(zoneid, 276268, 1, 6, 6, true) --Heaving Blow
+GridStatusRaidDebuff:DebuffId(zoneid, 276297, 1, 6, 6, true) --Void Seed
+GridStatusRaidDebuff:DebuffId(zoneid, 288388, 1, 6, 6, true) --Reap Soul
+GridStatusRaidDebuff:DebuffId(zoneid, 274714, 1, 6, 6, true) --Twisting Void
+GridStatusRaidDebuff:DebuffId(zoneid, 259618, 1, 6, 6, true) --Gruesome Tear
+
 
 --Aqu'sirr
 GridStatusRaidDebuff:BossNameId(zoneid, 10, "Aqu'sirr")
