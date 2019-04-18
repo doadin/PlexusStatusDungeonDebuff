@@ -24,6 +24,25 @@ GridStatusRaidDebuff:DebuffId(zoneid, 252687, 1, 6, 6, true) --Venomfang Strike
 GridStatusRaidDebuff:DebuffId(zoneid, 252666, 1, 6, 6, true) --Venom-Tipped Blade 
 GridStatusRaidDebuff:DebuffId(zoneid, 255041, 1, 6, 6, true) --Terrifying Screech 
 
+GridStatusRaidDebuff:DebuffId(zoneid, 256577, 1, 6, 6, true) --Soulfeast
+GridStatusRaidDebuff:DebuffId(zoneid, 252692, 1, 6, 6, true) --Waylaying Jab
+GridStatusRaidDebuff:DebuffId(zoneid, 255567, 1, 6, 6, true) --Frenzied Charge
+GridStatusRaidDebuff:DebuffId(zoneid, 290085, 1, 6, 6, true) --Expel Soul
+GridStatusRaidDebuff:DebuffId(zoneid, 240447, 1, 6, 6, true) --Quake
+GridStatusRaidDebuff:DebuffId(zoneid, 240559, 1, 6, 6, true) --Grievous Wound
+GridStatusRaidDebuff:DebuffId(zoneid, 277072, 1, 6, 6, true) --Corrupted Gold
+GridStatusRaidDebuff:DebuffId(zoneid, 258986, 1, 6, 6, true) --Stink Bomb
+GridStatusRaidDebuff:DebuffId(zoneid, 240443, 1, 6, 6, true) --Burst
+GridStatusRaidDebuff:DebuffId(zoneid, 288694, 1, 6, 6, true) --Shadow Smash
+GridStatusRaidDebuff:DebuffId(zoneid, 196189, 1, 6, 6, true) --Bloody Talons
+GridStatusRaidDebuff:DebuffId(zoneid, 255814, 1, 6, 6, true) --Rending Maul
+GridStatusRaidDebuff:DebuffId(zoneid, 209858, 1, 6, 6, true) --Necrotic Rot
+GridStatusRaidDebuff:DebuffId(zoneid, 226512, 1, 6, 6, true) --Sanguine Ichor
+GridStatusRaidDebuff:DebuffId(zoneid, 259130, 1, 6, 6, true) --Tiki Flame
+GridStatusRaidDebuff:DebuffId(zoneid, 255842, 1, 6, 6, true) --Blood-Tainted Cauldron of Gold
+GridStatusRaidDebuff:DebuffId(zoneid, 288388, 1, 6, 6, true) --Reap Soul
+GridStatusRaidDebuff:DebuffId(zoneid, 258723, 1, 6, 6, true) --Grotesque Pool
+
 --Priestess Alun'az
 GridStatusRaidDebuff:BossNameId(zoneid, 10, "Priestess Alun'az")
 GridStatusRaidDebuff:DebuffId(zoneid, 255582, 11, 6, 6, true) --Molten Gold
