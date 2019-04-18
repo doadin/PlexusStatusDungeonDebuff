@@ -4,6 +4,10 @@ local zoneid = 440
 -- zoneid, debuffID, order, icon_priority, color_priority, timer, stackable, color, default_disable, noicon
 --true, true is for stackable
 
+GridStatusRaidDebuff:DebuffId(zoneid, 106857, 1, 6, 6) --Blackout Drunk
+GridStatusRaidDebuff:DebuffId(zoneid, 107046, 1, 6, 6) --Water Strike
+GridStatusRaidDebuff:DebuffId(zoneid, 114291, 1, 6, 6) --Explosive Brew
+
 --Ook-Ook
 GridStatusRaidDebuff:BossNameId(zoneid, 10, "Ook-Ook")
 GridStatusRaidDebuff:DebuffId(zoneid, 106807, 11, 6, 6) 
