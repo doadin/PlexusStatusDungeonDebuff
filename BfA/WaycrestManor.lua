@@ -49,6 +49,27 @@ GridStatusRaidDebuff:DebuffId(zoneid, 264140, 1, 6, 6, true)  --Thorned Claw
 GridStatusRaidDebuff:DebuffId(zoneid, 263905, 1, 6, 6, true)  --Marking Cleave
 GridStatusRaidDebuff:DebuffId(zoneid, 264050, 1, 6, 6, true)  --Infected Thorn
 
+GridStatusRaidDebuff:DebuffId(zoneid, 263891, 1, 6, 6, true) --Grasping Thorns
+GridStatusRaidDebuff:DebuffId(zoneid, 240447, 1, 6, 6, true) --Quake
+GridStatusRaidDebuff:DebuffId(zoneid, 268080, 1, 6, 6, true) --Aura of Apathy
+GridStatusRaidDebuff:DebuffId(zoneid, 264407, 1, 6, 6, true) --Horrific Visage
+GridStatusRaidDebuff:DebuffId(zoneid, 259882, 1, 6, 6, true) --Raw Chicken
+GridStatusRaidDebuff:DebuffId(zoneid, 240559, 1, 6, 6, true) --Grievous Wound
+GridStatusRaidDebuff:DebuffId(zoneid, 265878, 1, 6, 6, true) --Weeping Soul
+GridStatusRaidDebuff:DebuffId(zoneid, 118905, 1, 6, 6, true) --Static Charge
+GridStatusRaidDebuff:DebuffId(zoneid, 278456, 1, 6, 6, true) --Infest
+GridStatusRaidDebuff:DebuffId(zoneid, 265346, 1, 6, 6, true) --Pallid Glare
+GridStatusRaidDebuff:DebuffId(zoneid, 113746, 1, 6, 6, true) --Mystic Touch
+GridStatusRaidDebuff:DebuffId(zoneid, 268086, 1, 6, 6, true) --Aura of Dread
+GridStatusRaidDebuff:DebuffId(zoneid, 209858, 1, 6, 6, true) --Necrotic Wound
+GridStatusRaidDebuff:DebuffId(zoneid, 240443, 1, 6, 6, true) --Burst
+GridStatusRaidDebuff:DebuffId(zoneid, 288694, 1, 6, 6, true) --Shadow Smash
+GridStatusRaidDebuff:DebuffId(zoneid, 268125, 1, 6, 6, true) --Aura of Thorns
+GridStatusRaidDebuff:DebuffId(zoneid, 226512, 1, 6, 6, true) --Sanguine Ichor
+GridStatusRaidDebuff:DebuffId(zoneid, 30213, 1, 6, 6, true) --Legion Strike
+GridStatusRaidDebuff:DebuffId(zoneid, 288388, 1, 6, 6, true) --Reap Soul
+GridStatusRaidDebuff:DebuffId(zoneid, 290085, 1, 6, 6, true) --Expel Soul
+
 --Heartsbane Triad
 GridStatusRaidDebuff:BossNameId(zoneid, 10, "Heartsbane Triad")
 GridStatusRaidDebuff:DebuffId(zoneid, 260741, 11, 6, 6, true)  --Jagged Nettles
