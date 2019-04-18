@@ -8,6 +8,8 @@
 ## X-Curse-Project-Name: GridStatusDungeonDebuff
 ## X-Curse-Project-ID: GridStatusDungeonDebuff
 
+BC/TheBlackMorass.lua
+
 Wrath/TheNexus.lua
 
 Cata/ThroneoftheTides.lua
