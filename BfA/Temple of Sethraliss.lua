@@ -24,6 +24,21 @@ GridStatusRaidDebuff:DebuffId(zoneid, 272655, 1, 6, 6, true) --Scouring Sand
 GridStatusRaidDebuff:DebuffId(zoneid, 268993, 1, 6, 6, true) --Cheap Shot            
 GridStatusRaidDebuff:DebuffId(zoneid, 272658, 1, 6, 6, true) --Electrified Scales    
 
+GridStatusRaidDebuff:DebuffId(zoneid, 263778, 1, 6, 6, true) --Gale Force
+GridStatusRaidDebuff:DebuffId(zoneid, 290085, 1, 6, 6, true) --Expel Soul
+GridStatusRaidDebuff:DebuffId(zoneid, 240447, 1, 6, 6, true) --Quake
+GridStatusRaidDebuff:DebuffId(zoneid, 268008, 1, 6, 6, true) --Snake Charm
+GridStatusRaidDebuff:DebuffId(zoneid, 240559, 1, 6, 6, true) --Grievous Wound
+GridStatusRaidDebuff:DebuffId(zoneid, 240443, 1, 6, 6, true) --Burst
+GridStatusRaidDebuff:DebuffId(zoneid, 288694, 1, 6, 6, true) --Shadow Smash
+GridStatusRaidDebuff:DebuffId(zoneid, 255595, 1, 6, 6, true) --Chomp
+GridStatusRaidDebuff:DebuffId(zoneid, 208086, 1, 6, 6, true) --Colossus Smash
+GridStatusRaidDebuff:DebuffId(zoneid, 288388, 1, 6, 6, true) --Reap Soul
+GridStatusRaidDebuff:DebuffId(zoneid, 270686, 1, 6, 6, true) --Typhus
+GridStatusRaidDebuff:DebuffId(zoneid, 270017, 1, 6, 6, true) --Enforcing Strike
+GridStatusRaidDebuff:DebuffId(zoneid, 226512, 1, 6, 6, true) --Sanguine Ichor
+GridStatusRaidDebuff:DebuffId(zoneid, 273563, 1, 6, 6, true) --Neurotoxin
+
 --Adderis and Aspix
 GridStatusRaidDebuff:BossNameId(zoneid, 10, "Adderis and Aspix")
 GridStatusRaidDebuff:DebuffId(zoneid, 263371, 11, 6, 6, true)  --Conduction 
