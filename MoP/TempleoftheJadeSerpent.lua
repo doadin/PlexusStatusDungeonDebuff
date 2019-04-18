@@ -1,8 +1,14 @@
---local zone = "Gate of the Setting Sun"
+--local zone = "Temple of the Jade Serpent"
 local zoneid = 429
 
 -- zoneid, debuffID, order, icon_priority, color_priority, timer, stackable, color, default_disable, noicon
 --true, true is for stackable
+
+GridStatusRaidDebuff:DebuffId(zoneid, 118714, 1, 6, 6) --Purified Water
+GridStatusRaidDebuff:DebuffId(zoneid, 110125, 1, 6, 6) --Shattered Resolve
+GridStatusRaidDebuff:DebuffId(zoneid, 128051, 1, 6, 6) --Serrated Slash
+GridStatusRaidDebuff:DebuffId(zoneid, 114826, 1, 6, 6) --Songbird Serenade
+GridStatusRaidDebuff:DebuffId(zoneid, 110099, 1, 6, 6) --Shadows of Doubt
 
 --Wise Mari
 GridStatusRaidDebuff:BossNameId(zoneid, 10, "Wise Mari")
