@@ -11,6 +11,7 @@
 BC/ManaTombs.lua
 BC/TheBlackMorass.lua
 
+Wrath/HallsofStone.lua
 Wrath/TheNexus.lua
 Wrath/UtgardePinnacle.lua
 
