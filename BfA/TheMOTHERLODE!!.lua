@@ -40,6 +40,28 @@ GridStatusRaidDebuff:DebuffId(zoneid, 263202, 1, 6, 6, true) --Rock Lance
 GridStatusRaidDebuff:DebuffId(zoneid, 268846, 1, 6, 6, true) --Echo Blade
 GridStatusRaidDebuff:DebuffId(zoneid, 258674, 1, 6, 6, true) --Throw Wrench
 
+GridStatusRaidDebuff:DebuffId(zoneid, 275805, 1, 6, 6, true) --Big Bomb
+GridStatusRaidDebuff:DebuffId(zoneid, 12054, 1, 6, 6, true) --Rend
+GridStatusRaidDebuff:DebuffId(zoneid, 275907, 1, 6, 6, true) --Tectonic Smash
+GridStatusRaidDebuff:DebuffId(zoneid, 84366, 1, 6, 6, true) --Repulsive Gaze
+GridStatusRaidDebuff:DebuffId(zoneid, 263344, 1, 6, 6, true) --Subjugate
+GridStatusRaidDebuff:DebuffId(zoneid, 256445, 1, 6, 6, true) --Venom Spit
+GridStatusRaidDebuff:DebuffId(zoneid, 240559, 1, 6, 6, true) --Grievous Wound
+GridStatusRaidDebuff:DebuffId(zoneid, 209858, 1, 6, 6, true) --Necrotic Wound
+GridStatusRaidDebuff:DebuffId(zoneid, 240443, 1, 6, 6, true) --Burst
+GridStatusRaidDebuff:DebuffId(zoneid, 288694, 1, 6, 6, true) --Shadow Smash
+GridStatusRaidDebuff:DebuffId(zoneid, 270866, 1, 6, 6, true) --Jeweled Pincher
+GridStatusRaidDebuff:DebuffId(zoneid, 240447, 1, 6, 6, true) --Quake
+GridStatusRaidDebuff:DebuffId(zoneid, 275707, 1, 6, 6, true) --Sticky Bomb
+GridStatusRaidDebuff:DebuffId(zoneid, 257371, 1, 6, 6, true) --Tear Gas
+GridStatusRaidDebuff:DebuffId(zoneid, 288388, 1, 6, 6, true) --Reap Soul
+GridStatusRaidDebuff:DebuffId(zoneid, 290085, 1, 6, 6, true) --Expel Soul
+GridStatusRaidDebuff:DebuffId(zoneid, 275885, 1, 6, 6, true) --Massive Streetsweeper
+GridStatusRaidDebuff:DebuffId(zoneid, 280605, 1, 6, 6, true) --Brain Freeze
+GridStatusRaidDebuff:DebuffId(zoneid, 226512, 1, 6, 6, true) --Sanguine Ichor
+GridStatusRaidDebuff:DebuffId(zoneid, 269169, 1, 6, 6, true) --Jagged Hew
+GridStatusRaidDebuff:DebuffId(zoneid, 275616, 1, 6, 6, true) --Azerite Smoke
+
 --Coin-Operated Crowd Pummeler
 GridStatusRaidDebuff:BossNameId(zoneid, 10, "Coin-Operated Crowd Pummeler")
 GridStatusRaidDebuff:DebuffId(zoneid, 256137, 11, 6, 6, true)  --Timed Detonation 
