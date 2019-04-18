@@ -1,5 +1,5 @@
 --local zone = "The Nexus"
-local zoneid = 435
+local zoneid = 129
 
 -- zoneid, debuffID, order, icon_priority, color_priority, timer, stackable, color, default_disable, noicon
 --true, true is for stackable
