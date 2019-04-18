@@ -1,9 +1,20 @@
---local zone = "Gate of the Setting Sun"
+--local zone = "The Stonecore"
 local zoneid = 324
 
 
 -- zoneid, debuffID, order, icon_priority, color_priority, timer, stackable, color, default_disable, noicon
 --true, true is for stackable
+
+GridStatusRaidDebuff:DebuffId(zoneid, 81441, 1, 6, 6) --Shadowfury
+GridStatusRaidDebuff:DebuffId(zoneid, 81440, 1, 6, 6) --Frostbolt Volley
+GridStatusRaidDebuff:DebuffId(zoneid, 81508, 1, 6, 6) --Dust Storm
+GridStatusRaidDebuff:DebuffId(zoneid, 81711, 1, 6, 6) --Fracture
+GridStatusRaidDebuff:DebuffId(zoneid, 80221, 1, 6, 6) --Beat Down
+GridStatusRaidDebuff:DebuffId(zoneid, 80913, 1, 6, 6) --Crystal Shards
+GridStatusRaidDebuff:DebuffId(zoneid, 80151, 1, 6, 6) --Ignite
+GridStatusRaidDebuff:DebuffId(zoneid, 81569, 1, 6, 6) --Spinning Slash
+GridStatusRaidDebuff:DebuffId(zoneid, 80028, 1, 6, 6) --Rock Bore
+GridStatusRaidDebuff:DebuffId(zoneid, 81442, 1, 6, 6) --Fear
 
 --Corborus
 GridStatusRaidDebuff:BossNameId(zoneid, 10, "Corborus")
