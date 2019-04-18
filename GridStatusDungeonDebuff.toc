@@ -13,6 +13,7 @@ BC/TheBlackMorass.lua
 
 Wrath/HallsofStone.lua
 Wrath/TheNexus.lua
+Wrath/UtgardeKeep.lua
 Wrath/UtgardePinnacle.lua
 
 Cata/ThroneoftheTides.lua
