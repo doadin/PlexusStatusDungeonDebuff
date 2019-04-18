@@ -19,6 +19,24 @@ GridStatusRaidDebuff:DebuffId(zoneid, 259711, 1, 6, 6, true)  --Lockdown
 GridStatusRaidDebuff:DebuffId(zoneid, 257777, 1, 6, 6, true)  --Crippling Shiv
 GridStatusRaidDebuff:DebuffId(zoneid, 272620, 1, 6, 6, true)  --Throw Rock
 
+GridStatusRaidDebuff:DebuffId(zoneid, 265271, 1, 6, 6, true) --Sewer Slime"] = 265271,
+GridStatusRaidDebuff:DebuffId(zoneid, 258134, 1, 6, 6, true) --Makeshift Shiv"] = 258134,
+GridStatusRaidDebuff:DebuffId(zoneid, 240447, 1, 6, 6, true) --Quake"] = 240447,
+GridStatusRaidDebuff:DebuffId(zoneid, 258058, 1, 6, 6, true) --Squeeze"] = 258058,
+GridStatusRaidDebuff:DebuffId(zoneid, 240559, 1, 6, 6, true) --Grievous Wound"] = 240559,
+GridStatusRaidDebuff:DebuffId(zoneid, 258079, 1, 6, 6, true) --Massive Chomp"] = 258079,
+GridStatusRaidDebuff:DebuffId(zoneid, 209858, 1, 6, 6, true) --Necrotic Wound"] = 209858,
+GridStatusRaidDebuff:DebuffId(zoneid, 240443, 1, 6, 6, true) --Burst"] = 240443,
+GridStatusRaidDebuff:DebuffId(zoneid, 288694, 1, 6, 6, true) --Shadow Smash"] = 288694,
+GridStatusRaidDebuff:DebuffId(zoneid, 290085, 1, 6, 6, true) --Expel Soul"] = 290085,
+GridStatusRaidDebuff:DebuffId(zoneid, 226512, 1, 6, 6, true) --Sanguine Ichor"] = 226512,
+GridStatusRaidDebuff:DebuffId(zoneid, 256200, 1, 6, 6, true) --Heartstopper Venom"] = 256200,
+GridStatusRaidDebuff:DebuffId(zoneid, 288388, 1, 6, 6, true) --Reap Soul"] = 288388,
+GridStatusRaidDebuff:DebuffId(zoneid, 260016, 1, 6, 6, true) --Itchy Bite"] = 260016,
+GridStatusRaidDebuff:DebuffId(zoneid, 260067, 1, 6, 6, true) --Vicious Mauling"] = 260067,
+GridStatusRaidDebuff:DebuffId(zoneid, 224729, 1, 6, 6, true) --Bursting Shot"] = 224729,
+GridStatusRaidDebuff:DebuffId(zoneid, 257791, 1, 6, 6, true) --Howling Fear"] = 257791,
+
 --The Sand Queen
 GridStatusRaidDebuff:BossNameId(zoneid, 10, "The Sand Queen")
 GridStatusRaidDebuff:DebuffId(zoneid, 259975, 11, 6, 6, true)  --Enrage 
