@@ -14,35 +14,38 @@ GridStatusRaidDebuff:DebuffId(zoneid, 270499, 11, 6, 6, true) --Frost Shock
 GridStatusRaidDebuff:DebuffId(zoneid, 270865, 11, 6, 6, true) --Hidden Blade
 GridStatusRaidDebuff:DebuffId(zoneid, 268796, 11, 6, 6, true) --Impaling Spear
 GridStatusRaidDebuff:DebuffId(zoneid, 266238, 11, 6, 6, true) --Shattered Defenses
-GridStatusRaidDebuff:DebuffId(zoneid, 226512, 11, 6, 6, true) --Sanguine Ichor
 GridStatusRaidDebuff:DebuffId(zoneid, 267273, 11, 6, 6, true) --Poison Nova
 GridStatusRaidDebuff:DebuffId(zoneid, 270927, 11, 6, 6, true) --Bladestorm
 GridStatusRaidDebuff:DebuffId(zoneid, 270868, 11, 6, 6, true) --Lingering Poison
 GridStatusRaidDebuff:DebuffId(zoneid, 276031, 11, 6, 6, true) --Pit of Despair
 GridStatusRaidDebuff:DebuffId(zoneid, 266191, 11, 6, 6, true) --Whirling Axe
-GridStatusRaidDebuff:DebuffId(zoneid, 290085, 11, 6, 6, true) --Expel Soul
 GridStatusRaidDebuff:DebuffId(zoneid, 269369, 11, 6, 6, true) --Deathly Roar
 GridStatusRaidDebuff:DebuffId(zoneid, 267763, 11, 6, 6, true) --Wretched Discharge
 GridStatusRaidDebuff:DebuffId(zoneid, 270487, 11, 6, 6, true) --Severing Blade
-GridStatusRaidDebuff:DebuffId(zoneid, 240559, 11, 6, 6, true) --Grievous Wound
 GridStatusRaidDebuff:DebuffId(zoneid, 240447, 11, 6, 6, true) --Quake
 GridStatusRaidDebuff:DebuffId(zoneid, 270492, 11, 6, 6, true) --Hex
 GridStatusRaidDebuff:DebuffId(zoneid, 272388, 11, 6, 6, true) --Shadow Barrage
 GridStatusRaidDebuff:DebuffId(zoneid, 270920, 11, 6, 6, true) --Seduction
-GridStatusRaidDebuff:DebuffId(zoneid, 240443, 11, 6, 6, true) --Burst
-GridStatusRaidDebuff:DebuffId(zoneid, 288694, 11, 6, 6, true) --Shadow Smash
 GridStatusRaidDebuff:DebuffId(zoneid, 270289, 11, 6, 6, true) --Purification Beam
 GridStatusRaidDebuff:DebuffId(zoneid, 270003, 11, 6, 6, true) --Suppression Slam
 GridStatusRaidDebuff:DebuffId(zoneid, 277225, 11, 6, 6, true) --Tormented Soul
 GridStatusRaidDebuff:DebuffId(zoneid, 265914, 11, 6, 6, true) --Molten Gold
 GridStatusRaidDebuff:DebuffId(zoneid, 115804, 11, 6, 6, true) --Mortal Wounds
-GridStatusRaidDebuff:DebuffId(zoneid, 288388, 11, 6, 6, true, true) --Reap Soul
 GridStatusRaidDebuff:DebuffId(zoneid, 270084, 11, 6, 6, true) --Axe Barrage
 GridStatusRaidDebuff:DebuffId(zoneid, 269936, 11, 6, 6, true) --Fixate
 GridStatusRaidDebuff:DebuffId(zoneid, 268419, 11, 6, 6, true) --Gale Slash
 GridStatusRaidDebuff:DebuffId(zoneid, 271640, 11, 6, 6, true) --Dark Revelation
-GridStatusRaidDebuff:DebuffId(zoneid, 209858, 11, 6, 6, true, true) --Necrotic Wound
 GridStatusRaidDebuff:DebuffId(zoneid, 277469, 11, 6, 6, true) --Focused Fire
+
+--M+
+GridStatusRaidDebuff:DebuffId(zoneid, 240447, 1, 6, 6, true) --Quake
+GridStatusRaidDebuff:DebuffId(zoneid, 240559, 1, 6, 6, true, true) --Grievous Wound
+GridStatusRaidDebuff:DebuffId(zoneid, 209858, 1, 6, 6, true, true) --Necrotic Wound
+GridStatusRaidDebuff:DebuffId(zoneid, 240443, 1, 6, 6, true, true) --Burst
+GridStatusRaidDebuff:DebuffId(zoneid, 288694, 1, 6, 6, true, true) --Shadow Smash
+GridStatusRaidDebuff:DebuffId(zoneid, 226512, 1, 6, 6, true) --Sanguine Ichor
+GridStatusRaidDebuff:DebuffId(zoneid, 288388, 1, 6, 6, true, true) --Reap Soul
+GridStatusRaidDebuff:DebuffId(zoneid, 290085, 1, 6, 6, true) --Expel Soul
 
 --The Golden Serpent
 GridStatusRaidDebuff:BossNameId(zoneid, 10, "The Golden Serpent")

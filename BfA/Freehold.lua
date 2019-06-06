@@ -33,27 +33,27 @@ GridStatusRaidDebuff:DebuffId(zoneid, 257757, 1, 6, 6, true) --Goin' Bananas
 GridStatusRaidDebuff:DebuffId(zoneid, 267523, 1, 6, 6, true) --Cutting Surge
 GridStatusRaidDebuff:DebuffId(zoneid, 274389, 1, 6, 6, true) --Rat Traps
 GridStatusRaidDebuff:DebuffId(zoneid, 258779, 1, 6, 6, true) --Sea Spout
-
 GridStatusRaidDebuff:DebuffId(zoneid, 265056, 1, 6, 6, true) --Invigorating Freehold Brew
 GridStatusRaidDebuff:DebuffId(zoneid, 272197, 1, 6, 6, true) --Shadow Charge
 GridStatusRaidDebuff:DebuffId(zoneid, 265799, 1, 6, 6, true) --Electrical Charge
-GridStatusRaidDebuff:DebuffId(zoneid, 240447, 1, 6, 6, true) --Quake
 GridStatusRaidDebuff:DebuffId(zoneid, 265085, 1, 6, 6, true) --Confidence-Boosting Freehold Brew
-GridStatusRaidDebuff:DebuffId(zoneid, 240559, 1, 6, 6, true) --Grievous Wound
 GridStatusRaidDebuff:DebuffId(zoneid, 113746, 1, 6, 6, true) --Mystic Touch
-GridStatusRaidDebuff:DebuffId(zoneid, 240443, 1, 6, 6, true) --Burst
-GridStatusRaidDebuff:DebuffId(zoneid, 288694, 1, 6, 6, true) --Shadow Smash
-GridStatusRaidDebuff:DebuffId(zoneid, 288388, 1, 6, 6, true, true) --Reap Soul
 GridStatusRaidDebuff:DebuffId(zoneid, 268283, 1, 6, 6, true) --Obscured Vision
 GridStatusRaidDebuff:DebuffId(zoneid, 272554, 1, 6, 6, true) --Bloody Mess
-GridStatusRaidDebuff:DebuffId(zoneid, 209858, 1, 6, 6, true) --Necrotic Rot
-GridStatusRaidDebuff:DebuffId(zoneid, 209858, 1, 6, 6, true, true) --Necrotic Wound
-GridStatusRaidDebuff:DebuffId(zoneid, 226512, 1, 6, 6, true) --Sanguine Ichor
 GridStatusRaidDebuff:DebuffId(zoneid, 265681, 1, 6, 6, true) --Drowning Pool
 GridStatusRaidDebuff:DebuffId(zoneid, 278467, 1, 6, 6, true) --Caustic Freehold Brew
 GridStatusRaidDebuff:DebuffId(zoneid, 274555, 1, 6, 6, true) --Scabrous Bite
 GridStatusRaidDebuff:DebuffId(zoneid, 34914, 1, 6, 6, true) --Vampiric Touch
 GridStatusRaidDebuff:DebuffId(zoneid, 224729, 1, 6, 6, true) --Bursting Shot
+
+--M+
+GridStatusRaidDebuff:DebuffId(zoneid, 240447, 1, 6, 6, true) --Quake
+GridStatusRaidDebuff:DebuffId(zoneid, 240559, 1, 6, 6, true, true) --Grievous Wound
+GridStatusRaidDebuff:DebuffId(zoneid, 209858, 1, 6, 6, true, true) --Necrotic Wound
+GridStatusRaidDebuff:DebuffId(zoneid, 240443, 1, 6, 6, true, true) --Burst
+GridStatusRaidDebuff:DebuffId(zoneid, 288694, 1, 6, 6, true, true) --Shadow Smash
+GridStatusRaidDebuff:DebuffId(zoneid, 226512, 1, 6, 6, true) --Sanguine Ichor
+GridStatusRaidDebuff:DebuffId(zoneid, 288388, 1, 6, 6, true, true) --Reap Soul
 GridStatusRaidDebuff:DebuffId(zoneid, 290085, 1, 6, 6, true) --Expel Soul
 
 --Skycap'n Kragg

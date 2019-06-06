@@ -29,19 +29,20 @@ GridStatusRaidDebuff:DebuffId(zoneid, 269843, 1, 6, 6, true) --Vile Expulsion
 GridStatusRaidDebuff:DebuffId(zoneid, 278961, 1, 6, 6, true) --Decaying Mind
 GridStatusRaidDebuff:DebuffId(zoneid, 265487, 1, 6, 6, true) --Shadow Bolt Volley
 GridStatusRaidDebuff:DebuffId(zoneid, 265019, 1, 6, 6, true) --Savage Cleave
-
-GridStatusRaidDebuff:DebuffId(zoneid, 209858, 1, 6, 6, true, true) --Necrotic Wound
-GridStatusRaidDebuff:DebuffId(zoneid, 240443, 1, 6, 6, true) --Burst
 GridStatusRaidDebuff:DebuffId(zoneid, 260455, 1, 6, 6, true) --Serrated Fangs
-GridStatusRaidDebuff:DebuffId(zoneid, 290085, 1, 6, 6, true) --Expel Soul
-GridStatusRaidDebuff:DebuffId(zoneid, 240447, 1, 6, 6, true) --Quake
 GridStatusRaidDebuff:DebuffId(zoneid, 339, 1, 6, 6, true) --Entangling Roots
-GridStatusRaidDebuff:DebuffId(zoneid, 226512, 1, 6, 6, true) --Sanguine Ichor
-GridStatusRaidDebuff:DebuffId(zoneid, 240559, 1, 6, 6, true) --Grievous Wound
-GridStatusRaidDebuff:DebuffId(zoneid, 288694, 1, 6, 6, true) --Shadow Smash
 GridStatusRaidDebuff:DebuffId(zoneid, 164815, 1, 6, 6, true) --Sunfire
-GridStatusRaidDebuff:DebuffId(zoneid, 288388, 1, 6, 6, true, true) --Reap Soul
 GridStatusRaidDebuff:DebuffId(zoneid, 256445, 1, 6, 6, true) --Venom Spit
+
+--M+
+GridStatusRaidDebuff:DebuffId(zoneid, 240447, 1, 6, 6, true) --Quake
+GridStatusRaidDebuff:DebuffId(zoneid, 240559, 1, 6, 6, true, true) --Grievous Wound
+GridStatusRaidDebuff:DebuffId(zoneid, 209858, 1, 6, 6, true, true) --Necrotic Wound
+GridStatusRaidDebuff:DebuffId(zoneid, 240443, 1, 6, 6, true, true) --Burst
+GridStatusRaidDebuff:DebuffId(zoneid, 288694, 1, 6, 6, true, true) --Shadow Smash
+GridStatusRaidDebuff:DebuffId(zoneid, 226512, 1, 6, 6, true) --Sanguine Ichor
+GridStatusRaidDebuff:DebuffId(zoneid, 288388, 1, 6, 6, true, true) --Reap Soul
+GridStatusRaidDebuff:DebuffId(zoneid, 290085, 1, 6, 6, true) --Expel Soul
 
 --Elder Leaxa
 GridStatusRaidDebuff:BossNameId(zoneid, 10, "Saboteur Kip'tilak")

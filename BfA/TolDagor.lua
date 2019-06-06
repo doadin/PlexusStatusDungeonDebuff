@@ -18,24 +18,25 @@ GridStatusRaidDebuff:DebuffId(zoneid, 258128, 1, 6, 6, true)  --Debilitating Sho
 GridStatusRaidDebuff:DebuffId(zoneid, 259711, 1, 6, 6, true)  --Lockdown
 GridStatusRaidDebuff:DebuffId(zoneid, 257777, 1, 6, 6, true)  --Crippling Shiv
 GridStatusRaidDebuff:DebuffId(zoneid, 272620, 1, 6, 6, true)  --Throw Rock
-
 GridStatusRaidDebuff:DebuffId(zoneid, 265271, 1, 6, 6, true) --Sewer Slime
 GridStatusRaidDebuff:DebuffId(zoneid, 258134, 1, 6, 6, true) --Makeshift Shiv
-GridStatusRaidDebuff:DebuffId(zoneid, 240447, 1, 6, 6, true) --Quake
 GridStatusRaidDebuff:DebuffId(zoneid, 258058, 1, 6, 6, true) --Squeeze
-GridStatusRaidDebuff:DebuffId(zoneid, 240559, 1, 6, 6, true) --Grievous Wound
 GridStatusRaidDebuff:DebuffId(zoneid, 258079, 1, 6, 6, true) --Massive Chomp
-GridStatusRaidDebuff:DebuffId(zoneid, 209858, 1, 6, 6, true, true) --Necrotic Wound
-GridStatusRaidDebuff:DebuffId(zoneid, 240443, 1, 6, 6, true) --Burst
-GridStatusRaidDebuff:DebuffId(zoneid, 288694, 1, 6, 6, true) --Shadow Smash
-GridStatusRaidDebuff:DebuffId(zoneid, 290085, 1, 6, 6, true) --Expel Soul
-GridStatusRaidDebuff:DebuffId(zoneid, 226512, 1, 6, 6, true) --Sanguine Ichor
 GridStatusRaidDebuff:DebuffId(zoneid, 256200, 1, 6, 6, true) --Heartstopper Venom
-GridStatusRaidDebuff:DebuffId(zoneid, 288388, 1, 6, 6, true, true) --Reap Soul
 GridStatusRaidDebuff:DebuffId(zoneid, 260016, 1, 6, 6, true) --Itchy Bite
 GridStatusRaidDebuff:DebuffId(zoneid, 260067, 1, 6, 6, true) --Vicious Mauling
 GridStatusRaidDebuff:DebuffId(zoneid, 224729, 1, 6, 6, true) --Bursting Shot
 GridStatusRaidDebuff:DebuffId(zoneid, 257791, 1, 6, 6, true) --Howling Fear
+
+--M+
+GridStatusRaidDebuff:DebuffId(zoneid, 240447, 1, 6, 6, true) --Quake
+GridStatusRaidDebuff:DebuffId(zoneid, 240559, 1, 6, 6, true, true) --Grievous Wound
+GridStatusRaidDebuff:DebuffId(zoneid, 209858, 1, 6, 6, true, true) --Necrotic Wound
+GridStatusRaidDebuff:DebuffId(zoneid, 240443, 1, 6, 6, true, true) --Burst
+GridStatusRaidDebuff:DebuffId(zoneid, 288694, 1, 6, 6, true, true) --Shadow Smash
+GridStatusRaidDebuff:DebuffId(zoneid, 226512, 1, 6, 6, true) --Sanguine Ichor
+GridStatusRaidDebuff:DebuffId(zoneid, 288388, 1, 6, 6, true, true) --Reap Soul
+GridStatusRaidDebuff:DebuffId(zoneid, 290085, 1, 6, 6, true) --Expel Soul
 
 --The Sand Queen
 GridStatusRaidDebuff:BossNameId(zoneid, 10, "The Sand Queen")
