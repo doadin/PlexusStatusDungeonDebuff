@@ -61,13 +61,13 @@ GridStatusRaidDebuff:DebuffId(zoneid, 278456, 1, 6, 6, true) --Infest
 GridStatusRaidDebuff:DebuffId(zoneid, 265346, 1, 6, 6, true) --Pallid Glare
 GridStatusRaidDebuff:DebuffId(zoneid, 113746, 1, 6, 6, true) --Mystic Touch
 GridStatusRaidDebuff:DebuffId(zoneid, 268086, 1, 6, 6, true) --Aura of Dread
-GridStatusRaidDebuff:DebuffId(zoneid, 209858, 1, 6, 6, true) --Necrotic Wound
+GridStatusRaidDebuff:DebuffId(zoneid, 209858, 1, 6, 6, true, true) --Necrotic Wound
 GridStatusRaidDebuff:DebuffId(zoneid, 240443, 1, 6, 6, true) --Burst
 GridStatusRaidDebuff:DebuffId(zoneid, 288694, 1, 6, 6, true) --Shadow Smash
 GridStatusRaidDebuff:DebuffId(zoneid, 268125, 1, 6, 6, true) --Aura of Thorns
 GridStatusRaidDebuff:DebuffId(zoneid, 226512, 1, 6, 6, true) --Sanguine Ichor
 GridStatusRaidDebuff:DebuffId(zoneid, 30213, 1, 6, 6, true) --Legion Strike
-GridStatusRaidDebuff:DebuffId(zoneid, 288388, 1, 6, 6, true) --Reap Soul
+GridStatusRaidDebuff:DebuffId(zoneid, 288388, 1, 6, 6, true, true) --Reap Soul
 GridStatusRaidDebuff:DebuffId(zoneid, 290085, 1, 6, 6, true) --Expel Soul
 
 --Heartsbane Triad

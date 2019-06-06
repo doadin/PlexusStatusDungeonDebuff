@@ -34,26 +34,27 @@ GridStatusRaidDebuff:DebuffId(zoneid, 267523, 1, 6, 6, true) --Cutting Surge
 GridStatusRaidDebuff:DebuffId(zoneid, 274389, 1, 6, 6, true) --Rat Traps
 GridStatusRaidDebuff:DebuffId(zoneid, 258779, 1, 6, 6, true) --Sea Spout
 
-GridStatusRaidDebuff:DebuffId(zoneid, 265056, 1, 6, 6, true) --Invigorating Freehold Brew"] = 265056,
-GridStatusRaidDebuff:DebuffId(zoneid, 272197, 1, 6, 6, true) --Shadow Charge"] = 272197,
-GridStatusRaidDebuff:DebuffId(zoneid, 265799, 1, 6, 6, true) --Electrical Charge"] = 265799,
-GridStatusRaidDebuff:DebuffId(zoneid, 240447, 1, 6, 6, true) --Quake"] = 240447,
-GridStatusRaidDebuff:DebuffId(zoneid, 265085, 1, 6, 6, true) --Confidence-Boosting Freehold Brew"] = 265085,
-GridStatusRaidDebuff:DebuffId(zoneid, 240559, 1, 6, 6, true) --Grievous Wound"] = 240559,
-GridStatusRaidDebuff:DebuffId(zoneid, 113746, 1, 6, 6, true) --Mystic Touch"] = 113746,
-GridStatusRaidDebuff:DebuffId(zoneid, 240443, 1, 6, 6, true) --Burst"] = 240443,
-GridStatusRaidDebuff:DebuffId(zoneid, 288694, 1, 6, 6, true) --Shadow Smash"] = 288694,
-GridStatusRaidDebuff:DebuffId(zoneid, 288388, 1, 6, 6, true) --Reap Soul"] = 288388,
-GridStatusRaidDebuff:DebuffId(zoneid, 268283, 1, 6, 6, true) --Obscured Vision"] = 268283,
-GridStatusRaidDebuff:DebuffId(zoneid, 272554, 1, 6, 6, true) --Bloody Mess"] = 272554,
-GridStatusRaidDebuff:DebuffId(zoneid, 209858, 1, 6, 6, true) --Necrotic Rot"] = 209858,
-GridStatusRaidDebuff:DebuffId(zoneid, 226512, 1, 6, 6, true) --Sanguine Ichor"] = 226512,
-GridStatusRaidDebuff:DebuffId(zoneid, 265681, 1, 6, 6, true) --Drowning Pool"] = 265681,
-GridStatusRaidDebuff:DebuffId(zoneid, 278467, 1, 6, 6, true) --Caustic Freehold Brew"] = 278467,
-GridStatusRaidDebuff:DebuffId(zoneid, 274555, 1, 6, 6, true) --Scabrous Bite"] = 274555,
-GridStatusRaidDebuff:DebuffId(zoneid, 34914, 1, 6, 6, true) --Vampiric Touch"] = 34914,
-GridStatusRaidDebuff:DebuffId(zoneid, 224729, 1, 6, 6, true) --Bursting Shot"] = 224729,
-GridStatusRaidDebuff:DebuffId(zoneid, 290085, 1, 6, 6, true) --Expel Soul"] = 290085,
+GridStatusRaidDebuff:DebuffId(zoneid, 265056, 1, 6, 6, true) --Invigorating Freehold Brew
+GridStatusRaidDebuff:DebuffId(zoneid, 272197, 1, 6, 6, true) --Shadow Charge
+GridStatusRaidDebuff:DebuffId(zoneid, 265799, 1, 6, 6, true) --Electrical Charge
+GridStatusRaidDebuff:DebuffId(zoneid, 240447, 1, 6, 6, true) --Quake
+GridStatusRaidDebuff:DebuffId(zoneid, 265085, 1, 6, 6, true) --Confidence-Boosting Freehold Brew
+GridStatusRaidDebuff:DebuffId(zoneid, 240559, 1, 6, 6, true) --Grievous Wound
+GridStatusRaidDebuff:DebuffId(zoneid, 113746, 1, 6, 6, true) --Mystic Touch
+GridStatusRaidDebuff:DebuffId(zoneid, 240443, 1, 6, 6, true) --Burst
+GridStatusRaidDebuff:DebuffId(zoneid, 288694, 1, 6, 6, true) --Shadow Smash
+GridStatusRaidDebuff:DebuffId(zoneid, 288388, 1, 6, 6, true, true) --Reap Soul
+GridStatusRaidDebuff:DebuffId(zoneid, 268283, 1, 6, 6, true) --Obscured Vision
+GridStatusRaidDebuff:DebuffId(zoneid, 272554, 1, 6, 6, true) --Bloody Mess
+GridStatusRaidDebuff:DebuffId(zoneid, 209858, 1, 6, 6, true) --Necrotic Rot
+GridStatusRaidDebuff:DebuffId(zoneid, 209858, 1, 6, 6, true, true) --Necrotic Wound
+GridStatusRaidDebuff:DebuffId(zoneid, 226512, 1, 6, 6, true) --Sanguine Ichor
+GridStatusRaidDebuff:DebuffId(zoneid, 265681, 1, 6, 6, true) --Drowning Pool
+GridStatusRaidDebuff:DebuffId(zoneid, 278467, 1, 6, 6, true) --Caustic Freehold Brew
+GridStatusRaidDebuff:DebuffId(zoneid, 274555, 1, 6, 6, true) --Scabrous Bite
+GridStatusRaidDebuff:DebuffId(zoneid, 34914, 1, 6, 6, true) --Vampiric Touch
+GridStatusRaidDebuff:DebuffId(zoneid, 224729, 1, 6, 6, true) --Bursting Shot
+GridStatusRaidDebuff:DebuffId(zoneid, 290085, 1, 6, 6, true) --Expel Soul
 
 --Skycap'n Kragg
 GridStatusRaidDebuff:BossNameId(zoneid, 10, "Skycap'n Kragg")

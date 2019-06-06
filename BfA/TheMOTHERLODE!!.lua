@@ -47,14 +47,14 @@ GridStatusRaidDebuff:DebuffId(zoneid, 84366, 1, 6, 6, true) --Repulsive Gaze
 GridStatusRaidDebuff:DebuffId(zoneid, 263344, 1, 6, 6, true) --Subjugate
 GridStatusRaidDebuff:DebuffId(zoneid, 256445, 1, 6, 6, true) --Venom Spit
 GridStatusRaidDebuff:DebuffId(zoneid, 240559, 1, 6, 6, true) --Grievous Wound
-GridStatusRaidDebuff:DebuffId(zoneid, 209858, 1, 6, 6, true) --Necrotic Wound
+GridStatusRaidDebuff:DebuffId(zoneid, 209858, 1, 6, 6, true, true) --Necrotic Wound
 GridStatusRaidDebuff:DebuffId(zoneid, 240443, 1, 6, 6, true) --Burst
 GridStatusRaidDebuff:DebuffId(zoneid, 288694, 1, 6, 6, true) --Shadow Smash
 GridStatusRaidDebuff:DebuffId(zoneid, 270866, 1, 6, 6, true) --Jeweled Pincher
 GridStatusRaidDebuff:DebuffId(zoneid, 240447, 1, 6, 6, true) --Quake
 GridStatusRaidDebuff:DebuffId(zoneid, 275707, 1, 6, 6, true) --Sticky Bomb
 GridStatusRaidDebuff:DebuffId(zoneid, 257371, 1, 6, 6, true) --Tear Gas
-GridStatusRaidDebuff:DebuffId(zoneid, 288388, 1, 6, 6, true) --Reap Soul
+GridStatusRaidDebuff:DebuffId(zoneid, 288388, 1, 6, 6, true, true) --Reap Soul
 GridStatusRaidDebuff:DebuffId(zoneid, 290085, 1, 6, 6, true) --Expel Soul
 GridStatusRaidDebuff:DebuffId(zoneid, 275885, 1, 6, 6, true) --Massive Streetsweeper
 GridStatusRaidDebuff:DebuffId(zoneid, 280605, 1, 6, 6, true) --Brain Freeze

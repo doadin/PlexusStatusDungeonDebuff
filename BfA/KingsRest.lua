@@ -36,12 +36,12 @@ GridStatusRaidDebuff:DebuffId(zoneid, 270003, 11, 6, 6, true) --Suppression Slam
 GridStatusRaidDebuff:DebuffId(zoneid, 277225, 11, 6, 6, true) --Tormented Soul
 GridStatusRaidDebuff:DebuffId(zoneid, 265914, 11, 6, 6, true) --Molten Gold
 GridStatusRaidDebuff:DebuffId(zoneid, 115804, 11, 6, 6, true) --Mortal Wounds
-GridStatusRaidDebuff:DebuffId(zoneid, 288388, 11, 6, 6, true) --Reap Soul
+GridStatusRaidDebuff:DebuffId(zoneid, 288388, 11, 6, 6, true, true) --Reap Soul
 GridStatusRaidDebuff:DebuffId(zoneid, 270084, 11, 6, 6, true) --Axe Barrage
 GridStatusRaidDebuff:DebuffId(zoneid, 269936, 11, 6, 6, true) --Fixate
 GridStatusRaidDebuff:DebuffId(zoneid, 268419, 11, 6, 6, true) --Gale Slash
 GridStatusRaidDebuff:DebuffId(zoneid, 271640, 11, 6, 6, true) --Dark Revelation
-GridStatusRaidDebuff:DebuffId(zoneid, 209858, 11, 6, 6, true) --Necrotic Wound
+GridStatusRaidDebuff:DebuffId(zoneid, 209858, 11, 6, 6, true, true) --Necrotic Wound
 GridStatusRaidDebuff:DebuffId(zoneid, 277469, 11, 6, 6, true) --Focused Fire
 
 --The Golden Serpent

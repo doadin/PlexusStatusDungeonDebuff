@@ -37,10 +37,11 @@ GridStatusRaidDebuff:DebuffId(zoneid, 288694, 1, 6, 6, true) --Shadow Smash
 GridStatusRaidDebuff:DebuffId(zoneid, 196189, 1, 6, 6, true) --Bloody Talons
 GridStatusRaidDebuff:DebuffId(zoneid, 255814, 1, 6, 6, true) --Rending Maul
 GridStatusRaidDebuff:DebuffId(zoneid, 209858, 1, 6, 6, true) --Necrotic Rot
+GridStatusRaidDebuff:DebuffId(zoneid, 209858, 1, 6, 6, true, true) --Necrotic Wound
 GridStatusRaidDebuff:DebuffId(zoneid, 226512, 1, 6, 6, true) --Sanguine Ichor
 GridStatusRaidDebuff:DebuffId(zoneid, 259130, 1, 6, 6, true) --Tiki Flame
 GridStatusRaidDebuff:DebuffId(zoneid, 255842, 1, 6, 6, true) --Blood-Tainted Cauldron of Gold
-GridStatusRaidDebuff:DebuffId(zoneid, 288388, 1, 6, 6, true) --Reap Soul
+GridStatusRaidDebuff:DebuffId(zoneid, 288388, 1, 6, 6, true, true) --Reap Soul
 GridStatusRaidDebuff:DebuffId(zoneid, 258723, 1, 6, 6, true) --Grotesque Pool
 
 --Priestess Alun'az

@@ -23,9 +23,9 @@ GridStatusRaidDebuff:DebuffId(zoneid, 257169, 1, 6, 6, true)  --Terrifying Roar
 GridStatusRaidDebuff:DebuffId(zoneid, 274942, 1, 6, 6, true)  --Banana Rampage
 GridStatusRaidDebuff:DebuffId(zoneid, 256897, 1, 6, 6, true)  --Clamping Jaws
 GridStatusRaidDebuff:DebuffId(zoneid, 257292, 1, 6, 6, true)  --Heavy Slash
-GridStatusRaidDebuff:DebuffId(zoneid, 288388, 1, 6, 6, true)  --Reap Soul
+GridStatusRaidDebuff:DebuffId(zoneid, 288388, 1, 6, 6, true, true)  --Reap Soul
 GridStatusRaidDebuff:DebuffId(zoneid, 257886, 1, 6, 6, true)  --Brine Pool
-GridStatusRaidDebuff:DebuffId(zoneid, 209858, 1, 6, 6, true)  --Necrotic Wound
+GridStatusRaidDebuff:DebuffId(zoneid, 209858, 1, 6, 6, true, true)  --Necrotic Wound
 GridStatusRaidDebuff:DebuffId(zoneid, 261428, 1, 6, 6, true)  --Hangman's Noose
 GridStatusRaidDebuff:DebuffId(zoneid, 270624, 1, 6, 6, true)  --Crushing Embrace
 GridStatusRaidDebuff:DebuffId(zoneid, 275836, 1, 6, 6, true)  --Stinging Venom

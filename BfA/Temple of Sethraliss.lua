@@ -33,11 +33,12 @@ GridStatusRaidDebuff:DebuffId(zoneid, 240443, 1, 6, 6, true) --Burst
 GridStatusRaidDebuff:DebuffId(zoneid, 288694, 1, 6, 6, true) --Shadow Smash
 GridStatusRaidDebuff:DebuffId(zoneid, 255595, 1, 6, 6, true) --Chomp
 GridStatusRaidDebuff:DebuffId(zoneid, 208086, 1, 6, 6, true) --Colossus Smash
-GridStatusRaidDebuff:DebuffId(zoneid, 288388, 1, 6, 6, true) --Reap Soul
+GridStatusRaidDebuff:DebuffId(zoneid, 288388, 1, 6, 6, true, true) --Reap Soul
 GridStatusRaidDebuff:DebuffId(zoneid, 270686, 1, 6, 6, true) --Typhus
 GridStatusRaidDebuff:DebuffId(zoneid, 270017, 1, 6, 6, true) --Enforcing Strike
 GridStatusRaidDebuff:DebuffId(zoneid, 226512, 1, 6, 6, true) --Sanguine Ichor
 GridStatusRaidDebuff:DebuffId(zoneid, 273563, 1, 6, 6, true) --Neurotoxin
+GridStatusRaidDebuff:DebuffId(zoneid, 209858, 1, 6, 6, true, true) --Necrotic Wound
 
 --Adderis and Aspix
 GridStatusRaidDebuff:BossNameId(zoneid, 10, "Adderis and Aspix")
