@@ -65,6 +65,7 @@ Legion/VioletHold.lua
 BfA/Atal'Dazar.lua
 BfA/Freehold.lua
 BfA/KingsRest.lua
+BfA/OperationMechagon.lua
 BfA/ShrineoftheStorm.lua
 BfA/SiegeofBoralus.lua
 BfA/TempleofSethraliss.lua
