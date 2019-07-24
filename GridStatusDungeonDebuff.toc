@@ -65,9 +65,9 @@ Legion/VioletHold.lua
 BfA/Atal'Dazar.lua
 BfA/Freehold.lua
 BfA/KingsRest.lua
-BfA/Shrine of the Storm.lua
-BfA/Siege of Boralus.lua
-BfA/Temple of Sethraliss.lua
+BfA/ShrineoftheStorm.lua
+BfA/SiegeofBoralus.lua
+BfA/TempleofSethraliss.lua
 BfA/TheMOTHERLODE!!.lua
 BfA/TheUnderrot.lua
 BfA/TolDagor.lua
