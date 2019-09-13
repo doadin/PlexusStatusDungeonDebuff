@@ -1,8 +1,7 @@
-required-dependencies:
-    - GridStatusRaidDebuff2
 package-as: GridStatusDungeonDebuff
 
 ignore:
    - .pkgmeta
    - .gitignore
    - .gitattributes
+   - .travis.yml
