@@ -79,9 +79,9 @@ GridStatusRaidDebuff:DebuffId(zoneid, 313445, 1, 1, 1, true) --Ny'alotha Incursi
 
 --Heartsbane Triad
 GridStatusRaidDebuff:BossNameId(zoneid, 10, "Heartsbane Triad")
-GridStatusRaidDebuff:DebuffId(zoneid, 260741, 11, 6, 6, true)  --Jagged Nettles
+GridStatusRaidDebuff:DebuffId(zoneid, 260741, 11, 7, 7, true)  --Jagged Nettles
 GridStatusRaidDebuff:DebuffId(zoneid, 260805, 12, 6, 6, true)  --Focusing Iris
-GridStatusRaidDebuff:DebuffId(zoneid, 268086, 13, 6, 6, true, true) --Aura of Dread
+GridStatusRaidDebuff:DebuffId(zoneid, 268086, 13, 7, 7, true, true) --Aura of Dread
 --Soulbound Goliath
 GridStatusRaidDebuff:BossNameId(zoneid, 20, "Soulbound Goliath")
 GridStatusRaidDebuff:DebuffId(zoneid, 260512, 21, 6, 6, true)  --Soul Harvest
