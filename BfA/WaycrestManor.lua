@@ -58,7 +58,6 @@ GridStatusRaidDebuff:DebuffId(zoneid, 118905, 1, 6, 6, true) --Static Charge
 GridStatusRaidDebuff:DebuffId(zoneid, 278456, 1, 6, 6, true) --Infest
 GridStatusRaidDebuff:DebuffId(zoneid, 265346, 1, 6, 6, true) --Pallid Glare
 GridStatusRaidDebuff:DebuffId(zoneid, 113746, 1, 6, 6, true) --Mystic Touch
-GridStatusRaidDebuff:DebuffId(zoneid, 268086, 1, 6, 6, true) --Aura of Dread
 GridStatusRaidDebuff:DebuffId(zoneid, 268125, 1, 6, 6, true) --Aura of Thorns
 GridStatusRaidDebuff:DebuffId(zoneid, 30213, 1, 6, 6, true) --Legion Strike
 
@@ -82,6 +81,7 @@ GridStatusRaidDebuff:DebuffId(zoneid, 313445, 1, 1, 1, true) --Ny'alotha Incursi
 GridStatusRaidDebuff:BossNameId(zoneid, 10, "Heartsbane Triad")
 GridStatusRaidDebuff:DebuffId(zoneid, 260741, 11, 6, 6, true)  --Jagged Nettles
 GridStatusRaidDebuff:DebuffId(zoneid, 260805, 12, 6, 6, true)  --Focusing Iris
+GridStatusRaidDebuff:DebuffId(zoneid, 268086, 13, 6, 6, true, true) --Aura of Dread
 --Soulbound Goliath
 GridStatusRaidDebuff:BossNameId(zoneid, 20, "Soulbound Goliath")
 GridStatusRaidDebuff:DebuffId(zoneid, 260512, 21, 6, 6, true)  --Soul Harvest

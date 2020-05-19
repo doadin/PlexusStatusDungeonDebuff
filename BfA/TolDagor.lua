@@ -7,8 +7,6 @@ GridStatusRaidDebuff:DebuffId(zoneid, 258938, 1, 6, 6, true)  --Inner Flames
 GridStatusRaidDebuff:DebuffId(zoneid, 258864, 1, 6, 6, true)  --Suppression Fire
 GridStatusRaidDebuff:DebuffId(zoneid, 185857, 1, 6, 6, true)  --Shoot
 GridStatusRaidDebuff:DebuffId(zoneid, 224125, 1, 6, 6, true)  --Molten Weapon
-GridStatusRaidDebuff:DebuffId(zoneid, 257028, 1, 6, 6, true)  --Fuselighter
-GridStatusRaidDebuff:DebuffId(zoneid, 256083, 1, 6, 6, true)  --Cross Ignition
 GridStatusRaidDebuff:DebuffId(zoneid, 258150, 1, 6, 6, true)  --Salt Blast
 GridStatusRaidDebuff:DebuffId(zoneid, 257793, 1, 6, 6, true)  --Smoke Powder
 GridStatusRaidDebuff:DebuffId(zoneid, 265889, 1, 6, 6, true)  --Torch Strike
@@ -24,9 +22,7 @@ GridStatusRaidDebuff:DebuffId(zoneid, 258058, 1, 6, 6, true) --Squeeze
 GridStatusRaidDebuff:DebuffId(zoneid, 258079, 1, 6, 6, true) --Massive Chomp
 GridStatusRaidDebuff:DebuffId(zoneid, 256200, 1, 6, 6, true) --Heartstopper Venom
 GridStatusRaidDebuff:DebuffId(zoneid, 260016, 1, 6, 6, true) --Itchy Bite
-GridStatusRaidDebuff:DebuffId(zoneid, 260067, 1, 6, 6, true) --Vicious Mauling
 GridStatusRaidDebuff:DebuffId(zoneid, 224729, 1, 6, 6, true) --Bursting Shot
-GridStatusRaidDebuff:DebuffId(zoneid, 257791, 1, 6, 6, true) --Howling Fear
 
 --M+
 GridStatusRaidDebuff:DebuffId(zoneid, 240447, 1, 6, 6, true) --Quake
@@ -52,14 +48,18 @@ GridStatusRaidDebuff:DebuffId(zoneid, 257119, 12, 6, 6, true)  --Sand Trap
 GridStatusRaidDebuff:BossNameId(zoneid, 20, "Jes Howlis")
 GridStatusRaidDebuff:DebuffId(zoneid, 257785, 21, 6, 6, true)  --Flashing Daggers 
 GridStatusRaidDebuff:DebuffId(zoneid, 257956, 22, 6, 6, true)  --Motivated 
+GridStatusRaidDebuff:DebuffId(zoneid, 257791, 23, 6, 6, true) --Howling Fear
+GridStatusRaidDebuff:DebuffId(zoneid, 260067, 24, 6, 6, true) --Vicious Mauling
 --Knight Captain Valyri
 GridStatusRaidDebuff:BossNameId(zoneid, 30, "Knight Captain Valyri")
 GridStatusRaidDebuff:DebuffId(zoneid, 256710, 31, 6, 6, true)  --Burning Arsenal 
 GridStatusRaidDebuff:DebuffId(zoneid, 257033, 32, 6, 6, true)  --Fuselighter 
 GridStatusRaidDebuff:DebuffId(zoneid, 256976, 33, 6, 6, true)  --Ignition 
 GridStatusRaidDebuff:DebuffId(zoneid, 256955, 34, 6, 6, true)  --Cinderflame 
+GridStatusRaidDebuff:DebuffId(zoneid, 257028, 35, 6, 6, true)  --Fuselighter
 --Overseer Korgus
 GridStatusRaidDebuff:BossNameId(zoneid, 40, "Overseer Korgus")
-GridStatusRaidDebuff:DebuffId(zoneid, 256201, 41, 6, 6, true)  --Incendiary Rounds 
+GridStatusRaidDebuff:DebuffId(zoneid, 256201, 41, 6, 6, true, true)  --Incendiary Rounds 
 GridStatusRaidDebuff:DebuffId(zoneid, 256044, 42, 6, 6, true)  --Deadeye 
 GridStatusRaidDebuff:DebuffId(zoneid, 263345, 43, 6, 6, true)  --Massive Blast 
+GridStatusRaidDebuff:DebuffId(zoneid, 256083, 44, 6, 6, true)  --Cross Ignition
