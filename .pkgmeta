@@ -1,4 +1,4 @@
-package-as: GridStatusDungeonDebuff
+package-as: PlexusStatusDungeonDebuff
 
 ignore:
    - .pkgmeta
