@@ -78,3 +78,11 @@ BfA/TheMOTHERLODE!!.lua
 BfA/TheUnderrot.lua
 BfA/TolDagor.lua
 BfA/WaycrestManor.lua
+
+ShadowLands/HallsofAtonement.lua
+ShadowLands/MistsofTirnaScithe.lua
+ShadowLands/Plaguefall.lua
+ShadowLands/SanguineDepths.lua
+ShadowLands/TheaterofPain.lua
+ShadowLands/TheNecroticWake.lua
+ShadowLands/TheOtherSide.lua
