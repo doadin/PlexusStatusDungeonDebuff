@@ -1,5 +1,5 @@
 --local zone = "Halls of Atonement"
-local zoneid = 12831
+local zoneid = 1663
 
 -- zoneid, debuffID, order, icon_priority, color_priority, timer, stackable, color, default_disable, noicon
 --true, true is for stackable

@@ -1,5 +1,5 @@
 --local zone = "Mists of Tirna Scithe"
-local zoneid = 13334
+local zoneid = 1669
 
 -- zoneid, debuffID, order, icon_priority, color_priority, timer, stackable, color, default_disable, noicon
 --true, true is for stackable

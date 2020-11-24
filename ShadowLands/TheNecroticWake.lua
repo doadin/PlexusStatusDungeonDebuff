@@ -1,5 +1,5 @@
 --local zone = "The Necrotic Wake"
-local zoneid = 12916
+local zoneid = 1666
 
 -- zoneid, debuffID, order, icon_priority, color_priority, timer, stackable, color, default_disable, noicon
 --true, true is for stackable

@@ -1,5 +1,5 @@
 --local zone = "Theater of Pain"
-local zoneid = 12841
+local zoneid = 1683
 
 -- zoneid, debuffID, order, icon_priority, color_priority, timer, stackable, color, default_disable, noicon
 --true, true is for stackable

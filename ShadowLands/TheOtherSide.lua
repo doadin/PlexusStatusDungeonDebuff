@@ -1,5 +1,5 @@
 --local zone = "De Other Side"
-local zoneid = 13309
+local zoneid = 1679
 
 -- zoneid, debuffID, order, icon_priority, color_priority, timer, stackable, color, default_disable, noicon
 --true, true is for stackable

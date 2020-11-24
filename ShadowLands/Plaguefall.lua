@@ -1,5 +1,5 @@
 --local zone = "Plaguefall"
-local zoneid = 13228
+local zoneid = 1674
 
 -- zoneid, debuffID, order, icon_priority, color_priority, timer, stackable, color, default_disable, noicon
 --true, true is for stackable
