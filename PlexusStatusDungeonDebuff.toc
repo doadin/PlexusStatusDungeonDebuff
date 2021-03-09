@@ -9,8 +9,7 @@
 ## Notes: Complete Debuff List Up To BfA
 ## Author: Doadin
 ## Grid Author: Pastamancer & Maia
-## Dependencies: PlexusStatusRaidDebuff
-## OptionalDeps: Grid, Plexus
+## Dependencies: Plexus, PlexusStatusRaidDebuff
 ## X-Curse-Project-ID: 83874
 
 BC/ManaTombs.lua
