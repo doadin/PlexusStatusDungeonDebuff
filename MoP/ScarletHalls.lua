@@ -5,14 +5,14 @@ local zoneid = 431
 --true, true is for stackable
 
 --Houndmaster Braun
-GridStatusRaidDebuff:BossNameId(zoneid, 10, "Houndmaster Braun")
-GridStatusRaidDebuff:DebuffId(zoneid, 114056, 11, 6, 6) 
+_G.GridStatusRaidDebuff:BossNameId(zoneid, 10, "Houndmaster Braun")
+_G.GridStatusRaidDebuff:DebuffId(zoneid, 114056, 11, 6, 6)
 --Armsmaster Harlan
-GridStatusRaidDebuff:BossNameId(zoneid, 20, "Armsmaster Harlan")
-GridStatusRaidDebuff:DebuffId(zoneid, 111216, 21, 6, 6) 
+_G.GridStatusRaidDebuff:BossNameId(zoneid, 20, "Armsmaster Harlan")
+_G.GridStatusRaidDebuff:DebuffId(zoneid, 111216, 21, 6, 6)
 --Flameweaver Kogler
-GridStatusRaidDebuff:BossNameId(zoneid, 30, "Flameweaver Kogler")
-GridStatusRaidDebuff:DebuffId(zoneid, 113364, 31, 6, 6) 
-GridStatusRaidDebuff:DebuffId(zoneid, 113616, 32, 6, 6) 
-GridStatusRaidDebuff:DebuffId(zoneid, 113653, 33, 6, 6) 
-GridStatusRaidDebuff:DebuffId(zoneid, 11366, 34, 6, 6) 
+_G.GridStatusRaidDebuff:BossNameId(zoneid, 30, "Flameweaver Kogler")
+_G.GridStatusRaidDebuff:DebuffId(zoneid, 113364, 31, 6, 6)
+_G.GridStatusRaidDebuff:DebuffId(zoneid, 113616, 32, 6, 6)
+_G.GridStatusRaidDebuff:DebuffId(zoneid, 113653, 33, 6, 6)
+_G.GridStatusRaidDebuff:DebuffId(zoneid, 11366, 34, 6, 6)

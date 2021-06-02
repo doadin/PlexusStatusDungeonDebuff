@@ -5,28 +5,28 @@ local zoneid = 903
 --true, true is for stackable
 
 --Whole Dungeon/Trash/Mythic Plus
-GridStatusRaidDebuff:DebuffId(zoneid, 209858, 1, 6, 6, false, true) --Necrotic Rot
-GridStatusRaidDebuff:DebuffId(zoneid, 240443, 1, 6, 6, false, true) --Bursting
-GridStatusRaidDebuff:DebuffId(zoneid, 240559, 1, 6, 6, false, true) --Grievous
-GridStatusRaidDebuff:DebuffId(zoneid, 226512, 1, 6, 6) --Sanguine Ichor
+_G.GridStatusRaidDebuff:DebuffId(zoneid, 209858, 1, 6, 6, false, true) --Necrotic Rot
+_G.GridStatusRaidDebuff:DebuffId(zoneid, 240443, 1, 6, 6, false, true) --Bursting
+_G.GridStatusRaidDebuff:DebuffId(zoneid, 240559, 1, 6, 6, false, true) --Grievous
+_G.GridStatusRaidDebuff:DebuffId(zoneid, 226512, 1, 6, 6) --Sanguine Ichor
 
 --Zuraal the Ascended
-GridStatusRaidDebuff:BossNameId(zoneid, 10, "Zuraal the Ascended")
-GridStatusRaidDebuff:DebuffId(zoneid, 244588, 11, 6, 6, false, true)  --Void Sludge
+_G.GridStatusRaidDebuff:BossNameId(zoneid, 10, "Zuraal the Ascended")
+_G.GridStatusRaidDebuff:DebuffId(zoneid, 244588, 11, 6, 6, false, true)  --Void Sludge
 
 
 --Saprish
-GridStatusRaidDebuff:BossNameId(zoneid, 20, "Saprish")
-GridStatusRaidDebuff:DebuffId(zoneid, 246026, 21, 6, 6) --Void Trap
+_G.GridStatusRaidDebuff:BossNameId(zoneid, 20, "Saprish")
+_G.GridStatusRaidDebuff:DebuffId(zoneid, 246026, 21, 6, 6) --Void Trap
 
 
 --Viceroy Nezhar
-GridStatusRaidDebuff:BossNameId(zoneid, 30, "Viceroy Nezhar")
-GridStatusRaidDebuff:DebuffId(zoneid, 244916, 31, 6, 6, false, true) --Void Lashing
-GridStatusRaidDebuff:DebuffId(zoneid, 244906, 32, 7, 7) --Collapsing Void
-GridStatusRaidDebuff:DebuffId(zoneid, 246324, 33, 6, 6) --Entropic Force
+_G.GridStatusRaidDebuff:BossNameId(zoneid, 30, "Viceroy Nezhar")
+_G.GridStatusRaidDebuff:DebuffId(zoneid, 244916, 31, 6, 6, false, true) --Void Lashing
+_G.GridStatusRaidDebuff:DebuffId(zoneid, 244906, 32, 7, 7) --Collapsing Void
+_G.GridStatusRaidDebuff:DebuffId(zoneid, 246324, 33, 6, 6) --Entropic Force
 
 
 --L'ura
-GridStatusRaidDebuff:BossNameId(zoneid, 40, "L'ura")
-GridStatusRaidDebuff:DebuffId(zoneid, 245289, 41, 6, 6) --Void Blast
+_G.GridStatusRaidDebuff:BossNameId(zoneid, 40, "L'ura")
+_G.GridStatusRaidDebuff:DebuffId(zoneid, 245289, 41, 6, 6) --Void Blast

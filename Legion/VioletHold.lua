@@ -5,54 +5,54 @@ local zoneid = 732
 --true, true is for stackable
 
 --Whole Dungeon/Trash/Mythic Plus
-GridStatusRaidDebuff:DebuffId(zoneid, 209858, 1, 6, 6, false, true) --Necrotic Rot
-GridStatusRaidDebuff:DebuffId(zoneid, 240443, 1, 6, 6, false, true) --Bursting
-GridStatusRaidDebuff:DebuffId(zoneid, 240559, 1, 6, 6, false, true) --Grievous
-GridStatusRaidDebuff:DebuffId(zoneid, 226512, 1, 6, 6) --Sanguine Ichor
+_G.GridStatusRaidDebuff:DebuffId(zoneid, 209858, 1, 6, 6, false, true) --Necrotic Rot
+_G.GridStatusRaidDebuff:DebuffId(zoneid, 240443, 1, 6, 6, false, true) --Bursting
+_G.GridStatusRaidDebuff:DebuffId(zoneid, 240559, 1, 6, 6, false, true) --Grievous
+_G.GridStatusRaidDebuff:DebuffId(zoneid, 226512, 1, 6, 6) --Sanguine Ichor
 
 --Shivermaw
---GridStatusRaidDebuff:BossNameId(zoneid, 10, "Shivermaw")
-GridStatusRaidDebuff:DebuffId(zoneid, 201379, 11, 6, 6) --Frost Breath
-GridStatusRaidDebuff:DebuffId(zoneid, 201672, 12, 6, 6) --Relentless Storm
-GridStatusRaidDebuff:DebuffId(zoneid, 201960, 13, 6, 6) --Ice Bomb
-GridStatusRaidDebuff:DebuffId(zoneid, 202037, 14, 6, 6) --Frozen
+--_G.GridStatusRaidDebuff:BossNameId(zoneid, 10, "Shivermaw")
+_G.GridStatusRaidDebuff:DebuffId(zoneid, 201379, 11, 6, 6) --Frost Breath
+_G.GridStatusRaidDebuff:DebuffId(zoneid, 201672, 12, 6, 6) --Relentless Storm
+_G.GridStatusRaidDebuff:DebuffId(zoneid, 201960, 13, 6, 6) --Ice Bomb
+_G.GridStatusRaidDebuff:DebuffId(zoneid, 202037, 14, 6, 6) --Frozen
 
 
 --Blood-Princess Thal'ena
---GridStatusRaidDebuff:BossNameId(zoneid, 20, "Blood-Princess Thal'ena")
-GridStatusRaidDebuff:DebuffId(zoneid, 202779, 21, 6, 6) --Essence of the Blood Princess
-GridStatusRaidDebuff:DebuffId(zoneid, 202792, 22, 6, 6) --Frenzied Bloodthirst
+--_G.GridStatusRaidDebuff:BossNameId(zoneid, 20, "Blood-Princess Thal'ena")
+_G.GridStatusRaidDebuff:DebuffId(zoneid, 202779, 21, 6, 6) --Essence of the Blood Princess
+_G.GridStatusRaidDebuff:DebuffId(zoneid, 202792, 22, 6, 6) --Frenzied Bloodthirst
 
 
 --Festerface
---GridStatusRaidDebuff:BossNameId(zoneid, 30, "Festerface")
-GridStatusRaidDebuff:DebuffId(zoneid, 202266, 31, 6, 6) --Icky Goo
-GridStatusRaidDebuff:DebuffId(zoneid, 201753, 32, 6, 6) --Necrotic Aura
+--_G.GridStatusRaidDebuff:BossNameId(zoneid, 30, "Festerface")
+_G.GridStatusRaidDebuff:DebuffId(zoneid, 202266, 31, 6, 6) --Icky Goo
+_G.GridStatusRaidDebuff:DebuffId(zoneid, 201753, 32, 6, 6) --Necrotic Aura
 
 
 --Millificent Manastorm
---GridStatusRaidDebuff:BossNameId(zoneid, 40, "Millificent Manastorm")
-GridStatusRaidDebuff:DebuffId(zoneid, 201159, 41, 6, 6) --Delta Finger Laser X-treme
-GridStatusRaidDebuff:DebuffId(zoneid, 202310, 42, 6, 6) --Hyper Zap-o-matic Ultimate Mark III
+--_G.GridStatusRaidDebuff:BossNameId(zoneid, 40, "Millificent Manastorm")
+_G.GridStatusRaidDebuff:DebuffId(zoneid, 201159, 41, 6, 6) --Delta Finger Laser X-treme
+_G.GridStatusRaidDebuff:DebuffId(zoneid, 202310, 42, 6, 6) --Hyper Zap-o-matic Ultimate Mark III
 
 --Mindflayer Kaahrj
---GridStatusRaidDebuff:BossNameId(zoneid, 50, "Mindflayer Kaahrj")
-GridStatusRaidDebuff:DebuffId(zoneid, 201146, 51, 6, 6) --Hysteria
-GridStatusRaidDebuff:DebuffId(zoneid, 197783, 52, 6, 6) --Shadow Crash
-GridStatusRaidDebuff:DebuffId(zoneid, 201172, 53, 6, 6) --Eternal Darkness
+--_G.GridStatusRaidDebuff:BossNameId(zoneid, 50, "Mindflayer Kaahrj")
+_G.GridStatusRaidDebuff:DebuffId(zoneid, 201146, 51, 6, 6) --Hysteria
+_G.GridStatusRaidDebuff:DebuffId(zoneid, 197783, 52, 6, 6) --Shadow Crash
+_G.GridStatusRaidDebuff:DebuffId(zoneid, 201172, 53, 6, 6) --Eternal Darkness
 
 --Anub-esset
---GridStatusRaidDebuff:BossNameId(zoneid, 60, "Anub-esset")
-GridStatusRaidDebuff:DebuffId(zoneid, 202217, 61, 6, 6) --Mandible Strike
-GridStatusRaidDebuff:DebuffId(zoneid, 202341, 62, 6, 6) --Impale
+--_G.GridStatusRaidDebuff:BossNameId(zoneid, 60, "Anub-esset")
+_G.GridStatusRaidDebuff:DebuffId(zoneid, 202217, 61, 6, 6) --Mandible Strike
+_G.GridStatusRaidDebuff:DebuffId(zoneid, 202341, 62, 6, 6) --Impale
 
 --Sael-orn
---GridStatusRaidDebuff:BossNameId(zoneid, 70, "Sael-orn")
-GridStatusRaidDebuff:DebuffId(zoneid, 202306, 71, 6, 6) --Creeping Slaughter
-GridStatusRaidDebuff:DebuffId(zoneid, 202414, 72, 6, 6) --Venom Spray
-GridStatusRaidDebuff:DebuffId(zoneid, 210505, 73, 6, 6) --Toxic Blood
+--_G.GridStatusRaidDebuff:BossNameId(zoneid, 70, "Sael-orn")
+_G.GridStatusRaidDebuff:DebuffId(zoneid, 202306, 71, 6, 6) --Creeping Slaughter
+_G.GridStatusRaidDebuff:DebuffId(zoneid, 202414, 72, 6, 6) --Venom Spray
+_G.GridStatusRaidDebuff:DebuffId(zoneid, 210505, 73, 6, 6) --Toxic Blood
 
 --Fel Lord Betrug
---GridStatusRaidDebuff:BossNameId(zoneid, 80, "Fel Lord Betrug")
-GridStatusRaidDebuff:DebuffId(zoneid, 202361, 81, 6, 6) --Execution
-GridStatusRaidDebuff:DebuffId(zoneid, 210879, 82, 6, 6) --Seed of Destruction
+--_G.GridStatusRaidDebuff:BossNameId(zoneid, 80, "Fel Lord Betrug")
+_G.GridStatusRaidDebuff:DebuffId(zoneid, 202361, 81, 6, 6) --Execution
+_G.GridStatusRaidDebuff:DebuffId(zoneid, 210879, 82, 6, 6) --Seed of Destruction

@@ -5,3 +5,4 @@ ignore:
    - .gitignore
    - .gitattributes
    - .travis.yml
+   - README.md
