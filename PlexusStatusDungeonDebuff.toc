@@ -10,6 +10,7 @@
 ## Dependencies: Plexus, PlexusStatusRaidDebuff
 ## X-Curse-Project-ID: 83874
 
+#@retail@
 BC/ManaTombs.lua
 BC/TheBlackMorass.lua
 
@@ -84,3 +85,9 @@ ShadowLands/SpiresofAscension.lua
 ShadowLands/TheaterofPain.lua
 ShadowLands/TheNecroticWake.lua
 ShadowLands/TheOtherSide.lua
+#@end-retail@
+
+#@version-bcc@
+BC/ManaTombs.lua
+BC/TheBlackMorass.lua
+#@end-version-bcc@
