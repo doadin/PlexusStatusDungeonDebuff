@@ -82,6 +82,7 @@ ShadowLands/MistsofTirnaScithe.lua
 ShadowLands/Plaguefall.lua
 ShadowLands/SanguineDepths.lua
 ShadowLands/SpiresofAscension.lua
+ShadowLands/Tazavesh.lua
 ShadowLands/TheaterofPain.lua
 ShadowLands/TheNecroticWake.lua
 ShadowLands/TheOtherSide.lua
