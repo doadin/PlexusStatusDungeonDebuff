@@ -93,3 +93,12 @@ ShadowLands/TheOtherSide.lua
 BC/ManaTombs.lua
 BC/TheBlackMorass.lua
 #@end-version-bcc@
+
+#@version-wrath@
+BC/ManaTombs.lua
+BC/TheBlackMorass.lua
+Wrath/HallsofStone.lua
+Wrath/TheNexus.lua
+Wrath/UtgardeKeep.lua
+Wrath/UtgardePinnacle.lua
+#@end-version-wrath@
