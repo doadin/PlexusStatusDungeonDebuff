@@ -87,6 +87,16 @@ ShadowLands/Tazavesh.lua
 ShadowLands/TheaterofPain.lua
 ShadowLands/TheNecroticWake.lua
 ShadowLands/TheOtherSide.lua
+
+DF/Algeth'arAcademy.lua
+DF/BrackenhideHollow.lua
+DF/HallsofInfusion.lua
+DF/Neltharus.lua
+DF/RubyLifePools.lua
+DF/TheAzureVault.lua
+DF/TheNokhudOffensive.lua
+DF/UldamanLegacyofTyr.lua
+
 #@end-retail@
 
 #@version-bcc@
