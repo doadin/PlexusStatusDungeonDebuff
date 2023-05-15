@@ -17,6 +17,7 @@ GridStatusRaidDebuff:DebuffId(zoneid, 369660, 201, 5, 5, true) --tremor
 
 GridStatusRaidDebuff:BossNameId(zoneid, 300, "Sentinel Talondras")
 GridStatusRaidDebuff:DebuffId(zoneid, 372652, 301, 5, 5, true) --resonating-orb
+GridStatusRaidDebuff:DebuffId(zoneid, 372718, 302, 5, 5, true) --earthen-shards
 
 GridStatusRaidDebuff:BossNameId(zoneid, 400, "Emberon")
 GridStatusRaidDebuff:DebuffId(zoneid, 369110, 401, 5, 5, true) --unstable-embers
