@@ -11,6 +11,7 @@ _G.GridStatusRaidDebuff:DebuffId(zoneid, 226512, 1, 6, 6, true) --Sanguine Ichor
 GridStatusRaidDebuff:BossNameId(zoneid, 100, "Chargath, Bane of Scales")
 GridStatusRaidDebuff:DebuffId(zoneid, 374471, 101, 5, 5, true) --erupted-ground
 GridStatusRaidDebuff:DebuffId(zoneid, 374482, 102, 5, 5, true) --grounding-chain
+GridStatusRaidDebuff:DebuffId(zoneid, 374482, 103, 5, 5, true) --dragon-strike
 
 GridStatusRaidDebuff:BossNameId(zoneid, 200, "Forgemaster Gorek")
 GridStatusRaidDebuff:DebuffId(zoneid, 381482, 201, 5, 5, true) --forgefire
