@@ -33,6 +33,7 @@ _G.GridStatusRaidDebuff:DebuffId(zoneid, 255814, 1, 6, 6, true) --Rending Maul
 _G.GridStatusRaidDebuff:DebuffId(zoneid, 259130, 1, 6, 6, true) --Tiki Flame
 _G.GridStatusRaidDebuff:DebuffId(zoneid, 255842, 1, 6, 6, true) --Blood-Tainted Cauldron of Gold
 _G.GridStatusRaidDebuff:DebuffId(zoneid, 258723, 1, 6, 6, true) --Grotesque Pool
+_G.GridStatusRaidDebuff:DebuffId(zoneid, 255558, 1, 6, 6, true) -- Tainted Blood
 
 --M+
 _G.GridStatusRaidDebuff:DebuffId(zoneid, 240447, 1, 6, 6, true) --Quake
@@ -40,6 +41,7 @@ _G.GridStatusRaidDebuff:DebuffId(zoneid, 240559, 1, 6, 6, true, true) --Grievous
 _G.GridStatusRaidDebuff:DebuffId(zoneid, 209858, 1, 6, 6, true, true) --Necrotic Wound
 _G.GridStatusRaidDebuff:DebuffId(zoneid, 240443, 1, 6, 6, true, true) --Burst
 _G.GridStatusRaidDebuff:DebuffId(zoneid, 226512, 1, 6, 6, true) --Sanguine Ichor
+
 -- 8.3
 _G.GridStatusRaidDebuff:DebuffId(zoneid, 314411, 1, 6, 6, true) --Lingering Doubt
 _G.GridStatusRaidDebuff:DebuffId(zoneid, 314392, 1, 6, 6, true) --Vile Corruption
@@ -67,6 +69,7 @@ _G.GridStatusRaidDebuff:DebuffId(zoneid, 255421, 32, 6, 6, true) --Devour
 _G.GridStatusRaidDebuff:DebuffId(zoneid, 255371, 33, 6, 6, true) --Terrifying Visage
 _G.GridStatusRaidDebuff:DebuffId(zoneid, 257407, 34, 6, 6, true) --Pursuit
 _G.GridStatusRaidDebuff:DebuffId(zoneid, 255365, 35, 6, 6, true) --Ancient Dry Bones
+_G.GridStatusRaidDebuff:DebuffId(zoneid, 257483, 36, 6, 6, true) --Pile of Bones
 --Yazma
 _G.GridStatusRaidDebuff:BossNameId(zoneid, 40, "Yazma")
 _G.GridStatusRaidDebuff:DebuffId(zoneid, 250050, 41, 6, 6, true) --Echoes of Shadra

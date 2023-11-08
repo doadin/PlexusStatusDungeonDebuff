@@ -25,6 +25,10 @@ _G.GridStatusRaidDebuff:DebuffId(zoneid, 297257, 1, 6, 6, true)  --Electrical Ch
 _G.GridStatusRaidDebuff:DebuffId(zoneid, 293724, 1, 6, 6, true)  --Shield Generator
 _G.GridStatusRaidDebuff:DebuffId(zoneid, 294198, 1, 6, 6, true)  --Stealthy Steam Vent
 _G.GridStatusRaidDebuff:DebuffId(zoneid, 294195, 1, 6, 6, true)  --Arcing Zap
+_G.GridStatusRaidDebuff:DebuffId(zoneid, 373552, 11, 6, 6, true) --Hypnosis Bat
+_G.GridStatusRaidDebuff:DebuffId(zoneid, 373429, 11, 6, 6, true, true) --Carrion Swarm
+_G.GridStatusRaidDebuff:DebuffId(zoneid, 373391, 11, 6, 6, true) --Nightmare
+_G.GridStatusRaidDebuff:DebuffId(zoneid, 373744, 11, 6, 6, true) --Blood Siphon
 
 --M+
 _G.GridStatusRaidDebuff:DebuffId(zoneid, 240447, 1, 6, 6, true) --Quake
@@ -32,10 +36,6 @@ _G.GridStatusRaidDebuff:DebuffId(zoneid, 240559, 1, 6, 6, true, true) --Grievous
 _G.GridStatusRaidDebuff:DebuffId(zoneid, 209858, 1, 6, 6, true, true) --Necrotic Wound
 _G.GridStatusRaidDebuff:DebuffId(zoneid, 240443, 1, 6, 6, true, true) --Burst
 _G.GridStatusRaidDebuff:DebuffId(zoneid, 226512, 1, 6, 6, true) --Sanguine Ichor
-_G.GridStatusRaidDebuff:DebuffId(zoneid, 373552, 11, 6, 6) --Hypnosis Bat
-_G.GridStatusRaidDebuff:DebuffId(zoneid, 373429, 11, 6, 6, true, true) --Carrion Swarm
-_G.GridStatusRaidDebuff:DebuffId(zoneid, 373391, 11, 6, 6) --Nightmare
-_G.GridStatusRaidDebuff:DebuffId(zoneid, 373744, 11, 6, 6) --Blood Siphon
 
 -- 8.3
 _G.GridStatusRaidDebuff:DebuffId(zoneid, 314411, 1, 6, 6, true) --Lingering Doubt

@@ -4,16 +4,18 @@ local zoneid = 812
 -- zoneid, debuffID, order, icon_priority, color_priority, timer, stackable, color, default_disable, noicon
 --true, true is for stackable
 
---Whole Dungeon/Trash/Mythic Plus
+--M+
 _G.GridStatusRaidDebuff:DebuffId(zoneid, 240447, 1, 6, 6, true) --Quake
 _G.GridStatusRaidDebuff:DebuffId(zoneid, 240559, 1, 6, 6, true, true) --Grievous Wound
 _G.GridStatusRaidDebuff:DebuffId(zoneid, 209858, 1, 6, 6, true, true) --Necrotic Wound
 _G.GridStatusRaidDebuff:DebuffId(zoneid, 240443, 1, 6, 6, true, true) --Burst
 _G.GridStatusRaidDebuff:DebuffId(zoneid, 226512, 1, 6, 6, true) --Sanguine Ichor
-_G.GridStatusRaidDebuff:DebuffId(zoneid, 373552, 11, 6, 6) --Hypnosis Bat
+
+--Trash
+_G.GridStatusRaidDebuff:DebuffId(zoneid, 373552, 11, 6, 6, true) --Hypnosis Bat
 _G.GridStatusRaidDebuff:DebuffId(zoneid, 373429, 11, 6, 6, true, true) --Carrion Swarm
-_G.GridStatusRaidDebuff:DebuffId(zoneid, 373391, 11, 6, 6) --Nightmare
-_G.GridStatusRaidDebuff:DebuffId(zoneid, 373744, 11, 6, 6) --Blood Siphon
+_G.GridStatusRaidDebuff:DebuffId(zoneid, 373391, 11, 6, 6, true) --Nightmare
+_G.GridStatusRaidDebuff:DebuffId(zoneid, 373744, 11, 6, 6, true) --Blood Siphon
 
 --Shade of Medivh
 _G.GridStatusRaidDebuff:BossNameId(zoneid, 10, "Shade of Medivh")
@@ -26,7 +28,7 @@ _G.GridStatusRaidDebuff:DebuffId(zoneid, 227644, 16, 6, 6, true)  --Piercing Mis
 
 --Mana Devourer
 _G.GridStatusRaidDebuff:BossNameId(zoneid, 20, "Mana Devourer ")
-_G.GridStatusRaidDebuff:DebuffId(zoneid, 227502, 21, 6, 6) --Unstable Mana
+_G.GridStatusRaidDebuff:DebuffId(zoneid, 227502, 21, 6, 6, true) --Unstable Mana
 
 
 --Opera Hall: Wikket
@@ -55,12 +57,12 @@ _G.GridStatusRaidDebuff:DebuffId(zoneid, 227493, 71, 6, 6, true) --Mortal Strike
 
 --The Curator
 _G.GridStatusRaidDebuff:BossNameId(zoneid, 80, "The Curator")
-_G.GridStatusRaidDebuff:DebuffId(zoneid, 227279, 81, 6, 6) --Power Discharge
+_G.GridStatusRaidDebuff:DebuffId(zoneid, 227279, 81, 6, 6, true) --Power Discharge
 
 --Moroes
 _G.GridStatusRaidDebuff:BossNameId(zoneid, 90, "Moroes")
 _G.GridStatusRaidDebuff:DebuffId(zoneid, 227832, 91, 6, 6, true) --Coat Check
-_G.GridStatusRaidDebuff:DebuffId(zoneid, 227742, 92, 6, 6) --Garrote
+_G.GridStatusRaidDebuff:DebuffId(zoneid, 227742, 92, 6, 6, true) --Garrote
 
 --Viz'aduum the Watcher
 _G.GridStatusRaidDebuff:BossNameId(zoneid, 100, "Viz'aduum the Watcher")

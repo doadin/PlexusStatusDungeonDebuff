@@ -6,25 +6,25 @@ local zoneid = 283
 
 --Rom'ogg Bonecrusher
 _G.GridStatusRaidDebuff:BossNameId(zoneid, 10, "Rom'ogg Bonecrusher")
-_G.GridStatusRaidDebuff:DebuffId(zoneid, 75272, 11, 6, 6)
-_G.GridStatusRaidDebuff:DebuffId(zoneid, 75539, 12, 6, 6)
-_G.GridStatusRaidDebuff:DebuffId(zoneid, 75571, 13, 6, 6)
+_G.GridStatusRaidDebuff:DebuffId(zoneid, 75272, 11, 6, 6, true)
+_G.GridStatusRaidDebuff:DebuffId(zoneid, 75539, 12, 6, 6, true)
+_G.GridStatusRaidDebuff:DebuffId(zoneid, 75571, 13, 6, 6, true)
 --Corla, Herald of Twilight
 _G.GridStatusRaidDebuff:BossNameId(zoneid, 20, "Corla, Herald of Twilight")
-_G.GridStatusRaidDebuff:DebuffId(zoneid, 75610, 21, 6, 6)
-_G.GridStatusRaidDebuff:DebuffId(zoneid, 75823, 22, 6, 6)
+_G.GridStatusRaidDebuff:DebuffId(zoneid, 75610, 21, 6, 6, true)
+_G.GridStatusRaidDebuff:DebuffId(zoneid, 75823, 22, 6, 6, true)
 --Force Blast
 --Gravity Strike
 --Grievous Whirl
 --Karsh Steelbender
 --Beauty
 _G.GridStatusRaidDebuff:BossNameId(zoneid, 30, "Beauty")
-_G.GridStatusRaidDebuff:DebuffId(zoneid, 76028, 31, 6, 6)
+_G.GridStatusRaidDebuff:DebuffId(zoneid, 76028, 31, 6, 6, true)
 --Lava Drool
 --Little Big Flame Breath
 --Ascendant Lord Obsidius
 _G.GridStatusRaidDebuff:BossNameId(zoneid, 40, "Ascendant Lord Obsidius")
-_G.GridStatusRaidDebuff:DebuffId(zoneid, 76185, 41, 6, 6)
-_G.GridStatusRaidDebuff:DebuffId(zoneid, 76188, 42, 6, 6)
-_G.GridStatusRaidDebuff:DebuffId(zoneid, 76186, 43, 6, 6)
+_G.GridStatusRaidDebuff:DebuffId(zoneid, 76185, 41, 6, 6, true)
+_G.GridStatusRaidDebuff:DebuffId(zoneid, 76188, 42, 6, 6, true)
+_G.GridStatusRaidDebuff:DebuffId(zoneid, 76186, 43, 6, 6, true)
 --Crepuscular Veil

@@ -67,6 +67,7 @@ _G.GridStatusRaidDebuff:DebuffId(zoneid, 240559, 1, 6, 6, true, true) --Grievous
 _G.GridStatusRaidDebuff:DebuffId(zoneid, 209858, 1, 6, 6, true, true) --Necrotic Wound
 _G.GridStatusRaidDebuff:DebuffId(zoneid, 240443, 1, 6, 6, true, true) --Burst
 _G.GridStatusRaidDebuff:DebuffId(zoneid, 226512, 1, 6, 6, true) --Sanguine Ichor
+
 -- 8.3
 _G.GridStatusRaidDebuff:DebuffId(zoneid, 314411, 1, 6, 6, true) --Lingering Doubt
 _G.GridStatusRaidDebuff:DebuffId(zoneid, 314392, 1, 6, 6, true) --Vile Corruption
@@ -82,6 +83,8 @@ _G.GridStatusRaidDebuff:BossNameId(zoneid, 10, "Heartsbane Triad")
 _G.GridStatusRaidDebuff:DebuffId(zoneid, 260741, 11, 7, 7, true)  --Jagged Nettles
 _G.GridStatusRaidDebuff:DebuffId(zoneid, 260805, 12, 6, 6, true)  --Focusing Iris
 _G.GridStatusRaidDebuff:DebuffId(zoneid, 268086, 13, 7, 7, true, true) --Aura of Dread
+_G.GridStatusRaidDebuff:DebuffId(zoneid, 268125, 14, 7, 7, true, true) -- Aura of Thorns
+_G.GridStatusRaidDebuff:DebuffId(zoneid, 268080, 15, 7, 7, true, true) -- Aura of Apathy
 --Soulbound Goliath
 _G.GridStatusRaidDebuff:BossNameId(zoneid, 20, "Soulbound Goliath")
 _G.GridStatusRaidDebuff:DebuffId(zoneid, 260512, 21, 6, 6, true)  --Soul Harvest
