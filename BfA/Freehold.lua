@@ -75,4 +75,5 @@ _G.GridStatusRaidDebuff:DebuffId(zoneid, 256706, 31, 6, 6, true) --Rearm
 _G.GridStatusRaidDebuff:DebuffId(zoneid, 256552, 32, 6, 6, true) --Flailing Shark
 --Harlan Sweete
 _G.GridStatusRaidDebuff:BossNameId(zoneid, 40, "Harlan Sweete")
-_G.GridStatusRaidDebuff:DebuffId(zoneid, 257305, 42, 6, 6, true) --Cannon Barrage
+_G.GridStatusRaidDebuff:DebuffId(zoneid, 257305, 41, 6, 6, true) --Cannon Barrage
+_G.GridStatusRaidDebuff:DebuffId(zoneid, 413131, 42, 6, 6, true) --Whirling Dagger
