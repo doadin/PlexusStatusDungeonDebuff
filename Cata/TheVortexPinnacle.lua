@@ -10,6 +10,7 @@ _G.GridStatusRaidDebuff:DebuffId(zoneid, 240559, 1, 6, 6, true, true) --Grievous
 _G.GridStatusRaidDebuff:DebuffId(zoneid, 209858, 1, 6, 6, true, true) --Necrotic Wound
 _G.GridStatusRaidDebuff:DebuffId(zoneid, 240443, 1, 6, 6, true, true) --Burst
 _G.GridStatusRaidDebuff:DebuffId(zoneid, 226512, 1, 6, 6, true) --Sanguine Ichor
+_G.GridStatusRaidDebuff:DebuffId(zoneid, 409492, 1, 6, 6, true, true) --Afflicted Cry
 
 _G.GridStatusRaidDebuff:DebuffId(zoneid, 87759, 1, 6, 6, true) --Shockwave
 _G.GridStatusRaidDebuff:DebuffId(zoneid, 87930, 1, 6, 6, true) --Charge
