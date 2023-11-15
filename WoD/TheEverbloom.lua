@@ -11,6 +11,7 @@ _G.GridStatusRaidDebuff:DebuffId(zoneid, 209858, 1, 6, 6, true, true) --Necrotic
 _G.GridStatusRaidDebuff:DebuffId(zoneid, 240443, 1, 6, 6, true, true) --Burst
 _G.GridStatusRaidDebuff:DebuffId(zoneid, 226512, 1, 6, 6, true) --Sanguine Ichor
 _G.GridStatusRaidDebuff:DebuffId(zoneid, 409492, 1, 6, 6, true, true) --Afflicted Cry
+_G.GridStatusRaidDebuff:DebuffId(zoneid, 408805, 1, 6, 6, true) --Destabilize
 
 --Trash
 _G.GridStatusRaidDebuff:DebuffId(zoneid, 169823, 1, 6, 6, true) -- Bola de Fuego
@@ -35,7 +36,7 @@ _G.GridStatusRaidDebuff:DebuffId(zoneid, 164357, 12, 6, 6, true)
 _G.GridStatusRaidDebuff:DebuffId(zoneid, 169495, 13, 6, 6, true)
 _G.GridStatusRaidDebuff:DebuffId(zoneid, 164294, 14, 6, 6, true)
 _G.GridStatusRaidDebuff:DebuffId(zoneid, 164538, 15, 6, 6, true)
-_G.GridStatusRaidDebuff:DebuffId(zoneid, 164302, 15, 6, 6, true)
+_G.GridStatusRaidDebuff:DebuffId(zoneid, 164302, 16, 6, 6, true)
 
 --Ancient Protectors
 _G.GridStatusRaidDebuff:BossNameId(zoneid, 20, "Ancient Protectors")
@@ -98,5 +99,6 @@ _G.GridStatusRaidDebuff:DebuffId(zoneid, 169613, 86, 6, 6, true)
 _G.GridStatusRaidDebuff:DebuffId(zoneid, 173536, 87, 6, 6, true)
 _G.GridStatusRaidDebuff:DebuffId(zoneid, 173563, 88, 6, 6, true)
 _G.GridStatusRaidDebuff:DebuffId(zoneid, 169251, 89, 6, 6, true)
-_G.GridStatusRaidDebuff:DebuffId(zoneid, 170132, 89, 6, 6, true)
-_G.GridStatusRaidDebuff:DebuffId(zoneid, 169879, 89, 6, 6, true)
+_G.GridStatusRaidDebuff:DebuffId(zoneid, 170132, 90, 6, 6, true)
+_G.GridStatusRaidDebuff:DebuffId(zoneid, 169879, 91, 6, 6, true)
+_G.GridStatusRaidDebuff:DebuffId(zoneid, 428834, 92, 6, 6, true)

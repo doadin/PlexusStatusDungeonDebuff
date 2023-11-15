@@ -98,6 +98,7 @@ DF/RubyLifePools.lua
 DF/TheAzureVault.lua
 DF/TheNokhudOffensive.lua
 DF/UldamanLegacyofTyr.lua
+DF/DawnoftheInfinite.lua
 
 #@end-retail@
 

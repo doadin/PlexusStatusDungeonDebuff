@@ -11,6 +11,7 @@ _G.GridStatusRaidDebuff:DebuffId(zoneid, 209858, 1, 6, 6, true, true) --Necrotic
 _G.GridStatusRaidDebuff:DebuffId(zoneid, 240443, 1, 6, 6, true, true) --Burst
 _G.GridStatusRaidDebuff:DebuffId(zoneid, 226512, 1, 6, 6, true) --Sanguine Ichor
 _G.GridStatusRaidDebuff:DebuffId(zoneid, 409492, 1, 6, 6, true, true) --Afflicted Cry
+_G.GridStatusRaidDebuff:DebuffId(zoneid, 408805, 1, 6, 6, true) --Destabilize
 
 --Trash
 _G.GridStatusRaidDebuff:DebuffId(zoneid, 226512, 1, 6, 6, true) --Sanguine Ichor
@@ -21,6 +22,8 @@ _G.GridStatusRaidDebuff:DebuffId(zoneid, 200261, 1, 6, 6, true) --Bonebreaking S
 _G.GridStatusRaidDebuff:DebuffId(zoneid, 200084, 1, 6, 6, true) --Soul Blade
 _G.GridStatusRaidDebuff:DebuffId(zoneid, 204896, 1, 6, 6, true) --Drain Life
 _G.GridStatusRaidDebuff:DebuffId(zoneid, 203163, 1, 6, 6, true) --Sic Bats!
+_G.GridStatusRaidDebuff:DebuffId(zoneid, 197974, 1, 6, 6, true) --Bonecrushing Strike
+_G.GridStatusRaidDebuff:DebuffId(zoneid, 225732, 1, 6, 6, true) --Strike Down
 
 --Amalgam of Souls
 _G.GridStatusRaidDebuff:BossNameId(zoneid, 10, "Amalgam of Souls")
