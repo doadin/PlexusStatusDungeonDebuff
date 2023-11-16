@@ -47,6 +47,14 @@ _G.GridStatusRaidDebuff:DebuffId(zoneid, 414496, 1, 6, 6, true, true) -- Timelin
 _G.GridStatusRaidDebuff:DebuffId(zoneid, 414333, 1, 6, 6, true, true) -- Timeline Protection
 _G.GridStatusRaidDebuff:DebuffId(zoneid, 408177, 1, 6, 6, true, true) -- Incinerating Blightbreath
 _G.GridStatusRaidDebuff:DebuffId(zoneid, 414178, 1, 6, 6, true, true) -- Timeline Transcendence
+_G.GridStatusRaidDebuff:DebuffId(zoneid, 417030, 1, 6, 6, true, true) --Fireball
+_G.GridStatusRaidDebuff:DebuffId(zoneid, 407315, 1, 6, 6, true, true) --Embers
+_G.GridStatusRaidDebuff:DebuffId(zoneid, 412378, 1, 6, 6, true, true) --Dizzying Sands
+_G.GridStatusRaidDebuff:DebuffId(zoneid, 407205, 1, 6, 6, true, true) --Volatile Mortar
+_G.GridStatusRaidDebuff:DebuffId(zoneid, 417002, 1, 6, 6, true, true) --Consecration
+_G.GridStatusRaidDebuff:DebuffId(zoneid, 407313, 1, 6, 6, true, true) --Shrapnel
+_G.GridStatusRaidDebuff:DebuffId(zoneid, 418009, 1, 6, 6, true, true) --Serrated Arrows
+_G.GridStatusRaidDebuff:DebuffId(zoneid, 417026, 1, 6, 6, true, true) --Blizzard
 
 GridStatusRaidDebuff:BossNameId(zoneid, 100, "Chronikar")
 GridStatusRaidDebuff:DebuffId(zoneid, 413142, 101, 5, 5, true) --Eon Shatter
