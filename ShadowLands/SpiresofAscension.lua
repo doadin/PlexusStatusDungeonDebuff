@@ -25,9 +25,9 @@ _G.GridStatusRaidDebuff:DebuffId(zoneid, 323739, 1, 5, 5) --Residual Impact
 
 --Kin-Tara
 _G.GridStatusRaidDebuff:BossNameId(zoneid, 100, "Kin-Tara")
-_G.GridStatusRaidDebuff:DebuffId(zoneid, 327481, 100, 5, 5) --Dark Lance
-_G.GridStatusRaidDebuff:DebuffId(zoneid, 331251, 101, 5, 5) --Deep Connection
-_G.GridStatusRaidDebuff:DebuffId(zoneid, 324662, 102, 5, 5) --Ionized Plasma
+_G.GridStatusRaidDebuff:DebuffId(zoneid, 327481, 101, 5, 5) --Dark Lance
+_G.GridStatusRaidDebuff:DebuffId(zoneid, 331251, 102, 5, 5) --Deep Connection
+_G.GridStatusRaidDebuff:DebuffId(zoneid, 324662, 103, 5, 5) --Ionized Plasma
 
 --Ventunax
 _G.GridStatusRaidDebuff:BossNameId(zoneid, 200, "Ventunax")

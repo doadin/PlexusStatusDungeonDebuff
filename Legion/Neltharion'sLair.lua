@@ -42,7 +42,7 @@ _G.GridStatusRaidDebuff:DebuffId(zoneid, 199178, 32, 6, 6, true) -- Spiked Tongu
 _G.GridStatusRaidDebuff:DebuffId(zoneid, 205549, 33, 6, 6, true) -- Rancid Maw
 
 --Dargrul
---_G.GridStatusRaidDebuff:BossNameId(zoneid, 40, "Dargrul")
+_G.GridStatusRaidDebuff:BossNameId(zoneid, 40, "Dargrul")
 --_G.GridStatusRaidDebuff:DebuffId(zoneid, 200284, 41, 6, 6, true) --Tangled Web
 _G.GridStatusRaidDebuff:DebuffId(zoneid, 200732, 41, 6, 6, true) -- Molten Crash
 _G.GridStatusRaidDebuff:DebuffId(zoneid, 200404, 42, 6, 6, true) -- Magma Wave

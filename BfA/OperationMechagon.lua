@@ -25,10 +25,10 @@ _G.GridStatusRaidDebuff:DebuffId(zoneid, 297257, 1, 6, 6, true)  --Electrical Ch
 _G.GridStatusRaidDebuff:DebuffId(zoneid, 293724, 1, 6, 6, true)  --Shield Generator
 _G.GridStatusRaidDebuff:DebuffId(zoneid, 294198, 1, 6, 6, true)  --Stealthy Steam Vent
 _G.GridStatusRaidDebuff:DebuffId(zoneid, 294195, 1, 6, 6, true)  --Arcing Zap
-_G.GridStatusRaidDebuff:DebuffId(zoneid, 373552, 11, 6, 6, true) --Hypnosis Bat
-_G.GridStatusRaidDebuff:DebuffId(zoneid, 373429, 11, 6, 6, true, true) --Carrion Swarm
-_G.GridStatusRaidDebuff:DebuffId(zoneid, 373391, 11, 6, 6, true) --Nightmare
-_G.GridStatusRaidDebuff:DebuffId(zoneid, 373744, 11, 6, 6, true) --Blood Siphon
+_G.GridStatusRaidDebuff:DebuffId(zoneid, 373552, 1, 6, 6, true) --Hypnosis Bat
+_G.GridStatusRaidDebuff:DebuffId(zoneid, 373429, 1, 6, 6, true, true) --Carrion Swarm
+_G.GridStatusRaidDebuff:DebuffId(zoneid, 373391, 1, 6, 6, true) --Nightmare
+_G.GridStatusRaidDebuff:DebuffId(zoneid, 373744, 1, 6, 6, true) --Blood Siphon
 
 --M+
 _G.GridStatusRaidDebuff:DebuffId(zoneid, 240447, 1, 6, 6, true) --Quake

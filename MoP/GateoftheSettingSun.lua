@@ -16,8 +16,7 @@ _G.GridStatusRaidDebuff:DebuffId(zoneid, 116297, 23, 6, 6, true)
 _G.GridStatusRaidDebuff:DebuffId(zoneid, 115458, 24, 6, 6, true)
 --Commander Ri'mok
 _G.GridStatusRaidDebuff:BossNameId(zoneid, 30, "Commander Ri'mok")
---Viscous Fluid
-_G.GridStatusRaidDebuff:DebuffId(zoneid, 107120, 31, 6, 6, true)
+_G.GridStatusRaidDebuff:DebuffId(zoneid, 107120, 31, 6, 6, true) --Viscous Fluid
 --Raigonn
 _G.GridStatusRaidDebuff:BossNameId(zoneid, 40, "Raigonn")
 _G.GridStatusRaidDebuff:DebuffId(zoneid, 107275, 41, 6, 6, true)

@@ -13,32 +13,32 @@ _G.GridStatusRaidDebuff:DebuffId(zoneid, 226512, 1, 6, 6, true) --Sanguine Ichor
 _G.GridStatusRaidDebuff:DebuffId(zoneid, 409492, 1, 6, 6, true, true) --Afflicted Cry
 _G.GridStatusRaidDebuff:DebuffId(zoneid, 408805, 1, 6, 6, true) --Destabilize
 
-_G.GridStatusRaidDebuff:DebuffId(zoneid, 373552, 11, 6, 6, true) --Hypnosis Bat
-_G.GridStatusRaidDebuff:DebuffId(zoneid, 373429, 11, 6, 6, true, true) --Carrion Swarm
-_G.GridStatusRaidDebuff:DebuffId(zoneid, 373391, 11, 6, 6, true) --Nightmare
-_G.GridStatusRaidDebuff:DebuffId(zoneid, 373744, 11, 6, 6, true) --Blood Siphon
+_G.GridStatusRaidDebuff:DebuffId(zoneid, 373552, 1, 6, 6, true) --Hypnosis Bat
+_G.GridStatusRaidDebuff:DebuffId(zoneid, 373429, 1, 6, 6, true, true) --Carrion Swarm
+_G.GridStatusRaidDebuff:DebuffId(zoneid, 373391, 1, 6, 6, true) --Nightmare
+_G.GridStatusRaidDebuff:DebuffId(zoneid, 373744, 1, 6, 6, true) --Blood Siphon
 
 --Trash
 
-_G.GridStatusRaidDebuff:DebuffId(zoneid, 173149, 11, 6, 6, true) --Flaming Arrows
-_G.GridStatusRaidDebuff:DebuffId(zoneid, 168398, 11, 6, 6, true) --Rapid Fire Targeting
-_G.GridStatusRaidDebuff:DebuffId(zoneid, 178156, 11, 6, 6, true) --Acid Splash
-_G.GridStatusRaidDebuff:DebuffId(zoneid, 374295, 11, 6, 6, true) --Restoration
-_G.GridStatusRaidDebuff:DebuffId(zoneid, 164504, 11, 6, 6, true) --Intimidated
-_G.GridStatusRaidDebuff:DebuffId(zoneid, 168227, 11, 6, 6, true) --Gronn Smash
-_G.GridStatusRaidDebuff:DebuffId(zoneid, 172771, 11, 6, 6, true) --Incendiary Slug
-_G.GridStatusRaidDebuff:DebuffId(zoneid, 173489, 11, 6, 6, true) --Lava Barrage
-_G.GridStatusRaidDebuff:DebuffId(zoneid, 173324, 11, 6, 6, true) --Jagged Caltrops
-_G.GridStatusRaidDebuff:DebuffId(zoneid, 158341, 11, 6, 6, true) --Gushing Wounds
-_G.GridStatusRaidDebuff:DebuffId(zoneid, 173307, 11, 6, 6, true) --Serrated Spear
-_G.GridStatusRaidDebuff:DebuffId(zoneid, 373509, 11, 6, 6, true) --Shadow Claws
-_G.GridStatusRaidDebuff:DebuffId(zoneid, 226512, 11, 6, 6, true) --Sanguine Ichor
-_G.GridStatusRaidDebuff:DebuffId(zoneid, 173105, 11, 6, 6, true) --Whirling Chains
-_G.GridStatusRaidDebuff:DebuffId(zoneid, 167240, 11, 6, 6, true) --Leg Shot
-_G.GridStatusRaidDebuff:DebuffId(zoneid, 172963, 11, 6, 6, true) --Gatecrasher
-_G.GridStatusRaidDebuff:DebuffId(zoneid, 172889, 11, 6, 6, true) --Charging Slash
-_G.GridStatusRaidDebuff:DebuffId(zoneid, 173113, 11, 6, 6, true) --Hatchet Toss
-_G.GridStatusRaidDebuff:DebuffId(zoneid, 172636, 11, 6, 6, true) --Slippery Grease
+_G.GridStatusRaidDebuff:DebuffId(zoneid, 173149, 1, 6, 6, true) --Flaming Arrows
+_G.GridStatusRaidDebuff:DebuffId(zoneid, 168398, 1, 6, 6, true) --Rapid Fire Targeting
+_G.GridStatusRaidDebuff:DebuffId(zoneid, 178156, 1, 6, 6, true) --Acid Splash
+_G.GridStatusRaidDebuff:DebuffId(zoneid, 374295, 1, 6, 6, true) --Restoration
+_G.GridStatusRaidDebuff:DebuffId(zoneid, 164504, 1, 6, 6, true) --Intimidated
+_G.GridStatusRaidDebuff:DebuffId(zoneid, 168227, 1, 6, 6, true) --Gronn Smash
+_G.GridStatusRaidDebuff:DebuffId(zoneid, 172771, 1, 6, 6, true) --Incendiary Slug
+_G.GridStatusRaidDebuff:DebuffId(zoneid, 173489, 1, 6, 6, true) --Lava Barrage
+_G.GridStatusRaidDebuff:DebuffId(zoneid, 173324, 1, 6, 6, true) --Jagged Caltrops
+_G.GridStatusRaidDebuff:DebuffId(zoneid, 158341, 1, 6, 6, true) --Gushing Wounds
+_G.GridStatusRaidDebuff:DebuffId(zoneid, 173307, 1, 6, 6, true) --Serrated Spear
+_G.GridStatusRaidDebuff:DebuffId(zoneid, 373509, 1, 6, 6, true) --Shadow Claws
+_G.GridStatusRaidDebuff:DebuffId(zoneid, 226512, 1, 6, 6, true) --Sanguine Ichor
+_G.GridStatusRaidDebuff:DebuffId(zoneid, 173105, 1, 6, 6, true) --Whirling Chains
+_G.GridStatusRaidDebuff:DebuffId(zoneid, 167240, 1, 6, 6, true) --Leg Shot
+_G.GridStatusRaidDebuff:DebuffId(zoneid, 172963, 1, 6, 6, true) --Gatecrasher
+_G.GridStatusRaidDebuff:DebuffId(zoneid, 172889, 1, 6, 6, true) --Charging Slash
+_G.GridStatusRaidDebuff:DebuffId(zoneid, 173113, 1, 6, 6, true) --Hatchet Toss
+_G.GridStatusRaidDebuff:DebuffId(zoneid, 172636, 1, 6, 6, true) --Slippery Grease
 
 --Fleshrender Nok'gar
 _G.GridStatusRaidDebuff:BossNameId(zoneid, 10, "Fleshrender Nok'gar")

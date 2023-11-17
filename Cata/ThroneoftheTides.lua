@@ -47,4 +47,4 @@ _G.GridStatusRaidDebuff:DebuffId(zoneid, 428403, 41, 6, 6, true) -- Grimy
 _G.GridStatusRaidDebuff:DebuffId(zoneid, 428404, 42, 6, 6, true) -- Blotting Darkness
 _G.GridStatusRaidDebuff:DebuffId(zoneid, 428868, 43, 6, 6, true) -- Putrid Roar
 _G.GridStatusRaidDebuff:DebuffId(zoneid, 428407, 44, 6, 6, true) -- Blotting Barrage
-_G.GridStatusRaidDebuff:DebuffId(zoneid, 83672, 41, 5, 5, true) -- Blight of Ozumat
+_G.GridStatusRaidDebuff:DebuffId(zoneid, 83672, 45, 5, 5, true) -- Blight of Ozumat

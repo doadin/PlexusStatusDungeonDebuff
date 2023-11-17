@@ -13,10 +13,10 @@ _G.GridStatusRaidDebuff:DebuffId(zoneid, 226512, 1, 6, 6, true) --Sanguine Ichor
 _G.GridStatusRaidDebuff:DebuffId(zoneid, 409492, 1, 6, 6, true, true) --Afflicted Cry
 _G.GridStatusRaidDebuff:DebuffId(zoneid, 408805, 1, 6, 6, true) --Destabilize
 
-_G.GridStatusRaidDebuff:DebuffId(zoneid, 373552, 11, 6, 6, true) --Hypnosis Bat
-_G.GridStatusRaidDebuff:DebuffId(zoneid, 373429, 11, 6, 6, true, true) --Carrion Swarm
-_G.GridStatusRaidDebuff:DebuffId(zoneid, 373391, 11, 6, 6, true) --Nightmare
-_G.GridStatusRaidDebuff:DebuffId(zoneid, 373744, 11, 6, 6, true) --Blood Siphon
+_G.GridStatusRaidDebuff:DebuffId(zoneid, 373552, 1, 6, 6, true) --Hypnosis Bat
+_G.GridStatusRaidDebuff:DebuffId(zoneid, 373429, 1, 6, 6, true, true) --Carrion Swarm
+_G.GridStatusRaidDebuff:DebuffId(zoneid, 373391, 1, 6, 6, true) --Nightmare
+_G.GridStatusRaidDebuff:DebuffId(zoneid, 373744, 1, 6, 6, true) --Blood Siphon
 
 --Trash
 

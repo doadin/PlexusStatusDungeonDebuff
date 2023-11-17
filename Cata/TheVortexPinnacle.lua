@@ -44,8 +44,8 @@ _G.GridStatusRaidDebuff:DebuffId(zoneid, 88286, 21, 5, 5) -- Downwind of Altairu
 _G.GridStatusRaidDebuff:DebuffId(zoneid, 88282, 22, 5, 5) -- Upwind of Altairus
 _G.GridStatusRaidDebuff:DebuffId(zoneid, 413296, 23, 6, 6, true) -- Downburst
 _G.GridStatusRaidDebuff:DebuffId(zoneid, 88308, 24, 6, 6, true) -- Chilling Breath
-_G.GridStatusRaidDebuff:DebuffId(zoneid, 413331, 23, 6, 6, true) -- Biting Cold
-_G.GridStatusRaidDebuff:DebuffId(zoneid, 413275, 24, 6, 6, true) -- Cold Front
+_G.GridStatusRaidDebuff:DebuffId(zoneid, 413331, 25, 6, 6, true) -- Biting Cold
+_G.GridStatusRaidDebuff:DebuffId(zoneid, 413275, 26, 6, 6, true) -- Cold Front
 
 --Asaad, Caliph of Zephyrs
 _G.GridStatusRaidDebuff:BossNameId(zoneid, 30, "Asaad, Caliph of Zephyrs")
