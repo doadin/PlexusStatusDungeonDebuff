@@ -44,23 +44,23 @@ _G.GridStatusRaidDebuff:DebuffId(zoneid, 197484, 26, 6, 6, true) -- dark-rush
 
 --Smashspite the Hateful
 _G.GridStatusRaidDebuff:BossNameId(zoneid, 30, "Smashspite the Hateful")
-_G.GridStatusRaidDebuff:DebuffId(zoneid, 224188, 21, 6, 6, true) -- Hateful Charge*
-_G.GridStatusRaidDebuff:DebuffId(zoneid, 198079, 21, 6, 6, true) -- Hateful Gaze
-_G.GridStatusRaidDebuff:DebuffId(zoneid, 198245, 21, 6, 6, true) -- brutal-haymaker
-_G.GridStatusRaidDebuff:DebuffId(zoneid, 198073, 21, 6, 6, true) -- earthshaking-stomp
-_G.GridStatusRaidDebuff:DebuffId(zoneid, 198446, 21, 6, 6, true) -- fel-vomit
-_G.GridStatusRaidDebuff:DebuffId(zoneid, 198501, 21, 6, 6, true) -- fel-vomitus
+_G.GridStatusRaidDebuff:DebuffId(zoneid, 224188, 31, 6, 6, true) -- Hateful Charge*
+_G.GridStatusRaidDebuff:DebuffId(zoneid, 198079, 32, 6, 6, true) -- Hateful Gaze
+_G.GridStatusRaidDebuff:DebuffId(zoneid, 198245, 33, 6, 6, true) -- brutal-haymaker
+_G.GridStatusRaidDebuff:DebuffId(zoneid, 198073, 34, 6, 6, true) -- earthshaking-stomp
+_G.GridStatusRaidDebuff:DebuffId(zoneid, 198446, 35, 6, 6, true) -- fel-vomit
+_G.GridStatusRaidDebuff:DebuffId(zoneid, 198501, 36, 6, 6, true) -- fel-vomitus
 
 
 --Lord Kur'talos Ravencrest
 _G.GridStatusRaidDebuff:BossNameId(zoneid, 40, "Lord Kur'talos Ravencrest")
-_G.GridStatusRaidDebuff:DebuffId(zoneid, 201733, 21, 6, 6, true) -- Stinging Swarm*
-_G.GridStatusRaidDebuff:DebuffId(zoneid, 198820, 21, 6, 6, true) -- dark-blast
-_G.GridStatusRaidDebuff:DebuffId(zoneid, 199143, 21, 6, 6, true) -- cloud-of-hypnosis
-_G.GridStatusRaidDebuff:DebuffId(zoneid, 198635, 21, 6, 6, true) -- Unerring Shear
-_G.GridStatusRaidDebuff:DebuffId(zoneid, 199368, 21, 6, 6, true) -- Legacy of the Ravencrest
-_G.GridStatusRaidDebuff:DebuffId(zoneid, 199168, 21, 6, 6, true) -- Itchy
-_G.GridStatusRaidDebuff:DebuffId(zoneid, 202019, 21, 6, 6, true) -- Shadow Bolt Volley
+_G.GridStatusRaidDebuff:DebuffId(zoneid, 201733, 41, 6, 6, true) -- Stinging Swarm*
+_G.GridStatusRaidDebuff:DebuffId(zoneid, 198820, 42, 6, 6, true) -- dark-blast
+_G.GridStatusRaidDebuff:DebuffId(zoneid, 199143, 43, 6, 6, true) -- cloud-of-hypnosis
+_G.GridStatusRaidDebuff:DebuffId(zoneid, 198635, 44, 6, 6, true) -- Unerring Shear
+_G.GridStatusRaidDebuff:DebuffId(zoneid, 199368, 45, 6, 6, true) -- Legacy of the Ravencrest
+_G.GridStatusRaidDebuff:DebuffId(zoneid, 199168, 46, 6, 6, true) -- Itchy
+_G.GridStatusRaidDebuff:DebuffId(zoneid, 202019, 47, 6, 6, true) -- Shadow Bolt Volley
 
 --Latosius
 _G.GridStatusRaidDebuff:BossNameId(zoneid, 50, "Latosius")
