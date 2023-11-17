@@ -28,6 +28,7 @@ _G.GridStatusRaidDebuff:DebuffId(zoneid, 426849, 1, 6, 6, true) -- Cold Fusion
 _G.GridStatusRaidDebuff:DebuffId(zoneid, 165123, 1, 6, 6, true) -- Venom Burst
 _G.GridStatusRaidDebuff:DebuffId(zoneid, 426500, 1, 6, 6, true) -- Gnarled Roots
 _G.GridStatusRaidDebuff:DebuffId(zoneid, 169495, 1, 6, 6, true) -- Living Leaves
+_G.GridStatusRaidDebuff:DebuffId(zoneid, 427460, 1, 6, 6, true) --Toxic Bloom
 
 --Withrbark
 _G.GridStatusRaidDebuff:BossNameId(zoneid, 10, "Withrbark")
