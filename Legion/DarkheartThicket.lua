@@ -26,6 +26,9 @@ _G.GridStatusRaidDebuff:DebuffId(zoneid, 225568, 1, 6, 6, true) --Curse of Isola
 _G.GridStatusRaidDebuff:DebuffId(zoneid, 200684, 1, 6, 6, true) -- Nightmare Toxin          
 _G.GridStatusRaidDebuff:DebuffId(zoneid, 218759, 1, 6, 6, true) -- Corruption Pool    
 _G.GridStatusRaidDebuff:DebuffId(zoneid, 201839, 1, 6, 6, true) -- Curse of Isolation 
+_G.GridStatusRaidDebuff:DebuffId(zoneid, 201902, 1, 6, 6, true) --Scorching Shot
+_G.GridStatusRaidDebuff:DebuffId(zoneid, 200771, 1, 6, 6, true) --Propelling Charge
+_G.GridStatusRaidDebuff:DebuffId(zoneid, 200631, 1, 6, 6, true) --Unnerving Screech
 
 --Archdruid Glaidalis
 _G.GridStatusRaidDebuff:BossNameId(zoneid, 10, "Archdruid Glaidalis")
@@ -55,7 +58,8 @@ _G.GridStatusRaidDebuff:BossNameId(zoneid, 40, "Shade of Xavius")
 _G.GridStatusRaidDebuff:DebuffId(zoneid, 200289, 41, 6, 6, true) --Growing Paranoia
 _G.GridStatusRaidDebuff:DebuffId(zoneid, 200238, 42, 6, 6, true) --Feed on the Weak
 _G.GridStatusRaidDebuff:DebuffId(zoneid, 200182, 43, 6, 6, true) --Festering Rip
-_G.GridStatusRaidDebuff:DebuffId(zoneid, 200273, 43, 6, 6, true) -- Cowardice
-_G.GridStatusRaidDebuff:DebuffId(zoneid, 200243, 43, 6, 6, true) -- Waking Nightmare
-_G.GridStatusRaidDebuff:DebuffId(zoneid, 204502, 43, 6, 6, true) -- apocalyptic-nightmare
-_G.GridStatusRaidDebuff:DebuffId(zoneid, 200111, 43, 6, 6, true) -- apocalyptic-fire
+_G.GridStatusRaidDebuff:DebuffId(zoneid, 200273, 44, 6, 6, true) -- Cowardice
+_G.GridStatusRaidDebuff:DebuffId(zoneid, 200243, 45, 6, 6, true) -- Waking Nightmare
+_G.GridStatusRaidDebuff:DebuffId(zoneid, 204502, 46, 6, 6, true) -- apocalyptic-nightmare
+_G.GridStatusRaidDebuff:DebuffId(zoneid, 200111, 47, 6, 6, true) -- apocalyptic-fire
+_G.GridStatusRaidDebuff:DebuffId(zoneid, 200329, 48, 6, 6, true) --Overwhelming Terror
