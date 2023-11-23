@@ -4,6 +4,16 @@ local zoneid = 323
 -- zoneid, debuffID, order, icon_priority, color_priority, timer, stackable, color, default_disable, noicon
 --true, true is for stackable
 
+--M+
+_G.GridStatusRaidDebuff:DebuffId(zoneid, 240447, 1, 6, 6, true) --Quake
+_G.GridStatusRaidDebuff:DebuffId(zoneid, 240559, 1, 6, 6, true, true) --Grievous Wound
+_G.GridStatusRaidDebuff:DebuffId(zoneid, 209858, 1, 6, 6, true, true) --Necrotic Wound
+_G.GridStatusRaidDebuff:DebuffId(zoneid, 240443, 1, 6, 6, true, true) --Burst
+_G.GridStatusRaidDebuff:DebuffId(zoneid, 226512, 1, 6, 6, true) --Sanguine Ichor
+_G.GridStatusRaidDebuff:DebuffId(zoneid, 409492, 1, 6, 6, true, true) --Afflicted Cry
+_G.GridStatusRaidDebuff:DebuffId(zoneid, 408805, 1, 6, 6, true) --Destabilize
+_G.GridStatusRaidDebuff:DebuffId(zoneid, 408556, 1, 6, 6, true) --Entangled
+
 --Trash
 _G.GridStatusRaidDebuff:DebuffId(zoneid, 426660, 1, 6, 6, true) --Razor Jaws
 _G.GridStatusRaidDebuff:DebuffId(zoneid, 426663, 1, 6, 6, true) --Ravenous Pursuit
@@ -24,6 +34,7 @@ _G.GridStatusRaidDebuff:BossNameId(zoneid, 10, "Lady Naz'jar")
 _G.GridStatusRaidDebuff:DebuffId(zoneid, 76001, 11, 6, 6, true) -- Fungal Spores
 _G.GridStatusRaidDebuff:DebuffId(zoneid, 80564, 12, 6, 6, true) -- Fungal Spores
 _G.GridStatusRaidDebuff:DebuffId(zoneid, 428103, 13, 6, 6, true) -- Frostbolt
+_G.GridStatusRaidDebuff:DebuffId(zoneid, 429263, 14, 6, 6, true) --Shock Blast
 --Water Vortexes
 --Commander Ulthok, the Festering Prince
 _G.GridStatusRaidDebuff:BossNameId(zoneid, 20, "Commander Ulthok, the Festering Prince")
