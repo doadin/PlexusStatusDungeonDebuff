@@ -98,6 +98,7 @@ _G.GridStatusRaidDebuff:DebuffId(zoneid, 260547, 24, 6, 6, true)  --Burning Brus
 _G.GridStatusRaidDebuff:BossNameId(zoneid, 30, "Raal the Glutonous")
 _G.GridStatusRaidDebuff:DebuffId(zoneid, 264923, 31, 6, 6, true)  --Tenderize
 _G.GridStatusRaidDebuff:DebuffId(zoneid, 264694, 32, 6, 6, true)  --Rotten Expulsion
+_G.GridStatusRaidDebuff:DebuffId(zoneid, 426590, 33, 6, 6, true)--Gluttonous Bile
 --Lord and Lady Waycrest
 _G.GridStatusRaidDebuff:BossNameId(zoneid, 40, "Lord and Lady Waycrest")
 _G.GridStatusRaidDebuff:DebuffId(zoneid, 261439, 41, 6, 6, true)  --Virulent Pathogen
