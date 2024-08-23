@@ -101,6 +101,15 @@ DF/TheNokhudOffensive.lua
 DF/UldamanLegacyofTyr.lua
 DF/DawnoftheInfinite.lua
 
+TWW/AraKaraCityofEchoes.lua
+TWW/CinderbrewMeadery.lua
+TWW/CityofThreads.lua
+TWW/DarkflameCleft.lua
+TWW/PrioryoftheSacredFlame.lua
+TWW/TheDawnbreaker.lua
+TWW/TheRookery.lua
+TWW/TheStonevault.lua
+
 #@end-retail@
 
 #@version-bcc@
