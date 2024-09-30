@@ -1,6 +1,19 @@
 -- local zone = "The Stonevault"
 local zoneid = 2341
 
+--Trash
+GridStatusRaidDebuff:DebuffId(zoneid, 449455, 1, 5, 5, true) -- Howling Fear
+GridStatusRaidDebuff:DebuffId(zoneid, 429545, 1, 5, 5, true) -- Censoring gear
+GridStatusRaidDebuff:DebuffId(zoneid, 448975, 1, 5, 5, true) -- Shield Stampede
+GridStatusRaidDebuff:DebuffId(zoneid, 425027, 1, 5, 5, true) -- Seismic Wave
+GridStatusRaidDebuff:DebuffId(zoneid, 426308, 1, 5, 5, true) -- Void Infection
+GridStatusRaidDebuff:DebuffId(zoneid, 427361, 1, 5, 5, true) -- Fracture
+GridStatusRaidDebuff:DebuffId(zoneid, 428887, 1, 5, 5, true) -- Smashed
+GridStatusRaidDebuff:DebuffId(zoneid, 449154, 1, 5, 5, true) -- Molten Mortar
+GridStatusRaidDebuff:DebuffId(zoneid, 445207, 1, 5, 5, true) -- Piercing Wail
+GridStatusRaidDebuff:DebuffId(zoneid, 464879, 1, 5, 5, true) -- Concussive Smash
+GridStatusRaidDebuff:DebuffId(zoneid, 425974, 1, 5, 5, true) -- Ground Pound		
+
 GridStatusRaidDebuff:BossNameId(zoneid, 100, "E.D.N.A.")
 GridStatusRaidDebuff:DebuffId(zoneid, 424903, 101, 5, 5, true) --Volatile Spike
 GridStatusRaidDebuff:DebuffId(zoneid, 424805, 102, 5, 5, true) --Refracting Beam

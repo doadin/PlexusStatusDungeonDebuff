@@ -1,6 +1,9 @@
 -- local zone = "Priory of the Sacred Flame"
 local zoneid = 2308
 
+--Trash
+GridStatusRaidDebuff:DebuffId(zoneid, 426964, 1, 5, 5, true) --Mortal Strike
+
 GridStatusRaidDebuff:BossNameId(zoneid, 100, "Captain Dailcry")
 GridStatusRaidDebuff:DebuffId(zoneid, 447439, 101, 5, 5, true) --Savage Mauling
 GridStatusRaidDebuff:DebuffId(zoneid, 424419, 102, 5, 5, true) --Battle Cry

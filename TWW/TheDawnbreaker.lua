@@ -1,6 +1,19 @@
 -- local zone = "The Dawnbreaker"
 local zoneid = 2359
 
+--Trash
+GridStatusRaidDebuff:DebuffId(zoneid, 451115, 1, 5, 5, true) -- Terrifying Slam
+GridStatusRaidDebuff:DebuffId(zoneid, 432448, 1, 5, 5, true) -- Stygian Seed
+GridStatusRaidDebuff:DebuffId(zoneid, 451107, 1, 5, 5, true) -- Bursting Cocoon
+GridStatusRaidDebuff:DebuffId(zoneid, 451098, 1, 5, 5, true) -- Tacky Nova
+GridStatusRaidDebuff:DebuffId(zoneid, 431309, 1, 5, 5, true) -- Ensnaring Shadows
+GridStatusRaidDebuff:DebuffId(zoneid, 431350, 1, 5, 5, true) -- Tormenting Eruption
+GridStatusRaidDebuff:DebuffId(zoneid, 431365, 1, 5, 5, true) -- Tormenting Ray
+GridStatusRaidDebuff:DebuffId(zoneid, 431491, 1, 5, 5, true) -- Tainted Slash
+GridStatusRaidDebuff:DebuffId(zoneid, 451119, 1, 5, 5, true) -- Abyssal Blast
+GridStatusRaidDebuff:DebuffId(zoneid, 453345, 1, 5, 5, true) -- Abyssal Rot
+GridStatusRaidDebuff:DebuffId(zoneid, 449332, 1, 5, 5, true) -- Encroaching Shadows
+
 GridStatusRaidDebuff:BossNameId(zoneid, 100, "Speaker Shadowcrown")
 GridStatusRaidDebuff:DebuffId(zoneid, 451026, 101, 5, 5, true) --Darkness Comes
 GridStatusRaidDebuff:DebuffId(zoneid, 449042, 102, 5, 5, true) --Radiant Light

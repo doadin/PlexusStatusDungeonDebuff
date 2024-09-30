@@ -1,5 +1,16 @@
 -- local zone = "Ara-Kara, City of Echoes"
 local zoneid = 2357
+
+--Trash
+GridStatusRaidDebuff:DebuffId(zoneid, 433843, 1, 5, 5, true) -- Erupting Webs
+GridStatusRaidDebuff:DebuffId(zoneid, 434252, 1, 5, 5, true) -- Massive Slam
+GridStatusRaidDebuff:DebuffId(zoneid, 448248, 1, 5, 5, true) -- Revolting Volley
+GridStatusRaidDebuff:DebuffId(zoneid, 433841, 1, 5, 5, true) -- Venom Volley
+GridStatusRaidDebuff:DebuffId(zoneid, 436322, 1, 5, 5, true) -- Poisen Bolt
+GridStatusRaidDebuff:DebuffId(zoneid, 436401, 1, 5, 5, true) -- AUGH!
+GridStatusRaidDebuff:DebuffId(zoneid, 438599, 1, 5, 5, true) -- Bleeding Jab
+GridStatusRaidDebuff:DebuffId(zoneid, 438825, 1, 5, 5, true) -- Poisonous Cloud
+
 GridStatusRaidDebuff:BossNameId(zoneid, 100, "Avanoxx")
 GridStatusRaidDebuff:DebuffId(zoneid, 446788, 101, 5, 5, true) --Insatiable
 GridStatusRaidDebuff:DebuffId(zoneid, 438476, 102, 5, 5, true) --Alerting Shrill
