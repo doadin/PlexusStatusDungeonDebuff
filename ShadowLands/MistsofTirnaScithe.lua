@@ -5,28 +5,29 @@ local zoneid = 1669
 --true, true is for stackable
 
 --M+
-_G.GridStatusRaidDebuff:DebuffId(zoneid, 240447, 1, 6, 6, true) --Quake
-_G.GridStatusRaidDebuff:DebuffId(zoneid, 240559, 1, 6, 6, true, true) --Grievous Wound
-_G.GridStatusRaidDebuff:DebuffId(zoneid, 209858, 1, 6, 6, true, true) --Necrotic Wound
-_G.GridStatusRaidDebuff:DebuffId(zoneid, 240443, 1, 6, 6, true, true) --Burst
-_G.GridStatusRaidDebuff:DebuffId(zoneid, 226512, 1, 6, 6, true) --Sanguine Ichor
-_G.GridStatusRaidDebuff:DebuffId(zoneid, 409492, 1, 6, 6, true, true) --Afflicted Cry
-_G.GridStatusRaidDebuff:DebuffId(zoneid, 408805, 1, 6, 6, true) --Destabilize
-_G.GridStatusRaidDebuff:DebuffId(zoneid, 408556, 1, 6, 6, true) --Entangled
+GridStatusRaidDebuff:DebuffId(zoneid, 240447, 1, 6, 6, true) --Quake
+GridStatusRaidDebuff:DebuffId(zoneid, 240559, 1, 6, 6, true, true) --Grievous Wound
+GridStatusRaidDebuff:DebuffId(zoneid, 209858, 1, 6, 6, true, true) --Necrotic Wound
+GridStatusRaidDebuff:DebuffId(zoneid, 240443, 1, 6, 6, true, true) --Burst
+GridStatusRaidDebuff:DebuffId(zoneid, 226512, 1, 6, 6, true) --Sanguine Ichor
+GridStatusRaidDebuff:DebuffId(zoneid, 409492, 1, 6, 6, true, true) --Afflicted Cry
+GridStatusRaidDebuff:DebuffId(zoneid, 408805, 1, 6, 6, true) --Destabilize
+GridStatusRaidDebuff:DebuffId(zoneid, 408556, 1, 6, 6, true) --Entangled
+GridStatusRaidDebuff:DebuffId(zoneid, 440313, 1, 6, 6, true) --Void Rift
 
 --Ingra Maloch
-_G.GridStatusRaidDebuff:BossNameId(zoneid, 100, "Ingra Maloch")
-_G.GridStatusRaidDebuff:DebuffId(zoneid, 323146, 101, 5, 5) --Death Shroud
-_G.GridStatusRaidDebuff:DebuffId(zoneid, 328756, 102, 5, 5) --Repulsive Visage
-_G.GridStatusRaidDebuff:DebuffId(zoneid, 323250, 103, 5, 5) --Anima Puddle
+GridStatusRaidDebuff:BossNameId(zoneid, 100, "Ingra Maloch")
+GridStatusRaidDebuff:DebuffId(zoneid, 323146, 101, 5, 5) --Death Shroud
+GridStatusRaidDebuff:DebuffId(zoneid, 328756, 102, 5, 5) --Repulsive Visage
+GridStatusRaidDebuff:DebuffId(zoneid, 323250, 103, 5, 5) --Anima Puddle
 
 --Mistcaller
-_G.GridStatusRaidDebuff:BossNameId(zoneid, 200, "Mistcaller")
-_G.GridStatusRaidDebuff:DebuffId(zoneid, 321891, 201, 4, 4) --Freeze Tag Fixation
-_G.GridStatusRaidDebuff:DebuffId(zoneid, 321893, 202, 5, 5) --Freezing Burst
+GridStatusRaidDebuff:BossNameId(zoneid, 200, "Mistcaller")
+GridStatusRaidDebuff:DebuffId(zoneid, 321891, 201, 4, 4) --Freeze Tag Fixation
+GridStatusRaidDebuff:DebuffId(zoneid, 321893, 202, 5, 5) --Freezing Burst
 
 --Tred'ova
-_G.GridStatusRaidDebuff:BossNameId(zoneid, 300, "Tred'ova")
-_G.GridStatusRaidDebuff:DebuffId(zoneid, 322563, 301, 5, 5) --Marked Prey
-_G.GridStatusRaidDebuff:DebuffId(zoneid, 322648, 302, 5, 5) --Mind Link
-_G.GridStatusRaidDebuff:DebuffId(zoneid, 326309, 303, 5, 5) --Decomposing Acid
+GridStatusRaidDebuff:BossNameId(zoneid, 300, "Tred'ova")
+GridStatusRaidDebuff:DebuffId(zoneid, 322563, 301, 5, 5) --Marked Prey
+GridStatusRaidDebuff:DebuffId(zoneid, 322648, 302, 5, 5) --Mind Link
+GridStatusRaidDebuff:DebuffId(zoneid, 326309, 303, 5, 5) --Decomposing Acid

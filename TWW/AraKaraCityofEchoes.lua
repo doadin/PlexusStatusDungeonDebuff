@@ -11,6 +11,17 @@ GridStatusRaidDebuff:DebuffId(zoneid, 436401, 1, 5, 5, true) -- AUGH!
 GridStatusRaidDebuff:DebuffId(zoneid, 438599, 1, 5, 5, true) -- Bleeding Jab
 GridStatusRaidDebuff:DebuffId(zoneid, 438825, 1, 5, 5, true) -- Poisonous Cloud
 
+--M+
+GridStatusRaidDebuff:DebuffId(zoneid, 240447, 1, 6, 6, true) --Quake
+GridStatusRaidDebuff:DebuffId(zoneid, 240559, 1, 6, 6, true, true) --Grievous Wound
+GridStatusRaidDebuff:DebuffId(zoneid, 209858, 1, 6, 6, true, true) --Necrotic Wound
+GridStatusRaidDebuff:DebuffId(zoneid, 240443, 1, 6, 6, true, true) --Burst
+GridStatusRaidDebuff:DebuffId(zoneid, 226512, 1, 6, 6, true) --Sanguine Ichor
+GridStatusRaidDebuff:DebuffId(zoneid, 409492, 1, 6, 6, true, true) --Afflicted Cry
+GridStatusRaidDebuff:DebuffId(zoneid, 408805, 1, 6, 6, true) --Destabilize
+GridStatusRaidDebuff:DebuffId(zoneid, 408556, 1, 6, 6, true) --Entangled
+GridStatusRaidDebuff:DebuffId(zoneid, 440313, 1, 6, 6, true) --Void Rift
+
 GridStatusRaidDebuff:BossNameId(zoneid, 100, "Avanoxx")
 GridStatusRaidDebuff:DebuffId(zoneid, 446788, 101, 5, 5, true) --Insatiable
 GridStatusRaidDebuff:DebuffId(zoneid, 438476, 102, 5, 5, true) --Alerting Shrill

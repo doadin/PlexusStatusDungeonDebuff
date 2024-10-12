@@ -12,7 +12,18 @@ GridStatusRaidDebuff:DebuffId(zoneid, 428887, 1, 5, 5, true) -- Smashed
 GridStatusRaidDebuff:DebuffId(zoneid, 449154, 1, 5, 5, true) -- Molten Mortar
 GridStatusRaidDebuff:DebuffId(zoneid, 445207, 1, 5, 5, true) -- Piercing Wail
 GridStatusRaidDebuff:DebuffId(zoneid, 464879, 1, 5, 5, true) -- Concussive Smash
-GridStatusRaidDebuff:DebuffId(zoneid, 425974, 1, 5, 5, true) -- Ground Pound		
+GridStatusRaidDebuff:DebuffId(zoneid, 425974, 1, 5, 5, true) -- Ground Pound	
+
+--M+
+GridStatusRaidDebuff:DebuffId(zoneid, 240447, 1, 6, 6, true) --Quake
+GridStatusRaidDebuff:DebuffId(zoneid, 240559, 1, 6, 6, true, true) --Grievous Wound
+GridStatusRaidDebuff:DebuffId(zoneid, 209858, 1, 6, 6, true, true) --Necrotic Wound
+GridStatusRaidDebuff:DebuffId(zoneid, 240443, 1, 6, 6, true, true) --Burst
+GridStatusRaidDebuff:DebuffId(zoneid, 226512, 1, 6, 6, true) --Sanguine Ichor
+GridStatusRaidDebuff:DebuffId(zoneid, 409492, 1, 6, 6, true, true) --Afflicted Cry
+GridStatusRaidDebuff:DebuffId(zoneid, 408805, 1, 6, 6, true) --Destabilize
+GridStatusRaidDebuff:DebuffId(zoneid, 408556, 1, 6, 6, true) --Entangled
+GridStatusRaidDebuff:DebuffId(zoneid, 440313, 1, 6, 6, true) --Void Rift
 
 GridStatusRaidDebuff:BossNameId(zoneid, 100, "E.D.N.A.")
 GridStatusRaidDebuff:DebuffId(zoneid, 424903, 101, 5, 5, true) --Volatile Spike

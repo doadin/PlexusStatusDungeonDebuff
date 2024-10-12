@@ -20,6 +20,17 @@ GridStatusRaidDebuff:DebuffId(zoneid, 445812, 1, 5, 5, true) -- Dark Barrage
 GridStatusRaidDebuff:DebuffId(zoneid, 443427, 1, 5, 5, true) -- Web Bolt
 GridStatusRaidDebuff:DebuffId(zoneid, 451309, 1, 5, 5, true) -- Eye of the Queen
 
+--M+
+GridStatusRaidDebuff:DebuffId(zoneid, 240447, 1, 6, 6, true) --Quake
+GridStatusRaidDebuff:DebuffId(zoneid, 240559, 1, 6, 6, true, true) --Grievous Wound
+GridStatusRaidDebuff:DebuffId(zoneid, 209858, 1, 6, 6, true, true) --Necrotic Wound
+GridStatusRaidDebuff:DebuffId(zoneid, 240443, 1, 6, 6, true, true) --Burst
+GridStatusRaidDebuff:DebuffId(zoneid, 226512, 1, 6, 6, true) --Sanguine Ichor
+GridStatusRaidDebuff:DebuffId(zoneid, 409492, 1, 6, 6, true, true) --Afflicted Cry
+GridStatusRaidDebuff:DebuffId(zoneid, 408805, 1, 6, 6, true) --Destabilize
+GridStatusRaidDebuff:DebuffId(zoneid, 408556, 1, 6, 6, true) --Entangled
+GridStatusRaidDebuff:DebuffId(zoneid, 440313, 1, 6, 6, true) --Void Rift
+
 GridStatusRaidDebuff:BossNameId(zoneid, 100, "Orator Krix'vizk")
 GridStatusRaidDebuff:DebuffId(zoneid, 434710, 101, 5, 5, true) --Chains of Oppression
 GridStatusRaidDebuff:DebuffId(zoneid, 434722, 102, 5, 5, true) --Subjugate
