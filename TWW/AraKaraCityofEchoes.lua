@@ -10,6 +10,7 @@ GridStatusRaidDebuff:DebuffId(zoneid, 436322, 1, 5, 5, true) -- Poisen Bolt
 GridStatusRaidDebuff:DebuffId(zoneid, 436401, 1, 5, 5, true) -- AUGH!
 GridStatusRaidDebuff:DebuffId(zoneid, 438599, 1, 5, 5, true) -- Bleeding Jab
 GridStatusRaidDebuff:DebuffId(zoneid, 438825, 1, 5, 5, true) -- Poisonous Cloud
+GridStatusRaidDebuff:DebuffId(zoneid, 433785, 1, 5, 5, true) -- Grasping Slash
 
 --M+
 GridStatusRaidDebuff:DebuffId(zoneid, 240447, 1, 6, 6, true) --Quake
