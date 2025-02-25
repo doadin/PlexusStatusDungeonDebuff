@@ -51,6 +51,7 @@ GridStatusRaidDebuff:DebuffId(zoneid, 260954, 12, 6, 6, true)  --Iron Gaze
 --Dread Captain Lockwood
 GridStatusRaidDebuff:BossNameId(zoneid, 20, "Dread Captain Lockwood")
 GridStatusRaidDebuff:DebuffId(zoneid, 273470, 21, 6, 6, true)  --Gut Shot
+GridStatusRaidDebuff:DebuffId(zoneid, 463182, 22, 6, 6, true)  --Fiery Ricochet
 --Hadal Darkfathom
 GridStatusRaidDebuff:BossNameId(zoneid, 30, "Hadal Darkfathom")
 GridStatusRaidDebuff:DebuffId(zoneid, 257882, 31, 6, 6, true)  --Break Water
