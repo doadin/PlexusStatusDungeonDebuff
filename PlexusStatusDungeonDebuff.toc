@@ -105,6 +105,7 @@ TWW/AraKaraCityofEchoes.lua
 TWW/CinderbrewMeadery.lua
 TWW/CityofThreads.lua
 TWW/DarkflameCleft.lua
+TWW/OperationFloodgate.lua
 TWW/PrioryoftheSacredFlame.lua
 TWW/TheDawnbreaker.lua
 TWW/TheRookery.lua
