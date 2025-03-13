@@ -53,6 +53,11 @@ _G.GridStatusRaidDebuff:DebuffId(zoneid, 275885, 1, 6, 6, true) --Massive Street
 _G.GridStatusRaidDebuff:DebuffId(zoneid, 280605, 1, 6, 6, true) --Brain Freeze
 _G.GridStatusRaidDebuff:DebuffId(zoneid, 269169, 1, 6, 6, true) --Jagged Hew
 _G.GridStatusRaidDebuff:DebuffId(zoneid, 275616, 1, 6, 6, true) --Azerite Smoke
+_G.GridStatusRaidDebuff:DebuffId(zoneid, 1215411, 1, 6, 6, true) --Puncture
+_G.GridStatusRaidDebuff:DebuffId(zoneid, 1214752, 1, 6, 6, true) --Brutal Charge
+_G.GridStatusRaidDebuff:DebuffId(zoneid, 1214748, 1, 6, 6, true) --Brainstorm
+_G.GridStatusRaidDebuff:DebuffId(zoneid, 1214673, 1, 6, 6, true) --Azerite Aftershock
+_G.GridStatusRaidDebuff:DebuffId(zoneid, 1213141, 1, 6, 6, true) --Heavy Slash
 
 --M+
 _G.GridStatusRaidDebuff:DebuffId(zoneid, 240447, 1, 6, 6, true) --Quake

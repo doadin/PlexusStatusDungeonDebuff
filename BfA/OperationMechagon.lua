@@ -29,6 +29,10 @@ _G.GridStatusRaidDebuff:DebuffId(zoneid, 373552, 1, 6, 6, true) --Hypnosis Bat
 _G.GridStatusRaidDebuff:DebuffId(zoneid, 373429, 1, 6, 6, true, true) --Carrion Swarm
 _G.GridStatusRaidDebuff:DebuffId(zoneid, 373391, 1, 6, 6, true) --Nightmare
 _G.GridStatusRaidDebuff:DebuffId(zoneid, 373744, 1, 6, 6, true) --Blood Siphon
+_G.GridStatusRaidDebuff:DebuffId(zoneid, 1215411, 1, 6, 6, true) --Puncture
+_G.GridStatusRaidDebuff:DebuffId(zoneid, 1217821, 1, 6, 6, true, true) --Fiery Jaws
+_G.GridStatusRaidDebuff:DebuffId(zoneid, 1216858, 1, 6, 6, true) --Void Pulsar
+_G.GridStatusRaidDebuff:DebuffId(zoneid, 1215412, 1, 6, 6, true) --Corrosive Gunk
 
 --M+
 _G.GridStatusRaidDebuff:DebuffId(zoneid, 240447, 1, 6, 6, true) --Quake
@@ -73,6 +77,7 @@ _G.GridStatusRaidDebuff:DebuffId(zoneid, 296279, 44, 5, 5, true)  --Anti-Trespas
 --Tussle Tonks
 _G.GridStatusRaidDebuff:BossNameId(zoneid, 50, "Tussle Tonks")
 _G.GridStatusRaidDebuff:DebuffId(zoneid, 282943, 51, 5, 5, true)  --Piston Smasher
+_G.GridStatusRaidDebuff:DebuffId(zoneid, 1216446, 52, 5, 5, true) --Electrical Storm
 
 --K.U.-J.O.
 _G.GridStatusRaidDebuff:BossNameId(zoneid, 60, "K.U.-J.O.")
@@ -87,5 +92,6 @@ _G.GridStatusRaidDebuff:DebuffId(zoneid, 285443, 72, 5, 5, true)  --\"Hidden\" F
 --King Mechagon
 _G.GridStatusRaidDebuff:BossNameId(zoneid, 80, "King Mechagon")
 _G.GridStatusRaidDebuff:DebuffId(zoneid, 291928, 81, 5, 5, true)  --Giga-Zap
+_G.GridStatusRaidDebuff:DebuffId(zoneid, 1226680, 82, 5, 5, true) --Cutting Beam
 
 

@@ -1,5 +1,18 @@
 -- local zone = "Cinderbrew Meadery"
 local zoneid = 2335
+
+
+-- Trash
+GridStatusRaidDebuff:DebuffId(zoneid, 437956, 1, 5, 5, true) --Erupting Inferno
+GridStatusRaidDebuff:DebuffId(zoneid, 434707, 1, 5, 5, true) --Cinderbrew Toss
+GridStatusRaidDebuff:DebuffId(zoneid, 437721, 1, 5, 5, true) --Boiling Flames
+GridStatusRaidDebuff:DebuffId(zoneid, 463220, 1, 5, 5, true) --Volatile Keg
+GridStatusRaidDebuff:DebuffId(zoneid, 442995, 1, 5, 5, true) --Swarming Surprise
+GridStatusRaidDebuff:DebuffId(zoneid, 435000, 1, 5, 5, true) --High Steaks
+GridStatusRaidDebuff:DebuffId(zoneid, 441397, 1, 5, 5, true) --Bee Venom
+GridStatusRaidDebuff:DebuffId(zoneid, 434773, 1, 5, 5, true) --Mean Mug
+GridStatusRaidDebuff:DebuffId(zoneid, 440687, 1, 5, 5, true) --Honey Volley
+
 GridStatusRaidDebuff:BossNameId(zoneid, 100, "Brew Master Aldryr")
 GridStatusRaidDebuff:DebuffId(zoneid, 442525, 101, 5, 5, true) --Happy Hour
 GridStatusRaidDebuff:DebuffId(zoneid, 442611, 102, 5, 5, true) --Disregard

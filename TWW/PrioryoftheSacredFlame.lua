@@ -3,6 +3,15 @@ local zoneid = 2308
 
 --Trash
 GridStatusRaidDebuff:DebuffId(zoneid, 426964, 1, 5, 5, true) --Mortal Strike
+GridStatusRaidDebuff:DebuffId(zoneid, 448787, 1, 5, 5, true) --Purification
+GridStatusRaidDebuff:DebuffId(zoneid, 435165, 1, 5, 5, true) --Blazing Strike
+GridStatusRaidDebuff:DebuffId(zoneid, 448492, 1, 5, 5, true) --Thunderclap
+GridStatusRaidDebuff:DebuffId(zoneid, 424430, 1, 5, 5, true) --Consecration
+GridStatusRaidDebuff:DebuffId(zoneid, 427635, 1, 5, 5, true) --Grievous Rip
+GridStatusRaidDebuff:DebuffId(zoneid, 427621, 1, 5, 5, true) --Impale
+GridStatusRaidDebuff:DebuffId(zoneid, 427473, 1, 5, 5, true) --Flamestrike
+GridStatusRaidDebuff:DebuffId(zoneid, 451764, 1, 5, 5, true) --Radiant Flame
+GridStatusRaidDebuff:DebuffId(zoneid, 453461, 1, 5, 5, true) --Caltrops
 
 GridStatusRaidDebuff:BossNameId(zoneid, 100, "Captain Dailcry")
 GridStatusRaidDebuff:DebuffId(zoneid, 447439, 101, 5, 5, true) --Savage Mauling
@@ -28,6 +37,7 @@ GridStatusRaidDebuff:DebuffId(zoneid, 423019, 203, 5, 5, true) --Castigator's De
 GridStatusRaidDebuff:DebuffId(zoneid, 423051, 204, 5, 5, true) --Burning Light
 GridStatusRaidDebuff:DebuffId(zoneid, 423062, 205, 5, 5, true) --Hammer of Purity
 GridStatusRaidDebuff:DebuffId(zoneid, 446368, 206, 5, 5, true) --Sacred Pyre
+GridStatusRaidDebuff:DebuffId(zoneid, 446403, 207, 5, 5, true, true) --Sacrificial Flame
 
 
 GridStatusRaidDebuff:BossNameId(zoneid, 300, "Prioress Murrpray")
@@ -37,4 +47,6 @@ GridStatusRaidDebuff:DebuffId(zoneid, 425544, 303, 5, 5, true) --Purifying Light
 GridStatusRaidDebuff:DebuffId(zoneid, 423539, 304, 5, 5, true) --Inner Light
 GridStatusRaidDebuff:DebuffId(zoneid, 451606, 305, 5, 5, true) --Holy Flame
 GridStatusRaidDebuff:DebuffId(zoneid, 423536, 306, 5, 5, true) --Holy Smite
+GridStatusRaidDebuff:DebuffId(zoneid, 425556, 307, 5, 5, true) --Sanctified Ground
+GridStatusRaidDebuff:DebuffId(zoneid, 428170, 308, 5, 5, true) --Blinding Light
 

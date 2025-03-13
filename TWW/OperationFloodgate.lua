@@ -1,6 +1,22 @@
 -- local zone = "Operation: Floodgate"
 local zoneid = 2387
 
+-- Trash
+GridStatusRaidDebuff:DebuffId(zoneid, 465120, 1, 5, 5, true) --Wind Up
+GridStatusRaidDebuff:DebuffId(zoneid, 469811, 1, 5, 5, true) --Backwash
+GridStatusRaidDebuff:DebuffId(zoneid, 472338, 1, 5, 5, true) --Surveyed Ground
+GridStatusRaidDebuff:DebuffId(zoneid, 468672, 1, 5, 5, true) --Pinch
+GridStatusRaidDebuff:DebuffId(zoneid, 1213803, 1, 5, 5, true) --Nailed
+GridStatusRaidDebuff:DebuffId(zoneid, 1216858, 1, 5, 5, true) --Void Pulsar
+GridStatusRaidDebuff:DebuffId(zoneid, 468680, 1, 5, 5, true) --Crabsplosion
+GridStatusRaidDebuff:DebuffId(zoneid, 474351, 1, 5, 5, true) --Shreddation Sawblade
+GridStatusRaidDebuff:DebuffId(zoneid, 465830, 1, 5, 5, true) --Warp Blood
+GridStatusRaidDebuff:DebuffId(zoneid, 469799, 1, 5, 5, true) --Overcharge
+GridStatusRaidDebuff:DebuffId(zoneid, 462737, 1, 5, 5, true) --Black Blood Wound
+GridStatusRaidDebuff:DebuffId(zoneid, 468631, 1, 5, 5, true) --Harpoon
+GridStatusRaidDebuff:DebuffId(zoneid, 474388, 1, 5, 5, true) --Flamethrower
+GridStatusRaidDebuff:DebuffId(zoneid, 462771, 1, 5, 5, true) --Surveying Beam
+
 -- "Big M.O.M.M.A."
 GridStatusRaidDebuff:BossNameId(zoneid, 100, "Big M.O.M.M.A.")
 GridStatusRaidDebuff:DebuffId(zoneid, 460156, 101, 5, 5, true) --Jumpstart

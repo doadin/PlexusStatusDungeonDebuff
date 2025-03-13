@@ -1,13 +1,21 @@
 -- local zone = "The Rookery"
 local zoneid = 2316
 
+-- Trash
+GridStatusRaidDebuff:DebuffId(zoneid, 467907, 1, 5, 5, true)  --Festering Void
+GridStatusRaidDebuff:DebuffId(zoneid, 430814, 1, 5, 5, true)  --Attracting Shadows
+GridStatusRaidDebuff:DebuffId(zoneid, 472764, 1, 5, 5, true)  --Void Extraction
+GridStatusRaidDebuff:DebuffId(zoneid, 1214523, 1, 5, 5, true) --Feasting Void
+GridStatusRaidDebuff:DebuffId(zoneid, 427616, 1, 5, 5, true)  --Energized Barrage
+
 GridStatusRaidDebuff:BossNameId(zoneid, 100, "Kyrioss")
-GridStatusRaidDebuff:DebuffId(zoneid, 424148, 101, 5, 5, true) --Chain Lightning
-GridStatusRaidDebuff:DebuffId(zoneid, 420739, 102, 5, 5, true) --Unstable Charge
-GridStatusRaidDebuff:DebuffId(zoneid, 444250, 103, 5, 5, true) --Lightning Torrent
-GridStatusRaidDebuff:DebuffId(zoneid, 419871, 104, 5, 5, true) --Lightning Dash
-GridStatusRaidDebuff:DebuffId(zoneid, 444324, 105, 5, 5, true) --Stormheart
-GridStatusRaidDebuff:DebuffId(zoneid, 444411, 106, 5, 5, true) --Thunderbolt
+GridStatusRaidDebuff:DebuffId(zoneid, 424148, 101, 5, 5, true)  --Chain Lightning
+GridStatusRaidDebuff:DebuffId(zoneid, 420739, 102, 5, 5, true)  --Unstable Charge
+GridStatusRaidDebuff:DebuffId(zoneid, 444250, 103, 5, 5, true)  --Lightning Torrent
+GridStatusRaidDebuff:DebuffId(zoneid, 419871, 104, 5, 5, true)  --Lightning Dash
+GridStatusRaidDebuff:DebuffId(zoneid, 444324, 105, 5, 5, true)  --Stormheart
+GridStatusRaidDebuff:DebuffId(zoneid, 444411, 106, 5, 5, true)  --Thunderbolt
+GridStatusRaidDebuff:DebuffId(zoneid, 1214324, 107, 5, 5, true) --Crashing Thunder
 
 
 GridStatusRaidDebuff:BossNameId(zoneid, 200, "Stormguard Gorren")
@@ -31,4 +39,6 @@ GridStatusRaidDebuff:DebuffId(zoneid, 429028, 308, 5, 5, true) --Corruption Puls
 GridStatusRaidDebuff:DebuffId(zoneid, 429487, 309, 5, 5, true) --Unleash Corruption
 GridStatusRaidDebuff:DebuffId(zoneid, 445457, 310, 5, 5, true) --Oblivion Wave
 GridStatusRaidDebuff:DebuffId(zoneid, 423393, 311, 5, 5, true) --Entropy
+GridStatusRaidDebuff:DebuffId(zoneid, 455220, 312, 5, 5, true) --Tainted Waters
+GridStatusRaidDebuff:DebuffId(zoneid, 429493, 313, 5, 5, true) --Unstable Corruption
 
