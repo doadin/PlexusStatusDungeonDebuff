@@ -17,6 +17,17 @@ GridStatusRaidDebuff:DebuffId(zoneid, 468631, 1, 5, 5, true) --Harpoon
 GridStatusRaidDebuff:DebuffId(zoneid, 474388, 1, 5, 5, true) --Flamethrower
 GridStatusRaidDebuff:DebuffId(zoneid, 462771, 1, 5, 5, true) --Surveying Beam
 
+--M+
+GridStatusRaidDebuff:DebuffId(zoneid, 240447, 1, 6, 6, true) --Quake
+GridStatusRaidDebuff:DebuffId(zoneid, 240559, 1, 6, 6, true, true) --Grievous Wound
+GridStatusRaidDebuff:DebuffId(zoneid, 209858, 1, 6, 6, true, true) --Necrotic Wound
+GridStatusRaidDebuff:DebuffId(zoneid, 240443, 1, 6, 6, true, true) --Burst
+GridStatusRaidDebuff:DebuffId(zoneid, 226512, 1, 6, 6, true) --Sanguine Ichor
+GridStatusRaidDebuff:DebuffId(zoneid, 409492, 1, 6, 6, true, true) --Afflicted Cry
+GridStatusRaidDebuff:DebuffId(zoneid, 408805, 1, 6, 6, true) --Destabilize
+GridStatusRaidDebuff:DebuffId(zoneid, 408556, 1, 6, 6, true) --Entangled
+GridStatusRaidDebuff:DebuffId(zoneid, 440313, 1, 6, 6, true) --Devouring Rift
+
 -- "Big M.O.M.M.A."
 GridStatusRaidDebuff:BossNameId(zoneid, 100, "Big M.O.M.M.A.")
 GridStatusRaidDebuff:DebuffId(zoneid, 460156, 101, 5, 5, true) --Jumpstart

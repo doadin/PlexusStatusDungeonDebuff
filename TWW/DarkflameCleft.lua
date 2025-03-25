@@ -13,6 +13,17 @@ GridStatusRaidDebuff:DebuffId(zoneid, 426295, 1, 5, 5, true) --Flaming Tether
 GridStatusRaidDebuff:DebuffId(zoneid, 428019, 1, 5, 5, true) --Flashpoint
 GridStatusRaidDebuff:DebuffId(zoneid, 426277, 1, 5, 5, true) --One-Hand Headlock
 
+--M+
+GridStatusRaidDebuff:DebuffId(zoneid, 240447, 1, 6, 6, true) --Quake
+GridStatusRaidDebuff:DebuffId(zoneid, 240559, 1, 6, 6, true, true) --Grievous Wound
+GridStatusRaidDebuff:DebuffId(zoneid, 209858, 1, 6, 6, true, true) --Necrotic Wound
+GridStatusRaidDebuff:DebuffId(zoneid, 240443, 1, 6, 6, true, true) --Burst
+GridStatusRaidDebuff:DebuffId(zoneid, 226512, 1, 6, 6, true) --Sanguine Ichor
+GridStatusRaidDebuff:DebuffId(zoneid, 409492, 1, 6, 6, true, true) --Afflicted Cry
+GridStatusRaidDebuff:DebuffId(zoneid, 408805, 1, 6, 6, true) --Destabilize
+GridStatusRaidDebuff:DebuffId(zoneid, 408556, 1, 6, 6, true) --Entangled
+GridStatusRaidDebuff:DebuffId(zoneid, 440313, 1, 6, 6, true) --Devouring Rift
+
 GridStatusRaidDebuff:BossNameId(zoneid, 100, "Ol' Waxbeard")
 GridStatusRaidDebuff:DebuffId(zoneid, 422150, 101, 5, 5, true) --Reckless Charge
 GridStatusRaidDebuff:DebuffId(zoneid, 422270, 102, 5, 5, true) --Cave-In

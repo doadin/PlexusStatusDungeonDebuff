@@ -13,6 +13,17 @@ GridStatusRaidDebuff:DebuffId(zoneid, 441397, 1, 5, 5, true) --Bee Venom
 GridStatusRaidDebuff:DebuffId(zoneid, 434773, 1, 5, 5, true) --Mean Mug
 GridStatusRaidDebuff:DebuffId(zoneid, 440687, 1, 5, 5, true) --Honey Volley
 
+--M+
+GridStatusRaidDebuff:DebuffId(zoneid, 240447, 1, 6, 6, true) --Quake
+GridStatusRaidDebuff:DebuffId(zoneid, 240559, 1, 6, 6, true, true) --Grievous Wound
+GridStatusRaidDebuff:DebuffId(zoneid, 209858, 1, 6, 6, true, true) --Necrotic Wound
+GridStatusRaidDebuff:DebuffId(zoneid, 240443, 1, 6, 6, true, true) --Burst
+GridStatusRaidDebuff:DebuffId(zoneid, 226512, 1, 6, 6, true) --Sanguine Ichor
+GridStatusRaidDebuff:DebuffId(zoneid, 409492, 1, 6, 6, true, true) --Afflicted Cry
+GridStatusRaidDebuff:DebuffId(zoneid, 408805, 1, 6, 6, true) --Destabilize
+GridStatusRaidDebuff:DebuffId(zoneid, 408556, 1, 6, 6, true) --Entangled
+GridStatusRaidDebuff:DebuffId(zoneid, 440313, 1, 6, 6, true) --Devouring Rift
+
 GridStatusRaidDebuff:BossNameId(zoneid, 100, "Brew Master Aldryr")
 GridStatusRaidDebuff:DebuffId(zoneid, 442525, 101, 5, 5, true) --Happy Hour
 GridStatusRaidDebuff:DebuffId(zoneid, 442611, 102, 5, 5, true) --Disregard
