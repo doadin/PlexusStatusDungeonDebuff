@@ -111,6 +111,7 @@ TWW/PrioryoftheSacredFlame.lua
 TWW/TheDawnbreaker.lua
 TWW/TheRookery.lua
 TWW/TheStonevault.lua
+TWW/EcoDomeAldani.lua
 
 #@end-retail@
 
