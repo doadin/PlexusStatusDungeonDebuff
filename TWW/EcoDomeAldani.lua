@@ -1,5 +1,5 @@
 -- local zone = "Ara-Kara, City of Echoes"
-local zoneid = 2357
+local zoneid = 2449
 
 --Trash
 
