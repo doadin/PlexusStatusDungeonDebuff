@@ -13,6 +13,7 @@ GridStatusRaidDebuff:DebuffId(zoneid, 431491, 1, 5, 5, true) -- Tainted Slash
 GridStatusRaidDebuff:DebuffId(zoneid, 451119, 1, 5, 5, true) -- Abyssal Blast
 GridStatusRaidDebuff:DebuffId(zoneid, 453345, 1, 5, 5, true) -- Abyssal Rot
 GridStatusRaidDebuff:DebuffId(zoneid, 449332, 1, 5, 5, true) -- Encroaching Shadows
+GridStatusRaidDebuff:DebuffId(zoneid, 1242681, 1, 6, 6, true, true) --Shadowblades
 
 --M+
 GridStatusRaidDebuff:DebuffId(zoneid, 240447, 1, 6, 6, true) --Quake
