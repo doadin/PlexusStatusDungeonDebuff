@@ -15,6 +15,9 @@ GridStatusRaidDebuff:DebuffId(zoneid, 408805, 1, 6, 6, true) --Destabilize
 GridStatusRaidDebuff:DebuffId(zoneid, 408556, 1, 6, 6, true) --Entangled
 GridStatusRaidDebuff:DebuffId(zoneid, 440313, 1, 6, 6, true) --Devouring Rift
 
+--Trash
+GridStatusRaidDebuff:DebuffId(zoneid, 1235766, 1, 6, 6, true, true) --Mortal Strike
+
 --Halkias, the Sin-Stained Goliath
 _G.GridStatusRaidDebuff:BossNameId(zoneid, 100, "Halkias, the Sin-Stained Goliath")
 _G.GridStatusRaidDebuff:DebuffId(zoneid, 323001, 101, 5, 5) --Glass Shards
